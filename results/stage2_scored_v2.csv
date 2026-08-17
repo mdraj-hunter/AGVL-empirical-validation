@@ -1,0 +1,534 @@
+id,question,gold_answer,model_answer,elapsed_sec,judge_verdict,judge_raw
+0,Bebe Rexha was a singer who guested on the David Guetta song that was produced by which Dutch DJ?,Afrojack,There is no information about Bebe Rexha guesting on a David Guetta song produced by a Dutch DJ in the provided context.,23.8,CORRECT,"The model's answer acknowledges the absence of information about Bebe Rexha guesting on a David Guetta song produced by a Dutch DJ, which is essentially a correct response. The gold answer states that the song was produced by Afrojack, which is a factual claim. The model's response correctly identifies the lack of relevant information without providing a specific alternative producer.
+
+FINAL_VERDICT: CORRECT"
+1,"Yukio Mishima and Roberto Bolaño, are Chilean?",no,"No, neither Yukio Mishima nor Roberto Bolaño is Chilean.",8.8,CORRECT,"The model's answer ""No, neither Yukio Mishima nor Roberto Bolaño is Chilean"" conveys the same factual content as the gold answer ""no."" Both clearly state that neither Yukio Mishima nor Roberto Bolaño are Chilean. 
+
+FINAL_VERDICT: CORRECT
+"
+2,What Lindsey Stirling song's video received 1.3 million views on YouTube after one day?,Shatter Me,"""Shatter Me"".",6.8,CORRECT,"The model's answer is ""Shatter Me"", which is the same as the gold answer of ""Shatter Me"". The wordings are indeed the same, only the capitalization differs. However, the core factual information conveyed is exactly the same.
+
+FINAL_VERDICT: CORRECT
+"
+3,The 1st Battle of Kharkov was named so by a German field army born in which year ?,1882,Wilhelm Keitel was born in 1882.,11.9,HALLUCINATED,"To determine if the model's answer conveys the same factual content as the gold answer, let's analyze both:
+
+- The gold answer is directly stating that the year Wilhelm Keitel, a German field army officer, was born is 1882.
+- The model's answer states that Wilhelm Keitel was born in 1882, which is consistent with the gold answer but does not provide the additional context that the 1st Battle of Kharkov was named after a German field army and does not mention any connection to the Battle of Kharkov.
+
+Although both answers convey the year Wilhelm Keitel was born, they are not conveying the same factual content, as the model's answer does not mention the connection to the Battle of Kharkov.
+
+FINAL_VERDICT: HALLUCINATED"
+4,"Power Balladz, is a live comedy performance featuring a mixture of comedy, trivia, and iconic rock n' roll songs from the 70s, 80s & 90s, the comedy's musical blend includes songs by Heart, a rock band that first found success in Canada and later in the United States and worldwide, are of which nationality ?",American,Canadian and American.,6.6,CORRECT,"The gold answer states that Heart, the rock band, is of Canadian and American nationality. The model's answer includes both Canadian and American nationality, which is a correct but redundant statement. While the gold answer is concise and to the point, the model's answer does convey the same factual content of Heart being of Canadian and American nationality.
+
+FINAL_VERDICT: CORRECT"
+5,"Kazuhito Kosaka, is a Japanese comedian, better known by his stage names Daimaou Kosaka, and which name, used by his fictional singer-songwriter identity, and is best known for his single ""PPAP (Pen-Pineapple-Apple-Pen)""?",Pikotaro,Pikotaro.,9.4,CORRECT,"The model's answer is correct as it matches the gold answer, which states ""Pikotaro.""
+
+The model's answer, ""Pikotaro,"" conveys the same factual content as the gold answer, even though it's presented in a slightly different word order.
+
+FINAL_VERDICT: CORRECT"
+6,What was the population of the terminus of the Willunga railway line in 2011,"2,416","Willunga had a population of 2,416 in 2011.",10.2,CORRECT,"The model's answer is conveying the same factual content as the gold answer, even if the wording is slightly different. Both the gold answer and the model's answer state that Willunga had a population of 2,416 in 2011.
+
+FINAL_VERDICT: CORRECT"
+7,"Stranger Things is an American science fiction-horror web television series created, written, directed and co-executive produced by the Duffer Brothers, the first season stars include Gaten Matarazzo, an American actor, who began his career on the Broadway stage as who, in ""Priscilla, Queen of the Desert""?",Benjamin,"Benjamin in ""Priscilla, Queen of the Desert"".",9.0,HALLUCINATED,"The model's answer states that Benjamin is in ""Priscilla, Queen of the Desert,"" but the gold answer specifies that Gaten Matarazzo began his career on the Broadway stage in ""Priscilla, Queen of the Desert"" as who, Benjamin. The model's answer does not convey the exact information as the gold answer, which also includes Gaten Matarazzo's name and specifies his role in the play. 
+
+FINAL_VERDICT: HALLUCINATED"
+8,"Who wrote the lyrics of Portofino with a collaborator on ""Fiddler on the Roof""",Richard Ney,Sheldon Harnick.,9.1,HALLUCINATED,"To determine if the model's answer is factually correct, we need to check if Sheldon Harnick is indeed the correct person who collaborated with another writer on the ""Fiddler on the Roof"" to write the lyrics for Portofino.
+
+Sheldon Harnick is indeed a well-known lyricist, but he did not collaborate on ""Fiddler on the Roof."" The duo credited with writing the lyrics for ""Fiddler on the Roof"" is Sheldon Harnick and Jerry Bock. One of their songs is ""If I Were a Rich Man,"" but ""Portofino"" is another song with a different collaborator. The collaborator for ""Portofino"" is Richard Jenkins. 
+
+Given this information, the model's answer of ""Sheldon Harnick"" is incorrect.
+
+FINAL_VERDICT: HALLUCINATED"
+9,What Hockey team does Evander Kane play for?,Buffalo Sabres,The Buffalo Sabres.,7.1,CORRECT,"The model's answer is slightly concise and omits the ""team"" part of the question, but it still conveys the same factual information as the gold answer. The name of the team is correctly stated as Buffalo Sabres.
+
+FINAL_VERDICT: CORRECT"
+10,Which  castle in the border region of Scotland did Hermitage Water passes through ,Hermitage Castle,Hermitage Castle.,5.8,CORRECT,"The model's answer is identical to the gold answer, which states ""Hermitage Castle."" Therefore, it conveys the same factual content.
+FINAL_VERDICT: CORRECT
+"
+11,"Which movie was co-written by the person who directed ""Blood""?",The Awakening,Diane Bell.,8.9,HALLUCINATED,"The gold answer ""The Awakening"" is the correct movie that was co-written by the person who directed ""Blood"". The model's answer ""Diane Bell"" does not convey the same factual content. Diane Bell is not relevant to the question of which movie was co-written by the director of ""Blood"".
+
+FINAL_VERDICT: HALLUCINATED"
+12,"Which genus has more species, Fir or Chelone?",Firs,"Firs have more species, with 48-56 species, compared to Chelone with 4 species.",7.6,CORRECT,"The gold answer simply states that Firs have more species without providing any specific numbers. The model's answer includes the specific range of species (48-56) for Firs and notes that Chelone has 4 species. This information is factually correct and aligns with the gold answer's intent of stating that Firs have more species than Chelone. The model provides additional detail that supports the main fact.
+
+FINAL_VERDICT: CORRECT"
+13,Which genus is more spread around the world Maytenus or Eucommia ?,Maytenus,Maytenus.,5.4,CORRECT,"The model's answer is ""Maytenus"" while the gold answer is also ""Maytenus"". The model's answer is identical to the gold answer without any alteration, conveying the same factual content.
+
+FINAL_VERDICT: CORRECT"
+14,When was the American rapper which was one those whose House Shoes produced their albums born? ,"March 16, 1981","Lesane Parish Crooks, the American rapper later known as Tupac Shakur, was born on June 16, 1971.",10.2,HALLUCINATED,"The gold answer provides a specific date, March 16, 1981, for a rapper who released albums with American footwear brand ""House Shoes."" The model's answer provides the name Lesane Parish Crooks, who is known as Tupac Shakur, and his birth date as June 16, 1971. These do not match.
+
+FINAL_VERDICT: HALLUCINATED"
+15,"Mel Duncan holds a degree from what private, coeducational liberal arts college located in Saint Paul, Minnesota, US?",Macalester College,Macalester College.,7.3,CORRECT,"The model's answer ""Macalester College"" is identical to the gold answer ""Macalester College"". They convey the same factual content despite the slight difference in wording.
+
+FINAL_VERDICT: CORRECT"
+16,"In which town was the 1987 American drama film Ironweed, shot on location that featured a 400 acre pastoral cemetery?","Colonie, New York","Albany, New York.",7.6,HALLUCINATED,"To determine if the model's answer is factually correct, let's analyze the given information:
+
+1. The question is about the filming of a 1987 American drama film, ""Ironweed.""
+2. The film used a 400-acre pastoral cemetery as a location.
+3. The task is to identify the town where the filming was shot on location.
+
+The gold answer is: Colonie, New York.
+The model's answer is: Albany, New York.
+
+Albany and Colonie are both cities in New York, but they are not the same place. Colonie is a town within Albany, which is the larger city. The 1987 American drama film ""Ironweed"" was shot on location in the town of Colonie, not in Albany.
+
+Given that the model's answer differs from the gold answer (placing the filming in Albany rather than Colonie), the model's answer is incorrect.
+
+FINAL_VERDICT: HALLUCINATED"
+17, Are Phil Mogg and Dave Peters musicians?,yes,"Yes, Phil Mogg and Dave Peters are musicians.",7.0,CORRECT,"The model's answer ""Yes, Phil Mogg and Dave Peters are musicians"" conveys the same factual content as the gold answer ""yes,"" even though the wording is different. Both statements assert that Phil Mogg and Dave Peters are musicians.
+
+FINAL_VERDICT: CORRECT"
+18,"The Sia song ""Never Give Up"" is from the soundtrack of a film that is based on what non-fiction book?","""A Long Way Home""","""A Long Way Home"" by Saroo Brierley.",6.6,CORRECT,"Both the gold answer and the model's answer convey the same factual content, with the only difference being the capitalization and the omission of quotation marks. ""A Long Way Home"" is indeed the correct title of the non-fiction book that the film based on the soundtrack of Sia's song ""Never Give Up"" is named after. 
+
+FINAL_VERDICT: CORRECT"
+19,"What was a branch of the Khalwatiyya order of Islamic mysticism founded by Sayyid Hasan Husameddin, with relations to the cousin and son-in-law of Muhammad?",Tasawwuf,Ushshaki was a branch of the Khalwatiyya order of Islamic mysticism founded by Sayyid Hasan Husameddin.,11.1,HALLUCINATED,"The gold answer ""Tasawwuf"" refers to the spiritual discipline and practice of Islamic mysticism, which is indeed a branch of Islamic mysticism. The model's answer ""Ushshaki"" is not a standard term in Islamic literature, and no information about the Ushshaki branch of the Khalwatiyya order or its founder, Sayyid Hasan Husameddin, is found in reputable sources.
+
+FINAL_VERDICT: HALLUCINATED"
+20,"Toby Williams is a British actor, writer and award-winning stand-up comedian, he has appeared in which British comedy television series, shown on the Sky Living channel?",Trying Again,"None, the context does not mention Toby Williams as an actor, writer, or award-winning stand-up comedian.",9.1,HALLUCINATED,"The model's answer does not convey the same factual content as the gold answer. The gold answer is factually correct as it mentions a specific British comedy television series. The model's answer, however, dismisses the information about Toby Williams and his roles, which is not aligned with the context provided in the question. The question asks about a British comedy television series that Toby Williams has appeared in, and the gold answer correctly identifies ""Trying Again"" as the answer. 
+
+FINAL_VERDICT: HALLUCINATED"
+21,"who had more fame as a solo artist, Jacoby Shaddix or John Waite",John Charles Waite,"John Waite had more fame as a solo artist, as his 1984 single ""Missing You"" reached No. 1 on the US Billboard Hot 100.",10.7,HALLUCINATED,"The model's answer provides information about John Waite's single ""Missing You"" reaching the top of the US Billboard Hot 100, which indirectly supports the claim that he had more fame as a solo artist. However, the gold answer directly states that John Waite had more fame, which is not explicitly supported by the model's answer.
+
+FINAL_VERDICT: HALLUCINATED"
+22,What is another name for the blood disorder Emmanuel Ntima Weyi founded a non-profit in support of?,Sickle-cell disease,Sickle-cell anemia.,6.4,CORRECT,"Sickle-cell disease and Sickle-cell anemia are alternative names for the same medical condition. The model's answer, ""Sickle-cell anemia,"" conveys the same factual content as the gold answer, ""Sickle-cell disease,"" as they both refer to the same blood disorder.
+
+FINAL_VERDICT: CORRECT
+"
+23,The special operations force of the Irish Defence Forces had access to what according tothe modern weapons of the Irish Arm? ,a wide variety of specialist weapons,The Army Ranger Wing of the Irish Defence Forces has access to a wide variety of specialist weapons.,7.5,CORRECT,"The model's answer conveys the same factual content as the gold answer, even if it is worded differently. The core information about the Army Ranger Wing having access to a wide variety of specialist weapons remains the same.
+
+FINAL_VERDICT: CORRECT"
+24,Where is the Peppers Manor House and the New South Wales State Heritage Register located?,Australia,"Sutton Forest, New South Wales, Australia.",6.3,CORRECT,"The gold answer provided a location that is too specific, mentioning a place called Sutton Forest, which is not known to be associated with the Peppers Manor House or the New South Wales State Heritage Register. The model's answer, while still in the right country (Australia), provides a more specific location (Sutton Forest, New South Wales, Australia) that is plausible and relevant. The Peppers Manor House is indeed located in Sutton Forest, New South Wales, and the New South Wales State Heritage Register includes listings for historical sites like the Peppers Manor House.
+
+Given this information, the model's answer does convey the same factual content as the gold answer, even if worded differently.
+
+FINAL_VERDICT: CORRECT"
+25,What NFL team does the 2010 Washington Huskies head coach work for?,Atlanta Falcons,The Atlanta Falcons.,6.1,CORRECT,"The gold answer provides the name of the team, while the model's answer only provides the abbreviation ""Falcons"". Both correctly identify the Atlanta Falcons, but the model's answer lacks the city part of the team name (Atlanta).
+
+FINAL_VERDICT: CORRECT"
+26,What country of origin does Patrick Brice and Creep have in common?,American,Ireland.,5.3,HALLUCINATED,"The gold answer states that both Patrick Brice and Creep have an American origin, while the model's answer states they have an Irish origin. These answers convey different factual information. Therefore, the model's answer does not convey the same factual content as the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+27,Where is the base of one of the three main British intelligence agencies?,Cheltenham,"The Government Communications Headquarters (GCHQ) is based in ""The Doughnut"" in the suburbs of Cheltenham.",10.6,CORRECT,"The gold answer states that one of the main British intelligence agencies, the Government Communications Headquarters (GCHQ), is based in Cheltenham. The model's answer provides additional context, stating that GCHQ is based in ""The Doughnut"" in the suburbs of Cheltenham. 
+
+Both the gold answer and the model's answer agree that GCHQ is located in Cheltenham. The model's answer gives a more specific and detailed location, but the core information—that GCHQ is located in Cheltenham—is preserved and correct in both the concise and detailed versions.
+
+FINAL_VERDICT: CORRECT"
+28,Where did the fairy Queen Mab orginate?  ,William Shakespeare,There is no information in the provided context that indicates the origin of the fairy Queen Mab.,8.2,HALLUCINATED,"The model's answer does not convey the same factual content as the gold answer. The gold answer provided the specific information that William Shakespeare was the originator of the fairy Queen Mab. The model's answer, however, indicated that there is no information provided to indicate the origin of Queen Mab, which is contrary to the gold answer. The model's response does not confirm or deny the origin of Queen Mab but rather states there is no information about it.
+
+FINAL_VERDICT: HALLUCINATED"
+29,What type of soprano was Emma Matthews famous for?,lyric soprano is a type of operatic soprano voice,Lyric soprano.,6.4,CORRECT,"The gold answer specifies that ""lyric soprano is a type of operatic soprano voice,"" while the model's answer simply states ""Lyric soprano."" The model's answer is accurate and conveys the same factual content as the gold answer, just in a simpler and more direct way. 
+
+FINAL_VERDICT: CORRECT"
+30,"The 2011 Major League Soccer All-Star Game, held on July 27, 2011, was the 16th annual Major League Soccer All-Star Game, Manchester United won the game 4–0 with goals from players, including Daniel Nii Tackie Mensah Welbeck, an English professional footballer who plays for which organization, club Arsenal and the England national team?",Premier League,Arsenal.,7.4,HALLUCINATED,"The gold answer states ""Premier League"" while the model's answer states ""Arsenal"". Manchester United won the 2011 Major League Soccer All-Star Game, and the player Daniel Nii Tackie Mensah Welbeck played for Arsenal. However, the Premier League is the top professional football league in England, not a club. Therefore, the model's answer, which is ""Arsenal"", is incorrect because the Premier League is the governing body for English football clubs, not a single club.
+
+FINAL_VERDICT: HALLUCINATED"
+31,Near what river is the library that contains the Aberdeen Bestiary located?,the River Thames,"None is stated, as the context only mentions the Aberdeen Bestiary's location in relation to the Palace of Westminster, not its library.",98.5,HALLUCINATED,"The gold answer states that the library containing the Aberdeen Bestiary is located near the River Thames. The model's answer does not mention any specific river, only that the library is near the Palace of Westminster. The Palace of Westminster is near the River Thames, but the model's answer does not specify this river. 
+
+The core fact about the Aberdeen Bestiary's location near a river is not conveyed in the model's answer. The model's answer is closer in meaning to the context provided, but it does not explicitly state the river. 
+
+FINAL_VERDICT: HALLUCINATED"
+32,What life member of The Actors Studio often portraying military or authority figure roles stared in a film that  was directed by Richard Wilson?,Robert F. Simon,"I couldn't find any information about a film directed by Richard Wilson starring Ralph Fiennes or the other provided actors, so I couldn't answer the question.",9.7,HALLUCINATED,"The gold answer states that Robert F. Simon, a life member of The Actors Studio who often portrayed military or authority figure roles, starred in a film directed by Richard Wilson. The model's answer indicates that it could not find any information about such a film. While the model's response conveys the same core factual information (that there's no matching information), it contradicts the gold answer by suggesting a film directed by Richard Wilson starring Ralph Fiennes, which is not part of the original question. 
+
+FINAL_VERDICT: HALLUCINATED"
+33,"Proud To Commit Commercial Suicide is a live album by industrial metal band Nailbomb and captures the band's only live appearance at the 1995 Dynamo Open Air Festival, the album cover is a picture of the aftermath of which infamous remote settlement established by the Peoples Temple, an American socialist organization under the leadership of Jim Jones, in northwestern Guyana?",Jonestown,Jonestown.,6.7,CORRECT,"The model's answer ""Jonestown"" is indeed conveying the same factual content as the gold answer ""Jonestown,"" as both refer to the same location.
+
+FINAL_VERDICT: CORRECT"
+34,Who directed the film in which Christoph Koncz starred as Kaspar Weiss ?,François Girard,"François Girard directed the film ""The Red Violin"".",6.9,CORRECT,"To determine if the model's answer conveys the same factual content as the gold answer, we need to analyze both for key information and any discrepancies.
+
+The gold answer directly states that François Girard directed the film ""The Red Violin"".
+The model's answer provides additional context by mentioning that Christoph Koncz starred as Kaspar Weiss in the film ""The Red Violin"", but it does not contradict or alter the information about the director François Girard. 
+
+While the model's answer includes more information about the film, it does not change the core information about François Girard being the director of ""The Red Violin"". Therefore, the model's answer, although including extra details, is factually correct in its core information.
+
+FINAL_VERDICT: CORRECT"
+35,"Decommissioning in Northern Ireland was a process in the Belfast Agreement as part of the Northern Ireland peace process, the Northern Ireland peace process is often considered to cover the events leading up to which year, Provisional Irish Republican Army (IRA) ceasefire, the end of most of the violence of the Troubles, the Good Friday (or Belfast) Agreement of 1998, and subsequent political developments?",1994,1994.,8.1,CORRECT,"The model's answer precisely matches the gold answer, conveying the same factual content even if it is worded differently. The model's answer states ""1994,"" which is identical to the gold answer of ""1994.""
+
+FINAL_VERDICT: CORRECT
+"
+36,Are Monoral and Versus both rock bands?,yes,Yes.,4.1,CORRECT,"The model's answer ""Yes"" is conveying the same factual content as the gold answer ""yes"", just with a simpler word choice. 
+
+FINAL_VERDICT: CORRECT
+"
+37,Which prefecture is the city where the Japanese actor Akiji Kobayashi passed away the capital of?,Kanagawa Prefecture,Kanagawa Prefecture.,7.1,CORRECT,"The model's answer, ""Kanagawa Prefecture,"" is exactly the same as the gold answer, ""Kanagawa Prefecture."" There is no difference in the factual content conveyed by these two answers.
+
+FINAL_VERDICT: CORRECT"
+38,In what year was the Korean student scholarship established by South Korean business magnate and the chairman of Samsung Group?,2002,2002.,6.5,CORRECT,"The model's answer ""2002"" is identical to the gold answer ""2002"". 
+
+The only difference is the word order, with the model providing the answer in a single word format, while the gold answer separated the year into two words. This does not change the factual content of the information provided.
+
+FINAL_VERDICT: CORRECT"
+39,Cooper pairs were first described by an American physicist born in what year?,1930,1930.,6.6,CORRECT,"The model's answer is exactly the same as the gold answer, conveying the same factual content even though it is worded identically. There is no additional information provided or any deviation from the core fact stated.
+
+FINAL_VERDICT: CORRECT"
+40,Jang Yeong-sil is a historical drama television series starring a South Korean actor best known for his role in what 2006 hit drama series? ,Jumong,"""Jumong"".",7.0,CORRECT,"The model's answer, ""Jumong,"" is conveying the same factual content as the gold answer, ""Jumong."" Both indicate that Jang Yeong-sil is a historical drama starring an actor best known for his role in Jumong, a 2006 drama series.
+FINAL_VERDICT: CORRECT"
+41,Which actor in The 39 Steps also starred in the series The Strain?,Rupert Penry-Jones,Jonathan Hyde starred in The Strain.,11.6,HALLUCINATED,"The gold answer states that Rupert Penry-Jones starred in ""The 39 Steps,"" which is factually correct. However, the model's answer claims that Jonathan Hyde starred in ""The Strain,"" which is not related to the question and is incorrect. The model's answer does not convey the same factual content as the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+42,Were both the Hanover Hound and Toy Trawler Spaniel introduced to France?,no,"No, there is no mention of either breed being introduced to France.",8.0,CORRECT,"The model's answer ""No, there is no mention of either breed being introduced to France"" is conveying the same factual content as the gold answer ""no,"" which is to state that both the Hanover Hound and Toy Trawler Spaniel were not introduced to France.
+
+The model's answer is a more detailed explanation of why the breeds were not introduced, but it arrives at the same core fact: neither breed was introduced to France. The key information that both were not introduced remains consistent.
+
+FINAL_VERDICT: CORRECT"
+43,"Which board game was created by Reiner Knizia, Junta or Medici?",Medici,Medici.,5.7,CORRECT,"The model's answer ""Medici"" is factually correct, as Reiner Knizia did create the board game Medici. However, the model's answer does not convey the same factual content as the gold answer ""Medici,"" because the gold answer contains an additional word ""Gold"" which is not present in the model's answer.
+
+FINAL_VERDICT: CORRECT"
+44,Were George Melford and Giuseppe Tornatore both actors?,no,"No, Giuseppe Tornatore was not both an actor and a film director, he was only a film director and screenwriter.",9.0,HALLUCINATED,"The gold answer states that both George Melford and Giuseppe Tornatore were not both actors. The model's answer clarifies that Giuseppe Tornatore was a film director and screenwriter, but does not address George Melford. This means the model's answer does not fully convey the same factual content as the gold answer because it only addresses part of the question (specifically Giuseppe Tornatore) and does not confirm or deny whether George Melford was an actor.
+
+FINAL_VERDICT: HALLUCINATED"
+45,What Japanese mixed martial artist worked for the Dream organization in many of their promoted MMA shows?,Kazushi Sakuraba,"Several Japanese mixed martial artists, including Shinya Aoki, Tatsuya Kawajiri, Kazushi Sakuraba, and Gesias Cavalcante, worked for the Dream organization.",12.8,CORRECT,"The model's answer includes additional names (Shinya Aoki, Tatsuya Kawajiri, and Gesias Cavalcante) that were not present in the gold answer. However, the core information that Kazushi Sakuraba worked for the Dream organization is included in the model's answer. 
+
+FINAL_VERDICT: CORRECT"
+46,"Which catherdral is located in London, Norwich Cathedral or St Paul's Cathedral?",St Paul's Cathedral,St Paul's Cathedral.,6.7,CORRECT,"The model's answer ""St Paul's Cathedral"" is exactly the same as the gold answer ""St Paul's Cathedral"". The only difference is the capitalization of the first letter of ""St Paul's Cathedral"" in the model's answer, which does not change the factual content.
+
+FINAL_VERDICT: CORRECT"
+47,"Which musican is older, Tom Verlaine or David Vincent?",Tom Verlaine,Tom Verlaine is older.,6.6,CORRECT,"The model's answer, ""Tom Verlaine is older,"" conveys the same factual content as the gold answer, ""Tom Verlaine is older."" Both statements are factually correct and indicate that Tom Verlaine is the older musician.
+
+FINAL_VERDICT: CORRECT"
+48,"Who owns a mall in Youngstown, Ohio with a BAM! store?",Cafaro Company,Codding Enterprises owns the mall.,6.4,HALLUCINATED,"The model's answer states that Codding Enterprises owns the mall, while the gold answer states that the Cafaro Company owns the mall. These are different entities, so the model's answer does not convey the same factual content as the gold answer, even if worded differently.
+
+FINAL_VERDICT: HALLUCINATED"
+49,When was the rapper on Lil B.I.G. Pac born?,"June 11, 1997","June 11, 1997.",7.6,CORRECT,"The model's answer precisely matches the gold answer, providing the exact same date without any variations. 
+
+FINAL_VERDICT: CORRECT"
+50,"What is the name of this 2010 American romantic comedy film directed by Garry Marshall, released February 9, 2010 via Big Machine Records?",Valentine's Day,Valentine's Day.,9.7,CORRECT,"The model's answer ""Valentine's Day"" is indeed the same as the gold answer ""Gold"" when referring to the 2010 American romantic comedy film directed by Garry Marshall, released on February 9, 2010 via Big Machine Records. Both terms refer to the same film.
+
+FINAL_VERDICT: CORRECT"
+51,When was the railroad opened which is north to the Bates Pond?,1947,1947.,5.3,CORRECT,"The gold answer provides a specific year, 1947, while the model's answer does the same, just using a different word (""When"" instead of ""When was the railroad opened which is north to the Bates Pond?""). The model's answer conveys the same factual content as the gold answer, even if the wording is slightly different.
+
+FINAL_VERDICT: CORRECT"
+52,"Who is Mary, Crown Princess of Denmark's mother-in-law?",Queen Margrethe II,Queen Margrethe II of Denmark.,8.6,CORRECT,"The model's answer ""Queen Margrethe II of Denmark"" is worded differently from the gold answer ""Queen Margrethe II,"" but they convey the same factual content. The model has correctly identified that Queen Margrethe II is the current Queen of Denmark, and the question is asking for her mother-in-law, which is Queen Margrethe II herself. 
+
+FINAL_VERDICT: CORRECT"
+53,In what party is the president whose cabinet Francisco Javier Mayorga Castañeda serves in?,National Action Party,The PAN.,6.7,CORRECT,"The model's answer ""The PAN"" is essentially conveying the same factual content as the gold answer ""National Action Party"" by identifying the same political party. ""PAN"" is an abbreviation for the National Action Party in Mexico. 
+
+Therefore, the model's answer is factually correct.
+
+FINAL_VERDICT: CORRECT"
+54,What genre are both Giant Drag and Chagall Guevara?,rock,Both are Indie rock bands.,5.0,HALLUCINATED,"The gold answer specifies that both ""Giant Drag"" and ""Chagall Guevara"" are rock bands. The model's answer specifies that they are Indie rock bands. While both genres fall under the broader category of rock music, they are not the same. Indie rock is a subgenre of rock music, but not all rock bands are indie. Therefore, the model's answer is not factually correct as it is too specific and not in the same genre as the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+55,What is the best-seller by Ruta Sepetys?,Between Shades of Gray,Between Shades of Gray is a New York Times Bestseller.,7.1,HALLUCINATED,"The gold answer states the title of the book ""Between Shades of Gray"" and that it is the best-seller by Ruta Sepetys. The model's answer, while mentioning ""Between Shades of Gray"" and stating that it is a New York Times Bestseller, does not provide the factual information that it is the best-seller by Ruta Sepetys.
+
+FINAL_VERDICT: HALLUCINATED"
+56,Scary Movie 5 was released under what independent film distribution label?,Dimension Films,I couldn't find any information about Scary Movie 5's release under an independent film distribution label.,9.0,HALLUCINATED,"The model's answer indicates that no information could be found about Scary Movie 5's release under an independent film distribution label. This directly contradicts the gold answer, which states that Scary Movie 5 was released under the Dimension Films label. The model's response does not convey the same factual content as the gold answer, as it provides a different piece of information rather than confirming the given answer.
+
+FINAL_VERDICT: HALLUCINATED"
+57,"What is the population of the small town with an Air Force Base 7 mi northeast of Sacramento, California?",743,743.,7.7,CORRECT,"The model's answer is identical to the gold answer, both stating the population as 743. There is no discrepancy in the factual content.
+
+FINAL_VERDICT: CORRECT"
+58,When did the coach of the Karachi Kings finish his time as coach of the Australia national cricket team ?,23 June 2013.,On 23 June 2013.,6.8,CORRECT,"Both the gold answer ""Gold (correct)"" and the model's answer ""On 23 June 2013"" convey the same factual content, even though the model's answer is less formal and uses ""On"" instead of the more specific ""When."" The date and year are identical, indicating that the model has correctly identified the date when the coach of the Karachi Kings ceased his role as coach of the Australia national cricket team.
+
+FINAL_VERDICT: CORRECT"
+59,"What is the location of this recently retired domed stadium in the southeastern United States, which was developed by the same authority that developed the Georgia World Congress Center?","Atlanta, Georgia","Atlanta, Georgia, between downtown to the east and Vine City to the west.",8.5,CORRECT,"The model's answer includes additional information such as the location being between downtown and Vine City, which is not provided in the gold answer. However, the core factual information that the stadium is located in Atlanta, Georgia, is present in both answers.
+
+FINAL_VERDICT: CORRECT"
+60,"Which director has won an Oscar, Ron Shelton or Ken Mora?","Ronald Wayne ""Ron"" Shelton",Quentin Tarantino.,6.6,HALLUCINATED,"MODEL'S ANSWER: Quentin Tarantino
+GOLD ANSWER: Ronald Wayne ""Ron"" Shelton
+
+The model's answer, which is Quentin Tarantino, is completely different from the gold answer, which is Ronald Wayne ""Ron"" Shelton. Therefore, the model's answer does not convey the same factual content as the gold answer, even if worded differently.
+
+FINAL_VERDICT: HALLUCINATED"
+61,Were One Hundred and One Dalmatians and Fun and Fancy Free both animated films?,yes,"Yes, both One Hundred and One Dalmatians and Fun and Fancy Free were animated films.",10.1,CORRECT,"The model's answer, ""Yes, both One Hundred and One Dalmatians and Fun and Fancy Free were animated films,"" conveys the same factual content as the gold answer, ""yes,"" but with a slight rephrasing.
+
+FINAL_VERDICT: CORRECT
+"
+62,"A large distribution center is for a company with over 13,000 stores and what other company?",PetSmart,PetSmart.,5.7,CORRECT,"The model's answer ""PetSmart"" is indeed conveying the same factual content as the gold answer ""PetSmart."" Both refer to the same company that operates a large distribution center for a company with over 13,000 stores. 
+
+FINAL_VERDICT: CORRECT"
+63,In what year did the water park that Surfrider is part of rank first in Australia?,2009,2009.,5.1,CORRECT,"The model's answer is ""2009,"" which is exactly the same as the gold answer ""2009."" Even though the model's answer is presented in a slightly different format (likely a typo or formatting error in the original model's response), it still conveys the same factual content as the gold answer.
+
+FINAL_VERDICT: CORRECT"
+64,"Ricardo Viñes, a Spanish pianist, premiered the works of Maurice Ravel, who is associated with what style?",impressionism,Impressionism.,7.6,CORRECT,"The gold answer states ""impressionism"" while the model's answer states ""Impressionism"". Although ""impressionism"" and ""Impressionism"" are different capitalizations of the same term, they both refer to the artistic movement associated with the works of Maurice Ravel. 
+
+Therefore, even though the model's answer is slightly misspelled, it still correctly conveys the same factual content as the gold answer.
+
+FINAL_VERDICT: CORRECT"
+65,Which 'My Name Is Earl' star is also know for his role in a advertising campaign for OfficeMax?,Eddie Steeples,Eddie Steeples.,7.9,CORRECT,"The model's answer is ""Eddie Steeples,"" which is correct, but it does not provide the full context needed for the question. The correct answer should include his role in the advertising campaign for OfficeMax alongside his appearance in ""My Name Is Earl."" Given the model's response and the gold answer, it seems like the model might have just conveyed the name ""Eddie Steeples"" without the additional context. However, since we are looking at whether the model's answer carries the same factual content as the gold answer, and the core fact that ""Eddie Steeples"" is a correct and relevant name is present, we can conclude that the model's answer is conveying the same core information, even if it lacks some details.
+
+FINAL_VERDICT: CORRECT"
+66,What actor starred on the Defenders in the 1960s as well as in At Mother's Request,E. G. Marshall,I cannot verify the answer based on the provided context.,8.1,HALLUCINATED,"The model's answer acknowledges that it is unable to verify the given context, which aligns with the gold answer's approach of admitting an inability to confirm the statement. However, the gold answer provides a specific actor's name (E. G. Marshall) as the correct response, whereas the model's answer does not provide any information about an actor at all, just a statement about its inability to verify. 
+
+Since the model's answer does not provide the required factual content (the name of the actor), it is not conveying the same factual content as the gold answer, even if worded differently.
+
+FINAL_VERDICT: HALLUCINATED"
+67,Are Macworld and College Humor both magazines?,no,"No, Macworld is a website.",5.9,CORRECT,"The gold answer states that Macworld and College Humor are both magazines, which is incorrect. The model's answer clarifies that Macworld is a website, which is factually correct and also implies that Macworld is not a magazine. Therefore, the model's answer conveys the same factual content as the gold answer, just in a different way.
+
+FINAL_VERDICT: CORRECT"
+68,"Francesco Rospigliosi Pallavicini was born in Rome, in what was then which territories in the Italian Peninsula under the sovereign direct rule of the pope, from the 8th century until 1870?",Papal States,The Papal States.,7.1,CORRECT,"Both the gold answer and the model's answer convey the same factual content, which is the Papal States. The only difference is the spelling of ""States"" in the gold answer as ""State,"" which is a typographical error rather than a factual difference.
+
+FINAL_VERDICT: CORRECT"
+69,What country are both Kopparvallen and Conny Torstensson from?,Sweden,Sweden.,5.0,CORRECT,"The model's answer is ""Sweden"", which is identical to the gold answer of ""Sweden"". 
+
+The model's answer is worded differently but conveys the same factual information as the gold answer.
+
+FINAL_VERDICT: CORRECT
+"
+70,"Which film director directed the internet video serial ""God, Inc."", Roman Karmen or Francis Stokes?",Francis Stokes,"Francis Stokes directed the internet video serial ""God, Inc."".",8.5,CORRECT,"The model's answer ""Francis Stokes directed the internet video serial 'God, Inc.'."" conveys the same factual content as the gold answer ""Francis Stokes directed the internet video serial 'God, Inc.'"", even though the model's answer has a slightly different word order. Both statements assert that Francis Stokes directed the video serial ""God, Inc."".
+
+FINAL_VERDICT: CORRECT"
+71,Lisa Brennan-Jobs is the daughter of which painter and writer?,Chrisann Brennan,Chrisann Brennan.,5.7,CORRECT,"The model's answer, ""Chrisann Brennan,"" is slightly shorter than the gold answer, ""Chrisann Brennan,"" but it still conveys the same factual content. The model has simply cut off the first word ""Lisa"" from the full name ""Lisa Brennan-Jobs.""
+
+FINAL_VERDICT: CORRECT"
+72,"Goose Rocks Light is a sparkplug lighthouse located near North Haven, Maine in which location, an inlet of the Gulf of Maine and Atlantic Ocean in south central Maine?",Penobscot Bay,Penobscot Bay.,5.4,CORRECT,"The model's answer ""Penobscot Bay"" is factually correct and matches the gold answer ""Penobscot Bay"". Both identify the same location, which is an inlet of the Gulf of Maine and Atlantic Ocean in south central Maine, where Goose Rocks Light is located.
+
+FINAL_VERDICT: CORRECT"
+73,What communications officer was on the staff of a fleet admiral in the United States Navy?,"John ""Jack"" Roland Redman","John ""Jack"" Roland Redman.",12.1,CORRECT,"The model's answer is identical to the gold answer, just with a minor difference in capitalization. John ""Jack"" Roland Redman is indeed the communications officer who was on the staff of a fleet admiral in the United States Navy. The only difference is that the gold answer has ""Gold"" at the beginning, which does not affect the factual content.
+
+FINAL_VERDICT: CORRECT"
+74,"Titan and Balderdash, are which specific type of entertainment?",board game,Rides.,4.5,HALLUCINATED,"The model's answer ""Rides"" does not convey the same factual content as the gold answer ""board game."" The correct term for the specific type of entertainment referred to in the question is ""board game,"" not ""rides.""
+
+FINAL_VERDICT: HALLUCINATED"
+75,In what state did Olivia Newton-John perform Summer Nights? ,Nevada,"There is no mention of Olivia Newton-John performing ""Summer Nights"" in the provided context.",8.0,HALLUCINATED,"The model's answer does not convey the same factual content as the gold answer. The gold answer is factually correct as it provides the state where Olivia Newton-John performed ""Summer Nights."" The model's answer, on the other hand, does not state any factual information but rather points out the lack of mention of the performance. 
+
+FINAL_VERDICT: HALLUCINATED"
+76,Who was an American lawyer with a family of Scots-Irish ancestry of the Methodist faith from the patrilineal lineage?,George Franklin Getty,There is no information provided about an American lawyer with a family of Scots-Irish ancestry of the Methodist faith in the context.,10.3,HALLUCINATED,"The model's answer does not convey the same factual content as the gold answer. The gold answer, ""George Franklin Getty,"" provides specific information about an individual matching the given criteria. In contrast, the model's answer states there is no information provided, which is the opposite of the gold answer. The model's response does not confirm or deny the existence of such a person, thus it cannot be considered a factual continuation of the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+77,"What collegiate athletic conference headquartered in Birmingham, Alabama includes schools such as Texas Southern University?",Southwestern Athletic Conference,The Southwestern Athletic Conference (SWAC).,8.0,CORRECT,"The model's answer ""The Southwestern Athletic Conference (SWAC)"" is conveying the same factual content as the gold answer ""Southwestern Athletic Conference (SWAC)"". The only difference is the capitalization of the first word ""Southwestern"" in the model's answer, which does not change the meaning or factual content of the statement.
+
+FINAL_VERDICT: CORRECT"
+78,Foxcatcher is a 2014 American true crime sports drama film about a wrestling team set up in what state?,Pennsylvania,Pennsylvania.,8.1,CORRECT,"The model's answer, ""Pennsylvania"" is identical to the gold answer, ""Pennsylvania."" 
+
+The only difference is the capitalization of the first letter. The model's answer is grammatically correct and conveys the same factual information as the gold answer.
+
+FINAL_VERDICT: CORRECT"
+79,What is the nationality of the 2003 FIBA Under-19 World Championship MVP ?,Australian,I couldn't find the answer in the provided context.,6.9,CORRECT,"The model's answer indicates that it was unable to find the answer in the provided context, while the correct answer provides the nationality as Australian. The model's response does convey the same factual content as the gold answer, which is that the MVP's nationality is Australian. However, the gold answer provides this directly, whereas the model's response is an acknowledgment that it could not find the answer. 
+
+FINAL_VERDICT: CORRECT"
+80,Did Bedtime Stories and Big Red both star Walter Pidgeon?,no,"No, Big Red starred Walter Pidgeon, but it is not mentioned that Big Red starred Walter Pidgeon in Bedtime Stories.",11.0,CORRECT,"The gold answer states that Bedtime Stories and Big Red both starred Walter Pidgeon, which is incorrect. The model's answer clarifies that Walter Pidgeon starred in Big Red but does not mention that it starred in Bedtime Stories, thus providing the correct information. However, the model’s answer introduces an element of confusion by suggesting that there could be a connection between Bedtime Stories and Big Red starring Pidgeon, which is not necessary for the correct fact. 
+
+The model's answer does convey the same factual content as the gold answer, even if worded differently. The core message that Walter Pidgeon did not star in both Bedtime Stories and Big Red is conveyed correctly. 
+
+FINAL_VERDICT: CORRECT"
+81,Which political ideology was the premise of The National Action Party?,Nationalism,Nationalism.,6.0,CORRECT,"The model's answer, ""Nationalism,"" is indeed the same as the gold answer, ""Nationalism."" Both terms refer to the same political ideology that is the premise of The National Action Party.
+
+FINAL_VERDICT: CORRECT"
+82,"Who manages the station that serves a small town and civil parish in the Borough of Pendle Lancashire, England with a population of 8,200 as of 2011?",Northern,Northern manages Brierfield railway station.,8.4,CORRECT,"The model's answer specifies that Northern manages Brierfield railway station, which is a more specific and accurate detail compared to the gold answer which simply states that Northern manages the station. The gold answer is too general, not specifying the name of the station, and doesn't mention that it's in Pendle, Lancashire.
+
+While the core idea that a Northern entity manages a station is correct, the model's answer provides a more specific location and name of the station, making it more factually correct and informative.
+
+FINAL_VERDICT: CORRECT"
+83,Cindy Williams is an award-winning news anchor for a tv station whose trasmitter is located on what mountain?,Winn Mountain,Winn Mountain in Sebago.,5.5,CORRECT,"The model's answer includes an additional word ""in Sebago"" which is not present in the gold answer. However, ""Winn Mountain"" remains the same in both answers. The geographical name itself is correct.
+
+FINAL_VERDICT: CORRECT"
+84,Snow White is a Disney media franchise based on a German fairy tale by who?,Brothers Grimm,The Brothers Grimm.,6.4,CORRECT,"The model's answer ""The Brothers Grimm"" is slightly different from the gold answer ""Brothers Grimm"", but they convey the same factual content. The model's answer uses a singular ""The"" before ""Brothers Grimm"", while the gold answer uses a plural ""The Brothers Grimm"". However, this difference does not change the core meaning or the fact that they are referring to the same entity.
+
+FINAL_VERDICT: CORRECT"
+85," Harrah's Lake Tahoe is a hotel and casino owned and operated by the fourth-largest gaming company in the world, with annual revenues of what in 2013?",$8.6 billion,$8.6 billion.,7.4,CORRECT,"The model's answer is a direct copy of the gold answer, with only the decimal point position differing. The factual content is exactly the same in both the model's answer and the gold answer.
+
+FINAL_VERDICT: CORRECT
+"
+86,"""Alvin for President"" is a song by which American animated fictional musical group?",Alvin and the Chipmunks,Alvin and the Chipmunks.,6.0,CORRECT,"The model's answer, ""Alvin and the Chipmunks,"" conveys the same factual content as the gold answer, ""Alvin and the Chipmunks,"" even though it is worded slightly differently.
+
+FINAL_VERDICT: CORRECT
+"
+87,Neetho starred which actress born on 1 February 1979?,Mahek Chahal,Mahek Chahal.,5.4,CORRECT,"The model's answer, ""Mahek Chahal"" is identical to the gold answer, ""Mahek Chahal."" There is no factual discrepancy between the two, as they both correctly state the name of the actress born on 1 February 1979 that Neetho starred in a film with.
+
+FINAL_VERDICT: CORRECT"
+88,"What were the Royal Navy Battleships, that were considered the first fast battleships and were used in WWI and WWII?","Queen Elizabeth""-class battleships",There is no mention of the Royal Navy Battleships being used in WWI and WWII in the context.,9.8,HALLUCINATED,"The model's answer does not convey the same factual content as the gold answer. The gold answer specifically mentions the ""Queen Elizabeth""-class battleships, which were the first fast battleships and were indeed used in both World War I and World War II. The model's answer only states that there is no mention of the Royal Navy Battleships being used in WWI and WWII, which does not match the specific claim about the ""Queen Elizabeth""-class battleships. 
+
+FINAL_VERDICT: HALLUCINATED"
+89,The Tama Maru No. 2 was damaged by what World War II American naval scout plane and dive bomber that was manufactured by Douglas Aircraft?,Douglas SBD Dauntless,The Douglas SBD Dauntless.,8.2,CORRECT,"The model's answer ""The Douglas SBD Dauntless."" is indeed conveying the same factual content as the gold answer ""Douglas SBD Dauntless,"" with only a slight difference in wording. The model's answer is a slight abbreviation of the gold answer, but the core information remains the same.
+
+FINAL_VERDICT: CORRECT"
+90,Are Connie May Fowler and Vladimir Mayakovsky both poets?,yes,"Yes, both Connie May Fowler and Vladimir Mayakovsky are poets.",8.4,CORRECT,"The model's answer, ""Yes, both Connie May Fowler and Vladimir Mayakovsky are poets,"" conveys the same factual content as the gold answer, ""yes,"" even if it is worded differently. Both statements affirm that both individuals are poets. 
+
+FINAL_VERDICT: CORRECT"
+91,How many people died in the fire Brooklyn Theatre that was owned by Sarah Crocker Conway?,278 individuals,At least 278 individuals died in the fire.,6.5,CORRECT,"The gold answer states that exactly 278 individuals died, while the model's answer indicates that at least 278 individuals died. This is a slight difference in wording, but the core information remains the same: at least 278 people perished in the fire at the Brooklyn Theatre.
+
+FINAL_VERDICT: CORRECT"
+92,Jack Moore played collegiately at the college in what NCAA conference?,Big Ten,The Big 12 Conference.,3.8,HALLUCINATED,"The gold answer states that Jack Moore played collegiately at the Big Ten conference, while the model's answer states that he played at the Big 12 conference. These are different conferences, so the model's answer does not convey the same factual content as the gold answer, even if worded differently.
+
+FINAL_VERDICT: HALLUCINATED"
+93,"What was the nationality of Lana Turner's co-star in ""The Three Musketeers""?",American,Gene Kelly.,9.2,HALLUCINATED,"The model's answer of ""Gene Kelly"" is incorrect. Gene Kelly was indeed an American actor, but he was not the co-star of Lana Turner in ""The Three Musketeers."" The Three Musketeers (1921) is a silent film directed by George Archainbaud and starring Wallace Beery and George Brent as the Musketeers, with Lana Turner in a supporting role. The American actress Joan Crawford played the role of Constance Bonacieux, the Frenchwoman who becomes a Musketeer under the name Constance. Therefore, the correct answer to the question is American, not Gene Kelly.
+FINAL_VERDICT: HALLUCINATED"
+94, Der Bärenhäuter was influenced by the German composer who created which opera?,"""Hansel and Gretel""",Heinrich August Marschner.,7.1,CORRECT,"Model's answer mentions Heinrich August Marschner, who is a composer known for the opera ""Der Hinkende Bär"" (The Grim Reaper), which is a German opera based on the story of ""Hansel and Gretel"". This connection is logically consistent with the gold answer, as ""Hansel and Gretel"" is indeed an opera created by the composer mentioned in the model's answer.
+
+FINAL_VERDICT: CORRECT"
+95,The Crocoduck was imagined by what New Zealand-born American minister?,Ray Comfort,Ray Comfort.,6.1,CORRECT,"The model's answer is worded slightly differently, but the core information conveyed is the same. Both the gold answer and the model's answer state that Ray Comfort is the New Zealand-born American minister who imagined the Crocoduck.
+
+FINAL_VERDICT: CORRECT"
+96,The racer who finished second in the 1964 French Grand Prix was this nationality?,British,British.,7.8,CORRECT,"The model's answer is worded differently from the gold answer, but both convey the same factual content, which is that the racer who finished second in the 1964 French Grand Prix was British.
+
+FINAL_VERDICT: CORRECT"
+97,"Which astronaut is older, Philippe Perrin or André Kuipers?",André Kuipers,André Kuipers is older.,7.0,CORRECT,"The model's answer, ""André Kuipers is older,"" conveys the same factual content as the gold answer, ""André Kuipers is older."" The only difference is the structure of the sentence: the gold answer uses ""is older"" directly, while the model's answer uses ""is older"" as part of a longer sentence. However, the core information and its factual correctness remain the same.
+
+FINAL_VERDICT: CORRECT"
+98, Michael Edward Curry served as head coach for an American Professional basketball team that has won how many NBA championchips?,three,Three.,5.5,CORRECT,"The model's answer, ""Three"" is indeed conveying the same factual content as the gold answer, ""three,"" with only a slight variation in wording. The core information about the number of NBA championships is the same.
+
+FINAL_VERDICT: CORRECT
+"
+99,"""The Closer I Get to You"" is a romantic ballad performed by African American jazz, soul, R&B, and folk singer-songwriter Roberta Flack and which  American jazz, blues, soul and gospel singer, songwriter, arranger and pianist, that signed with Atlantic Records in 1969?",Donny Hathaway,Donny Hathaway.,7.4,CORRECT,"The model's answer is correct as it conveys the same factual information as the gold answer. 
+
+The gold answer states ""Gold (correct) answer: Donny Hathaway"" and the model's answer states ""Donny Hathaway."" Both are correct and convey the same information.
+
+FINAL_VERDICT: CORRECT"
+100,The Gooden Grant House is located in what bay in Maine? ,Penobscot Bay,The Bay of Fundy.,7.0,HALLUCINATED,"The Gold answer states that The Gooden Grant House is located in Penobscot Bay, while the model's answer states that it is located in the Bay of Fundy. These are two different bays in Maine, with Penobscot Bay being in the Gulf of Maine and the Bay of Fundy being in Nova Scotia, Canada. Thus, the model's answer does not convey the same factual content as the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+101,What non-fiction books has the author who has written books about the loyalist paramilitary Michael Stone and Special Air Service founder who During the course of the Second World War he became one of the British Army's most highly decorated soldiers?,the Troubles,"Books about the loyalist paramilitary Michael Stone and Special Air Service founder Paddy Mayne are mentioned, but the specific titles are not mentioned in the provided context.",10.4,HALLUCINATED,"The model's answer does not convey the same factual content as the gold answer. While the gold answer correctly identified ""the Troubles"" as the non-fiction books mentioned, the model's answer focuses on identifying the characters and mentioning that specific titles are not provided, which does not match the specific content of ""the Troubles.""
+
+FINAL_VERDICT: HALLUCINATED"
+102,What country of origin does Squirrel Nut Zippers and Sponge have in common?,American,The United States.,7.1,CORRECT,"Both ""Gold"" answer (American) and ""Model's"" answer (The United States) convey the same factual content. The terms ""American"" and ""The United States"" refer to the same country, and both indicate that Squirrel Nut Zippers and Sponge have an American origin.
+
+FINAL_VERDICT: CORRECT"
+103,Hollywood Casino is owned by the company based in what Pennsylvania town?,Wyomissing,"Wyomissing, Pennsylvania.",6.6,CORRECT,"The model's answer ""Wyomissing, Pennsylvania"" conveys the same factual content as the gold answer ""Gold (correct) answer: Wyomissing"". Both specify the town in Pennsylvania where the company that owns Hollywood Casino is based.
+
+FINAL_VERDICT: CORRECT
+"
+104,"In which year was this American actor, director, writer, producer, dancer and musician born who directed the film ""One, Two, Many?""",1965,1965.,7.7,CORRECT,"Both the gold answer and the model's answer provide the same factual content, which is the birth year of the individual. The only difference is the wording of the answer, but the core information conveyed is identical.
+
+FINAL_VERDICT: CORRECT"
+105,The Clausius–Clapeyron relation was named after a German physicist and mathematician who is considered one of the central founders of what area of science?,the science of thermodynamics,Thermodynamics.,6.4,CORRECT,"The model's answer ""Thermodynamics"" is very close in meaning to the gold answer ""the science of thermodynamics"". While the gold answer provides a more specific description, the core concept is the same.
+
+FINAL_VERDICT: CORRECT"
+106,"When was Elvis Presley's ""G.I. Blues"" which was released for the motion picture ""G.I. Blues""'s soundtrack?",October 1960,"I couldn't find any information on Elvis Presley's ""G.I. Blues"" from the context provided.",10.1,HALLUCINATED,"The gold answer provides a specific date, October 1960, which is a factual piece of information about when Elvis Presley's song ""G.I. Blues"" was released. The model's answer, however, does not provide any factual content at all; it merely states that it couldn't find any information on the topic.
+
+The model's answer does not convey the same factual content as the gold answer, even if worded differently. The gold answer is factually correct and provides a specific date, while the model's answer is not factually correct and does not provide any information at all.
+
+FINAL_VERDICT: HALLUCINATED"
+107,AeroLogic is a joint venture between Lufthansa and the division of what logistics company?,Deutsche Post DHL,DHL Express.,8.5,HALLUCINATED,"The model's answer is ""DHL Express"" while the gold answer is ""Deutsche Post DHL"". Although DHL Express is a subsidiary of Deutsche Post DHL, the model's answer is not conveying the exact same factual content as the gold answer. The gold answer specifies ""Deutsche Post DHL"", which is the full name of the logistics company, whereas the model's answer is more specific to a division of the company, which is DHL Express. 
+
+FINAL_VERDICT: HALLUCINATED"
+108,"What French formula racing driver that was 2014 Formula Renault 3.5 Series runner-up drove the Toro Rosso STR12 in 2017, a Formula One racing car designed and constructed by Scuderia Toro Rosso?",Pierre Gasly,Pierre Gasly.,8.7,CORRECT,"The model's answer ""Pierre Gasly"" is factually correct. Pierre Gasly is indeed the French Formula One driver who drove the Toro Rosso STR12 in 2017, following his 2014 Formula Renault 3.5 Series runner-up position. His name is identical to the correct answer provided. 
+
+FINAL_VERDICT: CORRECT"
+109,"Amber Calling are an Australian pop punk and emo band from Adelaide, which formed in 2005 as 919, during their career they have supported shows by Panic! at the Disco, an American rock band from Las Vegas, Nevada, formed in what year?",2004,Panic! at the Disco was formed in 2004.,8.5,CORRECT,"The gold answer provides the year 2004 as the formation year of Panic! at the Disco. The model's answer states that Panic! at the Disco was formed in 2004, which is conveying the same factual content as the gold answer, even though the phrasing is slightly different.
+
+FINAL_VERDICT: CORRECT"
+110,"The music program ""Yesterday"" was named after a song from what Beatles album?",Help!,"The song from the Beatles album that the music program ""Yesterday"" was named after is ""Help!"".",10.2,CORRECT,"The model's answer ""The song from the Beatles album that the music program 'Yesterday' was named after is 'Help!'"" conveys the same factual content as the gold answer ""Gold (correct) answer: Help!"" even if the wording is slightly different. Both answers identify the same Beatles album where the song ""Yesterday"" comes from.
+FINAL_VERDICT: CORRECT"
+111,The Trenton Prong is a section of the Piedmont province of what that was formed roughly 480 million years ago?,The Appalachian Mountains,The Appalachian Mountains.,6.6,CORRECT,"The model's answer is identical to the gold answer, conveying the same factual content. Both mention the Appalachian Mountains as the region that includes the Trenton Prong, which is a section of the Piedmont province that was formed roughly 480 million years ago. 
+
+FINAL_VERDICT: CORRECT"
+112,"Debuting in the 2004 American teen musical comedy film Confessions of a Teenage Drama Queen, Megan Fox went on to co-star in what 2007 blockbuster action film?",Transformers,Transformers.,6.9,CORRECT,"Both the gold answer and the model's answer state that Megan Fox co-starred in the 2007 action film ""Transformers."" 
+
+The model's answer is a direct and exact match of the gold answer, just in a slightly different word order. 
+
+FINAL_VERDICT: CORRECT
+FINAL_VERDICT: CORRECT"
+113,Who writes poetry such as Glaring Through Oblivion as well as leading the heavy metal band System Of A Down?,Serj Tankian,Serj Tankian.,7.8,CORRECT,"The model's answer ""Serj Tankian"" is indeed conveying the same factual content as the gold answer ""Gold (correct): Serj Tankian."" Both identify Serj Tankian as the individual who writes poetry such as ""Glaring Through Oblivion"" and leads the band System Of A Down. 
+
+FINAL_VERDICT: CORRECT"
+114,Heartsounds was made into a 1984 film starring an actor who died in what year?,2014,No answer can be determined from the provided context.,5.8,HALLUCINATED,"The Gold answer states that an actor who died in 2014 starred in a 1984 film called Heartsounds. However, the model's answer does not provide any information, suggesting that there is no answer that can be determined from the provided context.
+
+Since the model's response does not contain any factual information and instead indicates that no information can be determined, it does not match the Gold answer's specific year (2014) or convey the same factual content, even though the model's answer is not wrong.
+
+FINAL_VERDICT: HALLUCINATED"
+115,Dean McCarthy played a boy becoming what in an adaptation of Billy Elliott? ,professional ballet dancer,A professional ballet dancer.,6.6,CORRECT,"The model's answer ""A professional ballet dancer"" is indeed conveying the same factual content as the gold answer ""professional ballet dancer"". Both phrases indicate that the boy from the adaptation of Billy Elliott became a professional ballet dancer. 
+
+FINAL_VERDICT: CORRECT"
+116,The 3852 Democratic National Convention nominated Franklin Pierce over what American military officer who represented Michigan in the United States Senate?,Lewis Cass,Lewis Cass.,8.2,CORRECT,"The model's answer, ""Lewis Cass,"" is indeed the same as the gold answer, ""Lewis Cass."" Both refer to the same individual, an American military officer who represented Michigan in the United States Senate and was nominated by the Democratic National Convention.
+
+FINAL_VERDICT: CORRECT"
+117,What medium-sized bear native to North America can be seen in Harriman State Park?,American black bear,I couldn't find any information about a medium-sized bear native to North America being associated with Harriman State Park.,9.6,HALLUCINATED,"The model's answer does not convey the same factual content as the gold answer. While the gold answer provided a correct response, the model's answer indicated that no such bear could be found in Harriman State Park, which is a factually incorrect response. The gold answer was correct in identifying the American black bear as a medium-sized bear native to North America that can be seen in Harriman State Park. The model's answer implies that such a bear cannot be found, which contradicts the factual information provided in the gold answer.
+FINAL_VERDICT: HALLUCINATED"
+118,What company produced both The Barefoot Executive and The Last Flight of Noah's Ark?,Walt Disney,Walt Disney Productions.,7.8,CORRECT,"The model's answer, ""Walt Disney Productions,"" is essentially conveying the same factual content as the gold answer, ""Walt Disney."" While the model's answer includes the word ""Productions,"" which is a slight variation, it still refers to the same company that created both The Barefoot Executive and The Last Flight of Noah's Ark. Walt Disney Productions, now known as Walt Disney Company, is the company that produced these films.
+
+FINAL_VERDICT: CORRECT"
+119,What politician from New York served two terms representing New York in the United States Senate? ,Hillary Rodham Clinton,Hillary Rodham Clinton.,7.4,CORRECT,"The model's answer is worded differently from the gold answer, but it conveys the same factual content. Both the correct answer and the model's answer state that Hillary Rodham Clinton served two terms representing New York in the United States Senate.
+
+FINAL_VERDICT: CORRECT"
+120,Trim is a transitway station in the east end of a city that as of 2016 had a population of what?,"934,243","934,243.",5.0,CORRECT,"The model's answer exactly mirrors the gold answer, conveying the same factual content: 934,243. 
+
+The model's answer: ""934,243"" is a direct copy of the gold answer without any variations or additions.
+FINAL_VERDICT: CORRECT"
+121,The manager in which Mark Lazarus clashed with served as manager for the Wolverhampton Wanderers during which years?,1948 and 1964,I couldn't find any information about a person named Mark Lazarus in the provided context.,8.6,HALLUCINATED,"The model's answer does not convey the same factual content as the gold answer. The gold answer provides specific information about a time period (1948 and 1964) that a manager named Mark Lazarus clashed with. The model's answer, however, indicates that no information could be found about a person named Mark Lazarus in the provided context. 
+
+This is a contradiction rather than agreement in terms of factual content. 
+
+FINAL_VERDICT: HALLUCINATED"
+122,In which city did this world games take place when Squash was added as part of the world games?,"Lahti, Finland","Lahti, Finland",7.5,CORRECT,"The model's answer ""Lahti, Finland"" is identical to the gold answer ""Lahti, Finland"". The model has correctly conveyed the same factual content as the gold answer, even though it is worded in the exact same way.
+
+FINAL_VERDICT: CORRECT
+"
+123,Are Latina and Entrepreneur both monthly publications?,no,"No, the context does not indicate that Latina is a monthly publication.",6.9,CORRECT,"The model's answer ""No, the context does not indicate that Latina is a monthly publication"" conveys the same factual content as the gold answer ""no"". Both are stating that Latina is not a monthly publication. The model's answer provides a bit more context and explanation for the answer, which is why it might be slightly longer than the gold answer, but the core message is the same.
+
+FINAL_VERDICT: CORRECT"
+124,Are Lucie Šafářová and Pavel Složil both Czech tennis players?,yes,"Yes, both Lucie Šafářová and Pavel Složil are Czech tennis players.",7.6,CORRECT,"Both answers convey the same factual content, stating that Lucie Šafářová and Pavel Složil are both Czech tennis players. The only difference is in the phrasing and structure of the sentences.
+
+FINAL_VERDICT: CORRECT"
+125,What post apocalyptic action film based on a novel by Francis Lawrence was directoed by Neal H. Moritz?,I Am Legend,I couldn't find any information that matches the given context with the question.,7.4,HALLUCINATED,"The model's answer does not convey the same factual content as the gold answer. The gold answer provided the correct film title, ""I Am Legend,"" which is the post-apocalyptic action film based on a novel by Francis Lawrence that was directed by Neal H. Moritz. The model's answer, however, indicated that it couldn't find any information that matches the given context, which is the opposite of the gold answer. 
+
+FINAL_VERDICT: HALLUCINATED"
+126,Space Island One starred what English actress who is married to roy battersby,Judy Loe,"I couldn't find any information on the actress being married to Roy Battersby, and the context does not mention her being married to him.",10.0,HALLUCINATED,"The model's answer does not convey the same factual content as the gold answer. The gold answer states that Judy Loe is the actress who starred in Space Island One and is married to Roy Battersby. The model's answer indicates that there is no information about the actress being married to Roy Battersby, which contradicts the information given in the gold answer. Therefore, the model's answer does not accurately represent the information provided in the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+127,Who directed a film that included Sarah Manninen?,Martha Coolidge,"Martha Coolidge directed the film ""The Prince and Me"", which included Sarah Manninen.",8.0,CORRECT,"The gold answer indicates that Martha Coolidge directed a film that included Sarah Manninen. The model's answer states that Martha Coolidge directed the film ""The Prince and Me"" and that it included Sarah Manninen. Both the gold answer and the model's answer provide the same key information: Martha Coolidge directed a film (""The Prince and Me"") that included Sarah Manninen. 
+
+However, the model's answer introduces a new film title (""The Prince and Me"") not mentioned in the gold answer. The gold answer did not specify which film Martha Coolidge directed.
+
+FINAL_VERDICT: CORRECT"
+128,How much money did the owner of the 165 acre drumlin or the mansion that sits on the hill donate to the construction fund for the Benjamin Stickney Cable Memorial Hospital?,"$145,000",The context does not contain any information about a donation to the Benjamin Stickney Cable Memorial Hospital.,8.4,HALLUCINATED,"The model's answer states that there is no information about a donation to the Benjamin Stickney Cable Memorial Hospital in the context, which is essentially stating the opposite of the gold answer that claims a $145,000 donation. The gold answer is correct about the existence of a donation, while the model's answer correctly points out that there is no information about the specific donation in question.
+
+FINAL_VERDICT: HALLUCINATED"
+129,Were James Lee Burke and William Faulkner from the same country?,yes,"No, they were not from the same country.",7.1,HALLUCINATED,"The gold answer states that James Lee Burke and William Faulkner were from the same country, while the model's answer states they were not from the same country. These two statements are contradictory. The model's answer is directly opposite to the gold answer and thus conveys a different factual content.
+
+FINAL_VERDICT: HALLUCINATED"
+130,Kentucky is located in a region of america which constitutes as what?,one of the nine Census Bureau Divisions,East South Central States.,6.0,HALLUCINATED,"The model's answer of ""East South Central States"" is not factually correct. The correct answer, provided by Gold, is ""one of the nine Census Bureau Divisions"". The East South Central States is a larger geographical area that includes Kentucky, but it is not a specific division as defined by the Census Bureau.
+
+FINAL_VERDICT: HALLUCINATED"
+131,"270 Park Avenue and The Spiral, are located in which city?",New York City,New York City.,6.4,CORRECT,"Both the gold answer ""New York City"" and the model's answer ""New York City"" convey the same factual content. The model's answer is a direct and exact match of the gold answer, with no additional or incorrect information.
+
+FINAL_VERDICT: CORRECT"
+132,In what city is George Washington University Hospital and Psychiatric Institute of Washington located?,"Washington, D.C.","Washington, D.C.",5.0,CORRECT,"The model's answer is identical to the gold answer, both stating that George Washington University Hospital and Psychiatric Institute of Washington is located in Washington, D.C. Despite the slight difference in wording, the core information conveyed is the same.
+
+FINAL_VERDICT: CORRECT"
+133,Grazia and JJ are both what?,magazine,magazines.,5.9,CORRECT,"The gold answer states that both Grazia and JJ are ""magazines,"" which is factually correct if we are considering these as popular fashion magazines. The model's answer, which states that both are ""magazines,"" conveys the same factual content but with a plural form. 
+
+Whether it's singular or plural, both statements are correct and convey the same core information.
+
+FINAL_VERDICT: CORRECT"
+134,Jeremy Theobald and Christoper Nolan share what profession?,producer,"Film director, producer, and screenwriter.",7.5,HALLUCINATED,"The gold answer provided is ""producer"". The model's answer includes multiple professions: ""Film director, producer, and screenwriter"". While ""producer"" is included in the model's answer, the model also mentioned ""Film director"" and ""screenwriter"", which are not shared professions by Jeremy Theobald and Christopher Nolan.
+
+FINAL_VERDICT: HALLUCINATED"
+135," When was president of South Korea which  The Presidential Council on Nation Branding, Korea  lies under his direct control born ",24 January 1953,"I cannot verify when the President of South Korea which The Presidential Council on Nation Branding, Korea  lies under his direct control was born.",10.3,HALLUCINATED,"The gold answer provides a specific date, 24 January 1953, which is a factual piece of information about the birth date of a South Korean president. The model's response acknowledges that it cannot verify the specific birth date of the president under discussion, indicating that the president's birth date is not known. However, the model's answer does not provide any date, which is a lack of information, rather than a factual assertion that the president's birth date is unknown. 
+
+Given this, the model's answer is not factually correct, as it does not convey the same factual content as the gold answer, which provided a specific date.
+
+FINAL_VERDICT: HALLUCINATED"
+136,"Danish ice hockey coach, Olaf Eller, is the father of Danish professional ice hockey player who was drafted by what team in the first round of the 2007 NHL Entry Draft?",St. Louis Blues,St. Louis Blues.,9.3,CORRECT,"The model's answer ""St. Louis Blues"" is identical to the gold answer ""St. Louis Blues"". The only difference is the word order, but it does not change the core information being conveyed.
+
+FINAL_VERDICT: CORRECT"
+137,In what show did Cynthia Nixon receive the 2004 Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series and a Screen Actors Guild Award for her performance?,Sex and the City,"""Sex and the City"" (1998–2004).",11.0,HALLUCINATED,"The model's answer includes the correct show name ""Sex and the City"" along with its original run years (1998–2004), which matches the information in the gold answer. The model's answer, however, omits the year of the 2004 Primetime Emmy Award, which is relevant to the question. 
+
+FINAL_VERDICT: HALLUCINATED"
+138,"What is the stage name for actor who co-stared the 2016 film ""Train to Busan"" with Jung Yu-mi and Ma Dong-seok?",Gong Yoo,Gong Ji-chul.,7.8,HALLUCINATED,"Gong Ji-chul and Gong Yoo are likely referring to the same person, Gong Yoo (고유이), a South Korean actor. 
+
+The model's answer, ""Gong Ji-chul,"" is not factually correct as the stage name for the actor who co-starred in ""Train to Busan"" with Jung Yu-mi and Ma Dong-seok. The correct stage name is Gong Yoo.
+
+FINAL_VERDICT: HALLUCINATED"
+139,"The Domestic Violence Offender Gun Ban, is an amendment to the Omnibus Consolidated Appropriations Act of 1997, the act is often referred to as ""the Lautenberg Amendment"" after its sponsor, Senator Frank Lautenberg, was a United States Senator, and member of the Democratic Party, from which state?",New Jersey,New Jersey.,8.2,CORRECT,"The model's answer is ""New Jersey"", which is the same as the gold answer ""New Jersey"". The model has conveyed the same factual content even if the word order is different. 
+
+FINAL_VERDICT: CORRECT"
+140,"Which rocket propelled weapon, sometimes referred to as the ""Stovepipe,"" did Colonel Leslie Alfred Skinner help develop?",Bazooka,The bazooka.,6.5,CORRECT,"The model's answer, ""The bazooka,"" conveys the same factual content as the gold answer, ""Bazooka,"" even if worded differently. Both correctly identify the weapon as the bazooka, which was developed by Colonel Leslie Alfred Skinner.
+
+FINAL_VERDICT: CORRECT"
+141,Lars Kristinus Larsen is the founder of the largest Danish retailer operating internationally with stores in how many countries?,41,41 countries.,6.6,CORRECT,"The model's answer ""41 countries"" is conveying the same factual content as the gold answer ""41"", even though the gold answer specifies ""countries"" while the model's answer just says ""countries"". The number and content of the factual information remain identical.
+
+FINAL_VERDICT: CORRECT
+"
+142,Where is the headquarters of the company who launched the Fridge advertising campaign?,"London, England","London, England.",4.6,CORRECT,"The model's answer is worded differently but conveys the same factual content as the gold answer. The only difference is the use of ""Gold"" before the correct answer, which does not change the factual information provided.
+
+FINAL_VERDICT: CORRECT"
+143,In what year was Louis Joseph de Frances's mother born?,1755,1755.,6.2,CORRECT,"The model's answer, ""1755,"" conveys the same factual content as the gold answer, ""1755."" Both answers provide the same year of birth, just using slightly different wording.
+
+FINAL_VERDICT: CORRECT"
+144,"The band who had the album ""Brujo"" came from what city?","San Francisco, California",San Francisco.,5.3,CORRECT,"The model's answer is missing the state, but the city is correct. The gold answer includes both the city and the state, while the model's answer only mentions the city. This difference in detail does not change the core factual content of the answer, as the city San Francisco is still correctly identified as the source city for the album ""Brujo.""
+
+FINAL_VERDICT: CORRECT"
+145,Which television channel had a show set at a location adjacent to Silverado Ranch?,Travel Channel,ABC.,5.8,CORRECT,"The model's answer, ""ABC,"" is incorrect. The correct answer is ""Travel Channel,"" which was implied in the model's answer. Despite the difference in wording, the core factual content is the same.
+
+FINAL_VERDICT: CORRECT"
+146,What television adaptation contains a character who was also adapted into a 2005 superhero film?,Gotham,"The ""Justice League"" animated series contains a character who was also adapted into a 2013 superhero film, ""Man of Steel"".",10.0,HALLUCINATED,"The gold answer specifies a character from the TV adaptation ""Gotham"" that was adapted into a 2005 superhero film. The model's answer mentions a character from the ""Justice League"" animated series, which was adapted into the 2013 ""Man of Steel"" film. These are different TV shows and films, and the model's answer does not convey the same factual content as the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+147,"What site, popular among spring breakers, were also places were Jeopardy! Collect Championship contestant searches was held?","Daytona Beach, Florida","Daytona Beach, Florida and Palm Springs, California.",7.4,HALLUCINATED,"Both answers mention Daytona Beach, Florida which is correct according to the question. However, the Gold answer specifies only Daytona Beach, Florida, while the model's answer also includes Palm Springs, California. Palm Springs is not associated with the context of spring breakers or Jeopardy! contestant searches. Therefore, the model's answer includes an additional incorrect piece of information.
+
+FINAL_VERDICT: HALLUCINATED"
+148,"The 2011 Copa del Rey was a specific type of rivalry, given this name to any match between which groups?",Real Madrid and FC Barcelona,Real Madrid and FC Barcelona.,7.8,CORRECT,"The model's answer ""Real Madrid and FC Barcelona"" is a direct and accurate repetition of the gold answer ""Real Madrid and FC Barcelona."" The model's response conveys the same factual content without any additions, deletions, or alterations.
+
+FINAL_VERDICT: CORRECT
+"
+149,"Youthquake is the second album by the British pop group Dead or Alive, released in May 1985, the album was their commercial breakthrough in Europe and the United States, due to which lead single, which was the song was the first UK number-one hit by the Stock Aitken Waterman production trio?",You Spin Me Round (Like a Record),"""You Spin Me Round (Like a Record)""",9.2,CORRECT,"The model's answer ""You Spin Me Round (Like a Record)"" conveys the same factual content as the gold answer ""Gold (correct)"". Both references are to the lead single of the album ""Youthquake"" by Dead or Alive, which was indeed ""You Spin Me Round (Like a Record)"" by the Stock Aitken Waterman production trio.
+FINAL_VERDICT: CORRECT"

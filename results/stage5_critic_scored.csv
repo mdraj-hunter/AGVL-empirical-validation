@@ -1,0 +1,786 @@
+id,question,gold_answer,model_answer,original_answer,confidence,critic_action,critic_raw,elapsed_sec,judge_verdict,judge_raw
+0,Bebe Rexha was a singer who guested on the David Guetta song that was produced by which Dutch DJ?,Afrojack,Bebe Rexha did not guest on a David Guetta song produced by a Dutch DJ.,I couldn't find any information about Bebe Rexha guesting on a David Guetta song produced by a Dutch DJ.,LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Bebe Rexha did not guest on a David Guetta song produced by a Dutch DJ.",7.5,HALLUCINATED,"The gold answer provides a specific detail about which Dutch DJ produced a David Guetta song that Bebe Rexha guested on. The model's answer, while stating that Bebe Rexha did not guest on a David Guetta song, does not convey the same factual content as the gold answer. The gold answer is factually correct and provides a specific detail, whereas the model's answer is factually incorrect and does not provide the specific detail about the Dutch DJ.
+
+FINAL_VERDICT: HALLUCINATED"
+1,"Yukio Mishima and Roberto Bolaño, are Chilean?",no,"No, they are not Chilean.","No, they are not Chilean.",HIGH,KEPT,"VERDICT: KEEP
+
+The proposed answer is correct. Yukio Mishima was Japanese, and Roberto Bolaño was also of Spanish origin. Therefore, neither of them is Chilean.",6.1,CORRECT,"The model's answer ""No, they are not Chilean"" conveys the same factual content as the gold answer ""no"". Both statements assert that Yukio Mishima and Roberto Bolaño are not Chilean.
+
+FINAL_VERDICT: CORRECT"
+2,What Lindsey Stirling song's video received 1.3 million views on YouTube after one day?,Shatter Me,"The song ""Shatter Me"" from Lindsey Stirling's debut album received 1.3 million views on YouTube after one day.","The song ""Shatter Me"" from Lindsey Stirling's second studio album received 1.3 million views on YouTube after one day.",LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: The song ""Shatter Me"" from Lindsey Stirling's debut album received 1.3 million views on YouTube after one day.",6.2,CORRECT,"The model's answer includes additional information not present in the gold answer, specifically mentioning that ""Shatter Me"" is from Lindsey Stirling's debut album. However, the core factual content - that ""Shatter Me"" received 1.3 million views on YouTube after one day - is preserved and correct.
+
+FINAL_VERDICT: CORRECT"
+3,The 1st Battle of Kharkov was named so by a German field army born in which year ?,1882,"The 1st Battle of Kharkov was named so by a German field army, but the year of birth of the field army commander is not 1882.",1882.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: The 1st Battle of Kharkov was named so by a German field army, but the year of birth of the field army commander is not 1882.",7.1,CORRECT,"The gold answer provides a specific year (1882) for the birth of the field army commander. The model's answer conveys the same factual content by stating that the year of birth is not 1882, which is essentially the same information but with a different phrasing. The model's answer is still factually correct as it correctly identifies that the year of birth is not 1882.
+
+FINAL_VERDICT: CORRECT"
+4,"Power Balladz, is a live comedy performance featuring a mixture of comedy, trivia, and iconic rock n' roll songs from the 70s, 80s & 90s, the comedy's musical blend includes songs by Heart, a rock band that first found success in Canada and later in the United States and worldwide, are of which nationality ?",American,"Heart, the rock band that first found success in Canada and later in the United States and worldwide, is of Canadian nationality.",Canadian.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Heart, the rock band that first found success in Canada and later in the United States and worldwide, is of Canadian nationality.",6.4,HALLUCINATED,"The gold answer states that Heart, the rock band, is of American nationality. The model's answer incorrectly states that Heart is of Canadian nationality. Therefore, the model's answer does not convey the same factual content as the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+5,"Kazuhito Kosaka, is a Japanese comedian, better known by his stage names Daimaou Kosaka, and which name, used by his fictional singer-songwriter identity, and is best known for his single ""PPAP (Pen-Pineapple-Apple-Pen)""?",Pikotaro,"Kazuhito Kosaka, better known as Daimaou Kosaka and Pikotaro, is best known for his single ""PPAP (Pen-Pineapple-Apple-Pen)"".",Pikotaro.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Kazuhito Kosaka, better known as Daimaou Kosaka and Pikotaro, is best known for his single ""PPAP (Pen-Pineapple-Apple-Pen)"".",7.7,HALLUCINATED,"The model's answer includes the correct name ""Pikotaro"" for the fictional singer-songwriter identity, which is a key piece of information. However, the model's answer incorrectly states that ""PPAP (Pen-Pineapple-Apple-Pen)"" is Kazuhito Kosaka's single, which is not accurate. The gold answer correctly identifies ""PPAP (Pen-Pineapple-Apple-Pen)"" as the single associated with Kazuhito Kosaka's fictional identity, Pikotaro.
+
+FINAL_VERDICT: HALLUCINATED"
+6,What was the population of the terminus of the Willunga railway line in 2011,"2,416","2,416.","2,416.",HIGH,KEPT,"To accurately review this answer, I need to check the population data for the terminus of the Willunga railway line in 2011. The terminus of the Willunga railway line is the town of Willunga, which is a small town in South Australia, Australia.
+
+According to the latest available data, the population of Willunga in 2011 was 2,416. This matches the proposed answer exactly.
+
+VERDICT: KEEP",12.9,CORRECT,"Both the gold answer and the model's answer convey the same factual content, which is the population of the terminus of the Willunga railway line in 2011. The only difference is the format of the answer, with the gold answer providing a full sentence and the model's answer providing just the number. 
+
+FINAL_VERDICT: CORRECT"
+7,"Stranger Things is an American science fiction-horror web television series created, written, directed and co-executive produced by the Duffer Brothers, the first season stars include Gaten Matarazzo, an American actor, who began his career on the Broadway stage as who, in ""Priscilla, Queen of the Desert""?",Benjamin,"Gaten Matarazzo began his career on the Broadway stage as an understudy for Gavroche in ""Les Misérables"".","Gavroche in ""Les Misérables"".",HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Gaten Matarazzo began his career on the Broadway stage as an understudy for Gavroche in ""Les Misérables"".",6.6,HALLUCINATED,"The gold answer states that Gaten Matarazzo began his career on Broadway as an understudy for Benjamin in ""Priscilla, Queen of the Desert"". The model's answer states that Gaten Matarazzo began his career on Broadway as an understudy for Gavroche in ""Les Misérables"". 
+
+While both answers mention Broadway, Priscilla, Queen of the Desert, and Les Misérables, they differ in the name of the character and the name of the show. The character in Priscilla, Queen of the Desert is named Priscilla, not Benjamin. The show Gavroche is from is ""Les Misérables"", not ""Priscilla, Queen of the Desert"". 
+
+Therefore, the model's answer does not convey the same factual content as the gold answer, even if worded differently.
+
+FINAL_VERDICT: HALLUCINATED"
+8,"Who wrote the lyrics of Portofino with a collaborator on ""Fiddler on the Roof""",Richard Ney,Sheldon Harnick collaborated with Harvey Fierstein on the lyrics of Portofino.,Sheldon Harnick collaborated with Richard Ney on the lyrics of Portofino.,LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Sheldon Harnick collaborated with Harvey Fierstein on the lyrics of Portofino.",5.1,HALLUCINATED,"The gold answer states that Richard Ney wrote the lyrics for Portofino with a collaborator on ""Fiddler on the Roof"". The model's answer states that Sheldon Harnick collaborated with Harvey Fierstein on the lyrics of Portofino. 
+
+While both answers mention Sheldon Harnick and Portofino, they are not conveying the same factual content. The gold answer is about Richard Ney, while the model's answer is about Sheldon Harnick. Additionally, the gold answer specifies that it's about ""Fiddler on the Roof"", but the model's answer does not mention this.
+
+FINAL_VERDICT: HALLUCINATED"
+9,What Hockey team does Evander Kane play for?,Buffalo Sabres,The Buffalo Sabres.,The Buffalo Sabres.,HIGH,KEPT,"VERDICT: KEEP
+
+The proposed answer is correct. Evander Kane plays for the Buffalo Sabres.",3.7,CORRECT,"The model's answer, ""The Buffalo Sabres"" is indeed conveying the same factual content as the gold answer, ""Buffalo Sabres."" The only difference is the addition of the article ""The"" before ""Buffalo Sabres"" in the model's answer, which does not alter the core information provided.
+
+FINAL_VERDICT: CORRECT"
+10,Which  castle in the border region of Scotland did Hermitage Water passes through ,Hermitage Castle,Hermitage Castle.,Hermitage Castle.,HIGH,KEPT,VERDICT: KEEP,1.7,CORRECT,"The model's answer is identical to the gold answer, which is ""Hermitage Castle."" The only difference is the presence of the word ""Gold"" in parentheses in the gold answer, which does not alter the factual content. The model's answer is a direct and accurate repetition of the gold answer without any additional or incorrect information.
+
+FINAL_VERDICT: CORRECT"
+11,"Which movie was co-written by the person who directed ""Blood""?",The Awakening,"Diane Bell co-wrote ""Blood"" (2012), but she did not co-write any other movie.","Diane Bell co-wrote ""Blood"" (2012).",LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Diane Bell co-wrote ""Blood"" (2012), but she did not co-write any other movie.",5.7,HALLUCINATED,"The gold answer provides the name of a movie (""The Awakening"") that was co-written by the person who directed ""Blood."" The model's answer, however, does not provide this information. Instead, it states that Diane Bell co-wrote ""Blood"" and did not co-write any other movie. This answer does not convey the same factual content as the gold answer, as it does not mention the movie ""The Awakening.""
+
+FINAL_VERDICT: HALLUCINATED"
+12,"Which genus has more species, Fir or Chelone?",Firs,Chelone has more species than Firs (Abies).,Firs (Abies) have more species than Chelone.,LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Chelone has more species than Firs (Abies).",4.3,HALLUCINATED,"The gold answer states that Firs have more species than Chelone. The model's answer incorrectly states that Chelone has more species than Firs (Abies). This is a contradiction to the gold answer. Therefore, the model's answer does not convey the same factual content as the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+13,Which genus is more spread around the world Maytenus or Eucommia ?,Maytenus,Maytenus is more spread around the world.,Maytenus is more spread around the world.,HIGH,KEPT,"To accurately determine which genus is more spread around the world between Maytenus and Eucommia, we need to consider the geographical distribution of these plants.
+
+Maytenus is a genus of flowering plants in the family Celastraceae. It is native to the Americas, with the majority of species found in the Neotropics, particularly in Central and South America. It is not as widely distributed as Eucommia.
+
+Eucommia, on the other hand, is a genus of flowering plants in the family Eucommiaceae. It is native to East Asia, particularly in China, Japan, and Korea. Eucommia species are more geographically concentrated and less widespread compared to Maytenus.
+
+Given this information, it appears that Maytenus is more widely distributed around the world compared to Eucommia.
+
+VERDICT: KEEP
+
+CORRECTED_ANSWER: Maytenus is more spread around the world.",24.4,CORRECT,"The model's answer, ""Maytenus is more spread around the world,"" conveys the same factual content as the gold answer, ""Maytenus is more spread around the world."" The only difference is the use of a gold (correct) answer versus the model's answer, but they both convey the same information.
+
+FINAL_VERDICT: CORRECT"
+14,When was the American rapper which was one those whose House Shoes produced their albums born? ,"March 16, 1981","Lesane Parish Crooks, better known as Tupac Amaru Shakur, was born on June 16, 1971.","Lesane Parish Crooks, better known as Tupac Amaru Shakur, was born on June 16, 1971.",LOW,KEPT,"VERDICT: KEEP
+
+The proposed answer is correct. Tupac Amaru Shakur, whose stage name is Tupac, was indeed born on June 16, 1971.",6.4,HALLUCINATED,"The gold answer provides the birth date of March 16, 1981, which is incorrect. The model's answer refers to a different individual, Tupac Amaru Shakur, who was born on June 16, 1971. The model's answer is about a different person and thus conveys different factual content.
+
+FINAL_VERDICT: HALLUCINATED"
+15,"Mel Duncan holds a degree from what private, coeducational liberal arts college located in Saint Paul, Minnesota, US?",Macalester College,Macalester College.,Macalester College.,HIGH,KEPT,"VERDICT: KEEP
+
+The proposed answer ""Macalester College"" is correct. Mel Duncan indeed holds a degree from Macalester College, which is a private, coeducational liberal arts college located in Saint Paul, Minnesota, US.",7.3,CORRECT,"The model's answer is identical to the gold answer, both stating that Mel Duncan holds a degree from Macalester College. The only difference is the capitalization of the first letter, which does not change the factual content.
+
+FINAL_VERDICT: CORRECT"
+16,"In which town was the 1987 American drama film Ironweed, shot on location that featured a 400 acre pastoral cemetery?","Colonie, New York","Albany, New York.","Albany, New York.",HIGH,KEPT,"To verify the proposed answer, I will research the filming locations of the 1987 American drama film Ironweed.
+
+Ironweed was indeed filmed in and around Albany, New York. The film's production company, New Line Cinema, chose the Albany area for its scenic beauty and proximity to the cemetery mentioned in the question. The cemetery in question is the Albany Rural Cemetery, a 400-acre cemetery located in the city of Albany.
+
+Based on this information, the proposed answer is correct.
+
+VERDICT: KEEP",14.3,HALLUCINATED,"To determine if the model's answer is factually correct, we need to compare the information provided in the gold answer (Colonie, New York) with the model's answer (Albany, New York). 
+
+The gold answer specifies that the 1987 American drama film Ironweed was shot on location in Colonie, New York, which featured a 400-acre pastoral cemetery. 
+
+The model's answer states that the film was shot in Albany, New York. This is a different location, and there is no information provided that suggests Albany, New York is the correct location for the film's shooting.
+
+Given that the model's answer (Albany, New York) does not match the gold answer (Colonie, New York), the model's answer is incorrect.
+
+FINAL_VERDICT: HALLUCINATED"
+17, Are Phil Mogg and Dave Peters musicians?,yes,Yes.,Yes.,HIGH,KEPT,"To accurately review this answer, I need to verify if Phil Mogg and Dave Peters are indeed musicians. 
+
+Phil Mogg is a British musician, best known as the former bassist and backing vocalist for the progressive rock band Deep Purple. He has been a part of the band since 1971 and has been a significant member of the group.
+
+Dave Peters, on the other hand, is a British musician and songwriter, best known as the lead vocalist and guitarist of the band The Cult. He has been a member of The Cult since 1983.
+
+Based on this information, both Phil Mogg and Dave Peters are indeed musicians. 
+
+VERDICT: KEEP",18.3,CORRECT,"The model's answer ""Yes"" conveys the same factual content as the gold answer ""yes"". Both indicate that Phil Mogg and Dave Peters are musicians. 
+
+FINAL_VERDICT: CORRECT"
+18,"The Sia song ""Never Give Up"" is from the soundtrack of a film that is based on what non-fiction book?","""A Long Way Home""","""A Long Way Home"" by Saroo Brierley is the non-fiction book that the film ""A Long Way Home"" (which is based on Saroo Brierley's story) is adapted from, not the soundtrack of ""Never Give Up"" by Sia.","""A Long Way Home"" by Saroo Brierley.",HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: ""A Long Way Home"" by Saroo Brierley is the non-fiction book that the film ""A Long Way Home"" (which is based on Saroo Brierley's story) is adapted from, not the soundtrack of ""Never Give Up"" by Sia.",9.8,HALLUCINATED,"The model's answer provides additional context about the film ""A Long Way Home"" and the non-fiction book ""A Long Way Home"" by Saroo Brierley, which is relevant information. However, the model's answer introduces a new film ""A Long Way Home"" that is not related to Sia's song ""Never Give Up."" This part of the answer is incorrect and does not match the gold answer, which only mentions the non-fiction book ""A Long Way Home.""
+
+FINAL_VERDICT: HALLUCINATED"
+19,"What was a branch of the Khalwatiyya order of Islamic mysticism founded by Sayyid Hasan Husameddin, with relations to the cousin and son-in-law of Muhammad?",Tasawwuf,"Ushshaki was a branch of the Khalwatiyya order of Islamic mysticism, but it was not founded by Sayyid Hasan Husameddin. The founder of the Ushshaki branch is not explicitly mentioned in historical records, but it is known to have relations to the cousin and son-in-law of Muhammad.",Ushshaki was a branch of the Khalwatiyya order of Islamic mysticism founded by Sayyid Hasan Husameddin.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Ushshaki was a branch of the Khalwatiyya order of Islamic mysticism, but it was not founded by Sayyid Hasan Husameddin. The founder of the Ushshaki branch is not explicitly mentioned in historical records, but it is known to have relations to the cousin and son-in-law of Muhammad.",11.4,HALLUCINATED,"The model's answer provides additional context about the Ushshaki branch of the Khalwatiyya order and its relation to the cousin and son-in-law of Muhammad, which is not present in the gold answer. However, the model's answer does not state that Tasawwuf is a branch of the Khalwatiyya order, nor does it mention that Sayyid Hasan Husameddin founded the Ushshaki branch. Therefore, the model's answer does not convey the same factual content as the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+20,"Toby Williams is a British actor, writer and award-winning stand-up comedian, he has appeared in which British comedy television series, shown on the Sky Living channel?",Trying Again,"There is no information about a person named Toby Williams in the provided context, but Toby Sawyer is mentioned as a British actor.","There is no information about a person named Toby Williams in the provided context, but Toby Sawyer is mentioned as a British actor.",LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: There is no information about a person named Toby Williams in the provided context, but Toby Sawyer is mentioned as a British actor.",6.1,HALLUCINATED,"The model's answer introduces a new name, Toby Sawyer, which is not mentioned in the original question. The original question asks about Toby Williams, a British actor, writer, and comedian. The model's answer does not provide any information about Toby Williams or any British comedy television series. Therefore, the model's answer does not convey the same factual content as the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+21,"who had more fame as a solo artist, Jacoby Shaddix or John Waite",John Charles Waite,"Jacoby Shaddix had more fame as a solo artist, with a No. 1 hit on the US Billboard Hot 100 with his song ""The Garden.""","John Waite had more fame as a solo artist, with a No. 1 hit on the US Billboard Hot 100.",LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Jacoby Shaddix had more fame as a solo artist, with a No. 1 hit on the US Billboard Hot 100 with his song ""The Garden.""",7.2,HALLUCINATED,"The gold answer provides factual information about John Charles Waite having more fame as a solo artist, specifically mentioning his No. 1 hit ""The Garden"" on the US Billboard Hot 100. The model's answer, while providing accurate information about Jacoby Shaddix's hit song, does not address the question of who had more fame as a solo artist between Jacoby Shaddix and John Waite. Therefore, the model's answer does not convey the same factual content as the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+22,What is another name for the blood disorder Emmanuel Ntima Weyi founded a non-profit in support of?,Sickle-cell disease,Sickle-cell anaemia (SCA) is not another name for the blood disorder Emmanuel Ntima Weyi founded a non-profit in support of.,Sickle-cell anaemia (SCA).,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Sickle-cell anaemia (SCA) is not another name for the blood disorder Emmanuel Ntima Weyi founded a non-profit in support of.",6.7,CORRECT,"Sickle-cell anaemia (SCA) is another name for sickle-cell disease. The model's answer is conveying the same factual content as the gold answer, even if the wording is slightly different. The core information about sickle-cell disease remains the same.
+
+FINAL_VERDICT: CORRECT"
+23,The special operations force of the Irish Defence Forces had access to what according tothe modern weapons of the Irish Arm? ,a wide variety of specialist weapons,"The special operations force of the Irish Defence Forces had access to a wide variety of specialist weapons, including modern firearms and equipment.",The special operations force of the Irish Defence Forces had access to a wide variety of specialist weapons.,LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: The special operations force of the Irish Defence Forces had access to a wide variety of specialist weapons, including modern firearms and equipment.",5.9,CORRECT,"The model's answer includes additional details about ""modern firearms and equipment"" that were not present in the gold answer. However, the core information about having access to a wide variety of specialist weapons is present and correct.
+
+FINAL_VERDICT: CORRECT"
+24,Where is the Peppers Manor House and the New South Wales State Heritage Register located?,Australia,"The Peppers Manor House is not located in Sutton Forest, New South Wales, Australia. The Peppers Manor House is located in Sutton Forest, New South Wales, Australia, but it is not on the New South Wales State Heritage Register. The Peppers Manor House is a private residence and not a registered heritage site. The New South Wales State Heritage Register contains information about significant historical and cultural sites, buildings, and objects in New South Wales, Australia.","Sutton Forest, New South Wales, Australia.",HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: The Peppers Manor House is not located in Sutton Forest, New South Wales, Australia. The Peppers Manor House is located in Sutton Forest, New South Wales, Australia, but it is not on the New South Wales State Heritage Register. The Peppers Manor House is a private residence and not a registered heritage site. The New South Wales State Heritage Register contains information about significant historical and cultural sites, buildings, and objects in New South Wales, Australia.",13.6,CORRECT,"The model's answer provides additional context and specific details about the Peppers Manor House's location and its status on the New South Wales State Heritage Register. While the core information about the location is correct, the model's answer includes extra information that the gold answer does not have, such as the specific location and the fact that it is not on the New South Wales State Heritage Register. This extra information does not contradict the gold answer but rather provides more comprehensive details.
+
+FINAL_VERDICT: CORRECT"
+25,What NFL team does the 2010 Washington Huskies head coach work for?,Atlanta Falcons,The 2010 Washington Huskies head coach does not work for the Atlanta Falcons.,The 2010 Washington Huskies head coach works for the Atlanta Falcons.,LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: The 2010 Washington Huskies head coach does not work for the Atlanta Falcons.",5.2,HALLUCINATED,"The gold answer states that the 2010 Washington Huskies head coach works for the Atlanta Falcons. The model's answer clarifies that the coach does not work for the Atlanta Falcons, which is the opposite of the gold answer. Therefore, the model's answer does not convey the same factual content as the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+26,What country of origin does Patrick Brice and Creep have in common?,American,"Patrick Brice is a British actor, and Creep is a British rock band, so they have the same country of origin: the United Kingdom.",I don't have the information to answer this question.,LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Patrick Brice is a British actor, and Creep is a British rock band, so they have the same country of origin: the United Kingdom.",6.3,HALLUCINATED,"The model's answer provides additional context about Patrick Brice being a British actor and Creep being a British rock band, which is not relevant to the question of their country of origin. The gold answer simply states that both have the same country of origin as the United Kingdom, which is factually correct based on the information provided. However, the model's answer includes extra information that is not necessary for answering the question.
+
+FINAL_VERDICT: HALLUCINATED"
+27,Where is the base of one of the three main British intelligence agencies?,Cheltenham,"The base of the Government Communications Headquarters (GCHQ) is not located in Cheltenham, but in Cheltenham town centre, specifically in a building known as ""The Doughnut"".","The base of the Government Communications Headquarters (GCHQ) is located in the suburbs of Cheltenham, specifically in ""The Doughnut"".",LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: The base of the Government Communications Headquarters (GCHQ) is not located in Cheltenham, but in Cheltenham town centre, specifically in a building known as ""The Doughnut"".",7.9,CORRECT,"The gold answer states that the base of one of the three main British intelligence agencies is located in Cheltenham. The model's answer, however, specifies that the base of the Government Communications Headquarters (GCHQ) is located in Cheltenham town centre, specifically in a building known as ""The Doughnut"". This information is accurate and provides more specific details about the location of GCHQ's base.
+
+While the model's answer is more detailed and precise, it still conveys the same factual content as the gold answer, which is that the base is located in Cheltenham. The model's answer just provides a more specific location within Cheltenham.
+
+FINAL_VERDICT: CORRECT"
+28,Where did the fairy Queen Mab orginate?  ,William Shakespeare,Irish and English legend.,Irish and English legend.,LOW,KEPT,"VERDICT: KEEP
+
+The proposed answer ""Irish and English legend"" is correct. Queen Mab is indeed associated with both Irish and English folklore.",4.9,CORRECT,"The gold answer states that Queen Mab originated from William Shakespeare, which is a specific attribution. The model's answer, ""Irish and English legend,"" is more general and does not specify the originator as Shakespeare. However, it does mention that Queen Mab comes from both Irish and English legends, which is consistent with the idea that she could have originated from Shakespeare's works, as he was influenced by these legends. 
+
+Given this, the model's answer, while not as precise, still conveys the same general factual content as the gold answer, just in a different way.
+
+FINAL_VERDICT: CORRECT"
+29,What type of soprano was Emma Matthews famous for?,lyric soprano is a type of operatic soprano voice,Lyric coloratura soprano.,Lyric coloratura soprano.,HIGH,KEPT,VERDICT: KEEP,1.7,HALLUCINATED,"The gold answer states that a lyric soprano is a type of operatic soprano voice. The model's answer specifies a lyric coloratura soprano. While both answers are related to the type of soprano voice, a lyric coloratura soprano is a more specific and advanced classification compared to just being a lyric soprano. A lyric coloratura soprano combines the qualities of a lyric soprano with those of a coloratura soprano, which is a more specialized and demanding voice type.
+
+FINAL_VERDICT: HALLUCINATED"
+30,"The 2011 Major League Soccer All-Star Game, held on July 27, 2011, was the 16th annual Major League Soccer All-Star Game, Manchester United won the game 4–0 with goals from players, including Daniel Nii Tackie Mensah Welbeck, an English professional footballer who plays for which organization, club Arsenal and the England national team?",Premier League,"Manchester United won the game 4–0 with goals from players, including Daniel Nii Tackie Mensah Welbeck, an English professional footballer who plays for the club Arsenal and the England national team.",Club Arsenal and the England national team.,LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Manchester United won the game 4–0 with goals from players, including Daniel Nii Tackie Mensah Welbeck, an English professional footballer who plays for the club Arsenal and the England national team.",9.6,HALLUCINATED,"The model's answer does not convey the same factual content as the gold answer. The gold answer specifically asks about the organization, club Arsenal, and the model's answer does not mention Arsenal at all. Instead, it states that Daniel Nii Tackie Mensah Welbeck plays for the club Arsenal and the England national team. 
+
+FINAL_VERDICT: HALLUCINATED"
+31,Near what river is the library that contains the Aberdeen Bestiary located?,the River Thames,"The Aberdeen Bestiary is not located near the River Thames; it is located near the River Don in Aberdeen, Scotland.",The Aberdeen Bestiary is located near the River Thames.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: The Aberdeen Bestiary is not located near the River Thames; it is located near the River Don in Aberdeen, Scotland.",5.8,HALLUCINATED,"The gold answer states that the Aberdeen Bestiary is located near the River Thames, while the model's answer states that it is located near the River Don in Aberdeen, Scotland. These statements are contradictory and convey different factual information. Therefore, the model's answer does not convey the same factual content as the gold answer, even if worded differently.
+
+FINAL_VERDICT: HALLUCINATED"
+32,What life member of The Actors Studio often portraying military or authority figure roles stared in a film that  was directed by Richard Wilson?,Robert F. Simon,"Ralph Fiennes often portrayed military or authority figure roles and starred in the film ""The Great Escape,"" which was directed by John Sturges, not Richard Wilson.",I cannot verify if Richard Wilson directed a film starring Ralph Fiennes and Tom Sizemore.,LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Ralph Fiennes often portrayed military or authority figure roles and starred in the film ""The Great Escape,"" which was directed by John Sturges, not Richard Wilson.",6.9,HALLUCINATED,"The model's answer contains several factual errors. The correct answer is Robert F. Simon, who was a life member of The Actors Studio and often portrayed military or authority figure roles. The film ""The Great Escape"" was indeed directed by John Sturges, not Richard Wilson. The model's answer incorrectly states that Ralph Fiennes starred in ""The Great Escape,"" which is not true. Additionally, Ralph Fiennes is not associated with The Actors Studio, which is another discrepancy.
+
+FINAL_VERDICT: HALLUCINATED"
+33,"Proud To Commit Commercial Suicide is a live album by industrial metal band Nailbomb and captures the band's only live appearance at the 1995 Dynamo Open Air Festival, the album cover is a picture of the aftermath of which infamous remote settlement established by the Peoples Temple, an American socialist organization under the leadership of Jim Jones, in northwestern Guyana?",Jonestown,Jonestown.,Jonestown.,HIGH,KEPT,"VERDICT: KEEP
+
+The proposed answer ""Jonestown"" is correct. The album cover of ""Proud To Commit Commercial Suicide"" by Nailbomb does indeed depict the aftermath of the infamous remote settlement known as Jonestown, established by the Peoples Temple under the leadership of Jim Jones in northwestern Guyana.",9.8,CORRECT,"The model's answer ""Jonestown"" conveys the same factual content as the gold answer ""Jonestown"". Both refer to the same remote settlement established by the Peoples Temple under the leadership of Jim Jones in northwestern Guyana.
+
+FINAL_VERDICT: CORRECT"
+34,Who directed the film in which Christoph Koncz starred as Kaspar Weiss ?,François Girard,I couldn't find any information about Christoph Koncz starring as Kaspar Weiss in any film.,I couldn't find any information about a person named Christoph Koncz starring as Kaspar Weiss.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: I couldn't find any information about Christoph Koncz starring as Kaspar Weiss in any film.",5.1,HALLUCINATED,"The model's answer does not convey the same factual content as the gold answer. The gold answer provides a specific director, François Girard, for a film in which Christoph Koncz starred as Kaspar Weiss. The model's answer, however, indicates that no information could be found about such a film, which is the opposite of the gold answer. 
+
+FINAL_VERDICT: HALLUCINATED"
+35,"Decommissioning in Northern Ireland was a process in the Belfast Agreement as part of the Northern Ireland peace process, the Northern Ireland peace process is often considered to cover the events leading up to which year, Provisional Irish Republican Army (IRA) ceasefire, the end of most of the violence of the Troubles, the Good Friday (or Belfast) Agreement of 1998, and subsequent political developments?",1994,"The Northern Ireland peace process is often considered to cover the events leading up to the Provisional Irish Republican Army (IRA) ceasefire in 1994, the end of most of the violence of the Troubles, the Good Friday (or Belfast) Agreement of 1998, and subsequent political developments.",1994.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: The Northern Ireland peace process is often considered to cover the events leading up to the Provisional Irish Republican Army (IRA) ceasefire in 1994, the end of most of the violence of the Troubles, the Good Friday (or Belfast) Agreement of 1998, and subsequent political developments.",11.1,CORRECT,"The model's answer includes the year 1994, which is correct according to the gold answer. The model also correctly mentions the Provisional Irish Republican Army (IRA) ceasefire in 1994, the end of most of the violence of the Troubles, and the Good Friday (or Belfast) Agreement of 1998. The model's answer is essentially conveying the same factual content as the gold answer, even if the wording is slightly different.
+
+FINAL_VERDICT: CORRECT"
+36,Are Monoral and Versus both rock bands?,yes,"Yes, both Monoral and Versus are rock bands.","Yes, both Monoral and Versus are rock bands.",HIGH,KEPT,"VERDICT: KEEP
+
+The proposed answer is correct. Both Monoral and Versus are indeed rock bands.",3.9,CORRECT,"The model's answer ""Yes, both Monoral and Versus are rock bands"" conveys the same factual content as the gold answer ""yes"" but with a slight difference in wording. The gold answer is more concise and to the point, while the model's answer provides a bit more context by mentioning that both are rock bands.
+
+FINAL_VERDICT: CORRECT"
+37,Which prefecture is the city where the Japanese actor Akiji Kobayashi passed away the capital of?,Kanagawa Prefecture,"Akiji Kobayashi passed away in Yokohama City, which is the capital of Kanagawa Prefecture.",Kanagawa Prefecture.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Akiji Kobayashi passed away in Yokohama City, which is the capital of Kanagawa Prefecture.",5.6,CORRECT,"The model's answer provides additional context by specifying that Akiji Kobayashi passed away in Yokohama City, which is indeed the capital of Kanagawa Prefecture. This information is supplementary to the gold answer, which only states that the prefecture is Kanagawa.
+
+However, the core factual content - that the prefecture is Kanagawa - is conveyed correctly in both the gold answer and the model's answer. The model's answer includes the city name, which is accurate but not necessary for the core fact.
+
+FINAL_VERDICT: CORRECT"
+38,In what year was the Korean student scholarship established by South Korean business magnate and the chairman of Samsung Group?,2002,"The Korean student scholarship was not established by South Korean business magnate and the chairman of Samsung Group. The scholarship program was actually established by Samsung Foundation, not Samsung Group's chairman.",2002.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: The Korean student scholarship was not established by South Korean business magnate and the chairman of Samsung Group. The scholarship program was actually established by Samsung Foundation, not Samsung Group's chairman.",7.1,CORRECT,"The gold answer states that the Korean student scholarship was established by the chairman of Samsung Group, which is incorrect. The model's answer clarifies that the scholarship was actually established by the Samsung Foundation, not the chairman of Samsung Group. This answer provides the correct information but in a different way, essentially conveying the same factual content.
+
+FINAL_VERDICT: CORRECT"
+39,Cooper pairs were first described by an American physicist born in what year?,1930,"Cooper pairs were first described by an American physicist John Bardeen, who was born in 1908.",1930.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Cooper pairs were first described by an American physicist John Bardeen, who was born in 1908.",5.4,HALLUCINATED,"The gold answer provides the year 1930, while the model's answer provides the name John Bardeen and the year 1908. These pieces of information are not equivalent. John Bardeen is indeed an American physicist who is associated with the discovery of Cooper pairs, but he was not the first to describe them. The year 1930 is the year Cooper pairs were first described, not the birth year of the physicist who described them. Therefore, the model's answer conveys different factual content.
+
+FINAL_VERDICT: HALLUCINATED"
+40,Jang Yeong-sil is a historical drama television series starring a South Korean actor best known for his role in what 2006 hit drama series? ,Jumong,"Jang Yeong-sil is a historical drama television series starring a South Korean actor best known for his role in ""Jumong"" in 2006.","""Jumong"".",HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Jang Yeong-sil is a historical drama television series starring a South Korean actor best known for his role in ""Jumong"" in 2006.",7.1,CORRECT,"The model's answer includes additional information that is not present in the gold answer, such as specifying that Jang Yeong-sil is a historical drama television series and that the actor is best known for his role in ""Jumong"" in 2006. However, the core factual information that Jumong is a 2006 hit drama series starring a South Korean actor best known for his role in Jumong is conveyed correctly.
+
+FINAL_VERDICT: CORRECT"
+41,Which actor in The 39 Steps also starred in the series The Strain?,Rupert Penry-Jones,"Jonathan Banks starred in The Strain, not Jonathan Hyde. Jonathan Hyde is known for his role in The 39 Steps.",Jonathan Hyde starred in The Strain.,LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Jonathan Banks starred in The Strain, not Jonathan Hyde. Jonathan Hyde is known for his role in The 39 Steps.",5.8,HALLUCINATED,"The model's answer contains a factual error. The correct answer should be Rupert Penry-Jones, who starred in both ""The 39 Steps"" and ""The Strain."" Jonathan Banks starred in ""The Strain,"" not Jonathan Hyde. The model's answer incorrectly states that Jonathan Hyde starred in ""The Strain,"" which is not accurate. 
+
+FINAL_VERDICT: HALLUCINATED"
+42,Were both the Hanover Hound and Toy Trawler Spaniel introduced to France?,no,"The proposed answer is partially correct, but it does not address the Hanover Hound. The Hanover Hound was introduced to France, while the Toy Trawler Spaniel is an extinct breed from the 16th century.","No, the Toy Trawler Spaniel was not introduced to France, it was an extinct breed from the 16th century.",LOW,REVISED,"The proposed answer contains an error. The Hanover Hound is a breed that was introduced to France, although its exact introduction date is not widely documented. The Toy Trawler Spaniel, however, is indeed an extinct breed from the 16th century, as stated in the proposed answer.
+
+VERDICT: REVISE
+CORRECTED_ANSWER: The proposed answer is partially correct, but it does not address the Hanover Hound. The Hanover Hound was introduced to France, while the Toy Trawler Spaniel is an extinct breed from the 16th century.",15.6,HALLUCINATED,"The model's answer provides additional information about the Hanover Hound being introduced to France, which aligns with the gold answer's assertion that both dogs were introduced to France. However, the model's answer also introduces the concept of the Toy Trawler Spaniel being an extinct breed from the 16th century, which is not relevant to the original question about the introduction to France. 
+
+Given this, the model's answer does not convey the same factual content as the gold answer, even if it includes the relevant information about the Hanover Hound.
+
+FINAL_VERDICT: HALLUCINATED"
+43,"Which board game was created by Reiner Knizia, Junta or Medici?",Medici,"Medici was not created by Reiner Knizia, Junta was the board game created by Reiner Knizia.",Medici was created by Reiner Knizia.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Medici was not created by Reiner Knizia, Junta was the board game created by Reiner Knizia.",5.7,CORRECT,"The gold answer states that Medici was created by Reiner Knizia, which is incorrect. The model's answer correctly states that Medici was not created by Reiner Knizia and that Junta was the board game created by Reiner Knizia. This information is factually correct and conveys the same core message as the gold answer, even if the wording is different.
+
+FINAL_VERDICT: CORRECT"
+44,Were George Melford and Giuseppe Tornatore both actors?,no,"George Melford was primarily an actor, director, producer, and screenwriter, while Giuseppe Tornatore is a film director and screenwriter.","No, George Melford was an actor, director, producer, and screenwriter, while Giuseppe Tornatore is a film director and screenwriter.",LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: George Melford was primarily an actor, director, producer, and screenwriter, while Giuseppe Tornatore is a film director and screenwriter.",6.7,HALLUCINATED,"The gold answer states that both George Melford and Giuseppe Tornatore were actors. However, the model's answer indicates that George Melford was primarily involved in acting-related fields (actor, director, producer, and screenwriter) and that Giuseppe Tornatore is a film director and screenwriter. This implies that George Melford was indeed an actor, but the model's answer does not explicitly state that both were actors. 
+
+The model's answer provides more detailed information about each individual's roles, which is not necessary to determine if both were actors. The core fact that both were actors is not conveyed in the same way as the gold answer, which directly states ""no"" to both individuals being actors.
+
+FINAL_VERDICT: HALLUCINATED"
+45,What Japanese mixed martial artist worked for the Dream organization in many of their promoted MMA shows?,Kazushi Sakuraba,Kazushi Sakuraba.,Kazushi Sakuraba.,HIGH,KEPT,"VERDICT: KEEP
+
+The proposed answer Kazushi Sakuraba is correct. Kazushi Sakuraba is indeed a Japanese mixed martial artist who worked for the Dream organization in many of their promoted MMA shows.",6.4,CORRECT,"The model's answer ""Kazushi Sakuraba"" is identical to the gold answer ""Gold (correct) answer: Kazushi Sakuraba"". 
+
+The model's answer is a direct and exact match to the gold answer, conveying the same factual content. 
+
+FINAL_VERDICT: CORRECT"
+46,"Which catherdral is located in London, Norwich Cathedral or St Paul's Cathedral?",St Paul's Cathedral,St Paul's Cathedral is located in London.,St Paul's Cathedral is located in London.,HIGH,KEPT,"VERDICT: KEEP
+
+The proposed answer is correct. St Paul's Cathedral is indeed located in London.",3.9,HALLUCINATED,"The model's answer, ""St Paul's Cathedral is located in London,"" does not convey the same factual content as the gold answer, ""St Paul's Cathedral"" (without the location information). The gold answer is factually correct and concise, while the model's answer provides additional context that is not present in the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+47,"Which musican is older, Tom Verlaine or David Vincent?",Tom Verlaine,Tom Verlaine is older than David Vincent.,Tom Verlaine is older than David Vincent.,HIGH,KEPT,"To determine the correct verdict, I need to compare the ages of Tom Verlaine and David Vincent.
+
+Tom Verlaine (born 1952) and David Vincent (born 1954) were both born in the 1950s. Since David Vincent was born later than Tom Verlaine, Tom Verlaine is older than David Vincent.
+
+VERDICT: KEEP",11.0,CORRECT,"The model's answer, ""Tom Verlaine is older than David Vincent,"" conveys the same factual content as the gold answer, ""Tom Verlaine is older."" The model's answer includes an additional detail (that Tom Verlaine is older) which is not present in the gold answer, but it still correctly identifies the older musician. 
+
+FINAL_VERDICT: CORRECT"
+48,"Who owns a mall in Youngstown, Ohio with a BAM! store?",Cafaro Company,"Codding Enterprises owns a mall in Youngstown, Ohio with a BAM! store, but Simon Property Group is the parent company and does not own Santa Rosa Plaza.","Codding Enterprises owns the mall, and Simon Property Group is the parent company, but they also own Santa Rosa Plaza.",LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Codding Enterprises owns a mall in Youngstown, Ohio with a BAM! store, but Simon Property Group is the parent company and does not own Santa Rosa Plaza.",6.8,HALLUCINATED,"The gold answer states that the Cafaro Company owns a mall in Youngstown, Ohio with a BAM! store. The model's answer, however, states that Codding Enterprises owns a mall in Youngstown, Ohio with a BAM! store, but Simon Property Group is the parent company and does not own Santa Rosa Plaza. The model's answer introduces new information (Codding Enterprises and Simon Property Group) that is not present in the gold answer, and it also includes a detail (Santa Rosa Plaza) that is not relevant to the question. Therefore, the model's answer does not convey the same factual content as the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+49,When was the rapper on Lil B.I.G. Pac born?,"June 11, 1997","The proposed answer is incorrect. The rapper on Lil B.I.G. Pac is not born in 1997. Lil B.I.G. Pac is a stage name for the rapper Big Poppa, who was born on January 22, 1972.","June 11, 1997.",HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: The proposed answer is incorrect. The rapper on Lil B.I.G. Pac is not born in 1997. Lil B.I.G. Pac is a stage name for the rapper Big Poppa, who was born on January 22, 1972.",9.7,CORRECT,"The model's answer provides the correct date of birth for the rapper Big Poppa, who was born on January 22, 1972, instead of 1997. This is factually correct and conveys the same essential information as the gold answer, which stated that the rapper on Lil B.I.G. Pac was born in 1997. The model's answer simply provides the correct date, which is different from the gold answer but still correct.
+
+FINAL_VERDICT: CORRECT"
+50,"What is the name of this 2010 American romantic comedy film directed by Garry Marshall, released February 9, 2010 via Big Machine Records?",Valentine's Day,"Valentine's Day is not a 2010 American romantic comedy film directed by Garry Marshall. The correct film is ""Something's Gotta Give,"" also released on February 9, 2010.",Valentine's Day.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Valentine's Day is not a 2010 American romantic comedy film directed by Garry Marshall. The correct film is ""Something's Gotta Give,"" also released on February 9, 2010.",8.5,HALLUCINATED,"The model's answer provides additional information that differs from the gold answer. While the gold answer correctly identifies ""Valentine's Day"" as the film, the model's answer states that ""Valentine's Day"" is not a 2010 American romantic comedy film directed by Garry Marshall, and instead identifies ""Something's Gotta Give"" as the correct film. This information is factually incorrect because ""Valentine's Day"" was indeed a 2010 American romantic comedy film directed by Garry Marshall, released on February 9, 2010. 
+
+FINAL_VERDICT: HALLUCINATED"
+51,When was the railroad opened which is north to the Bates Pond?,1947,1947.,1947.,LOW,KEPT,"To accurately answer this question, I need more specific information about which railroad and its exact location. The question mentions ""north to the Bates Pond,"" but Bates Pond is located in Maine, and without knowing which particular railroad and its exact geographical orientation relative to the pond, it's impossible to determine the year of its opening.
+
+Given the lack of specific details, I cannot verify or refute the year 1947. Therefore, based on the information provided, the answer is:
+
+VERDICT: REVISE",13.3,CORRECT,"The model's answer is identical to the gold answer, both stating the year as 1947. 
+
+Given that the model's answer is a direct repetition of the gold answer without any additional or altered information, it conveys the same factual content.
+
+FINAL_VERDICT: CORRECT"
+52,"Who is Mary, Crown Princess of Denmark's mother-in-law?",Queen Margrethe II,Queen Margrethe II's mother-in-law is Queen Ingrid of Sweden.,Queen Margrethe II.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Queen Margrethe II's mother-in-law is Queen Ingrid of Sweden.",4.6,HALLUCINATED,"The gold answer states that Mary, Crown Princess of Denmark, is Queen Margrethe II's mother-in-law. The model's answer, however, claims that Queen Margrethe II's mother-in-law is Queen Ingrid of Sweden, which is incorrect. Queen Margrethe II is the mother-in-law of Margrethe II of Norway, not Queen Ingrid of Sweden.
+
+FINAL_VERDICT: HALLUCINATED"
+53,In what party is the president whose cabinet Francisco Javier Mayorga Castañeda serves in?,National Action Party,"Francisco Javier Mayorga Castañeda serves in the National Action Party (PAN), but the proposed answer states that Felipe Calderón is a member of the National Action Party (PAN), which is incorrect.",Felipe Calderón is a member of the National Action Party (PAN).,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Francisco Javier Mayorga Castañeda serves in the National Action Party (PAN), but the proposed answer states that Felipe Calderón is a member of the National Action Party (PAN), which is incorrect.",8.0,HALLUCINATED,"The gold answer states that Francisco Javier Mayorga Castañeda serves in the National Action Party (PAN). The model's answer, however, incorrectly attributes this to Felipe Calderón, who is indeed a member of the National Action Party (PAN), but the model's answer is still incorrect because it does not specify which president's cabinet Mayorga Castañeda serves in. The model's answer provides additional information that is not relevant to the core fact being asked, which is which president's cabinet Mayorga Castañeda serves in. 
+
+FINAL_VERDICT: HALLUCINATED"
+54,What genre are both Giant Drag and Chagall Guevara?,rock,Both Giant Drag and Chagall Guevara are not Indie rock bands; Giant Drag is a drag performer and Chagall Guevara is a visual artist and musician.,Both Giant Drag and Chagall Guevara are Indie rock bands.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Both Giant Drag and Chagall Guevara are not Indie rock bands; Giant Drag is a drag performer and Chagall Guevara is a visual artist and musician.",7.0,HALLUCINATED,"The gold answer states that both Giant Drag and Chagall Guevara belong to the rock genre. The model's answer clarifies that Giant Drag is a drag performer and Chagall Guevara is a visual artist and musician, but it does not provide information about their genre. Therefore, the model's answer does not convey the same factual content as the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+55,What is the best-seller by Ruta Sepetys?,Between Shades of Gray,Between Shades of Gray is the best-seller by Ruta Sepetys.,Between Shades of Gray is the best-seller by Ruta Sepetys.,HIGH,KEPT,VERDICT: KEEP,1.9,CORRECT,"The model's answer is essentially conveying the same factual content as the gold answer, despite the slight difference in wording. The core information that ""Between Shades of Gray"" is the best-seller by Ruta Sepetys is preserved.
+
+FINAL_VERDICT: CORRECT"
+56,Scary Movie 5 was released under what independent film distribution label?,Dimension Films,I couldn't find any information on Scary Movie 5's release under an independent film distribution label.,I couldn't find any information on Scary Movie 5's release under an independent film distribution label.,LOW,KEPT,"VERDICT: KEEP
+
+The proposed answer accurately reflects that there is no information available about Scary Movie 5's release under an independent film distribution label.",5.1,HALLUCINATED,"The model's answer does not convey the same factual content as the gold answer. The gold answer provides a specific label, Dimension Films, for the independent film distribution of Scary Movie 5. The model's answer, however, states that no information could be found on Scary Movie 5's release under an independent film distribution label. This is a different and contradictory statement to the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+57,"What is the population of the small town with an Air Force Base 7 mi northeast of Sacramento, California?",743,"The population of McClellan Park is approximately 1,000.",The population of McClellan Park is 743.,LOW,REVISED,"To accurately answer this question, I need to verify the population of McClellan Park, a small town with an Air Force Base, which is indeed located 7 miles northeast of Sacramento, California.
+
+After checking reliable sources, I found that the population of McClellan Park is not 743. According to the most recent data, the population of McClellan Park is approximately 1,000.
+
+VERDICT: REVISE
+CORRECTED_ANSWER: The population of McClellan Park is approximately 1,000.",15.4,HALLUCINATED,"The gold answer states that the population of the small town with an Air Force Base 7 mi northeast of Sacramento, California is 743. The model's answer states that the population of McClellan Park is approximately 1,000. These two answers are conveying different factual information. The gold answer specifies a population of 743, while the model's answer specifies a population of 1,000. Therefore, the model's answer does not convey the same factual content as the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+58,When did the coach of the Karachi Kings finish his time as coach of the Australia national cricket team ?,23 June 2013.,Mickey Arthur was sacked on 23 June 2013.,Mickey Arthur was sacked on 23 June 2013.,LOW,KEPT,"VERDICT: KEEP
+
+The proposed answer is correct. Mickey Arthur was indeed sacked as the coach of the Australia national cricket team on 23 June 2013.",5.7,CORRECT,"The gold answer provides the specific date (23 June 2013) when Mickey Arthur was sacked as the coach of the Australia national cricket team. The model's answer also provides the date and the name of the person (Mickey Arthur) who was sacked. The model's answer is worded differently but still conveys the same factual information as the gold answer.
+
+FINAL_VERDICT: CORRECT"
+59,"What is the location of this recently retired domed stadium in the southeastern United States, which was developed by the same authority that developed the Georgia World Congress Center?","Atlanta, Georgia","Atlanta, Georgia.","Atlanta, Georgia.",HIGH,KEPT,"To determine the accuracy of the proposed answer, let's first identify the key details: the retired domed stadium in the southeastern United States, developed by the same authority that developed the Georgia World Congress Center.
+
+The Georgia World Congress Center is located in Atlanta, Georgia. The stadium in question, the Georgia Dome, was indeed located in Atlanta, Georgia. The Georgia Dome was developed by the Georgia World Congress Center Authority, which is the same authority that developed the Georgia World Congress Center.
+
+Given this information, the proposed answer ""Atlanta, Georgia"" is correct.
+
+VERDICT: KEEP",15.0,CORRECT,"The model's answer is identical to the gold answer, both stating that the location is Atlanta, Georgia. The only difference is the word order, which does not alter the factual content.
+
+FINAL_VERDICT: CORRECT"
+60,"Which director has won an Oscar, Ron Shelton or Ken Mora?","Ronald Wayne ""Ron"" Shelton","Ken Mora has won an Oscar, but Ron Shelton has not.",Neither Ron Shelton nor Ken Mora has won an Oscar.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Ken Mora has won an Oscar, but Ron Shelton has not.",4.5,CORRECT,"The gold answer states that Ron Shelton has won an Oscar, while the model's answer clarifies that Ken Mora has won an Oscar and Ron Shelton has not. Both statements convey the same core information, just with a different order of information.
+
+FINAL_VERDICT: CORRECT"
+61,Were One Hundred and One Dalmatians and Fun and Fancy Free both animated films?,yes,"Yes, both One Hundred and One Dalmatians and Fun and Fancy Free are animated films.","Yes, both One Hundred and One Dalmatians and Fun and Fancy Free are animated films.",LOW,KEPT,"VERDICT: KEEP
+
+The proposed answer is correct. Both ""One Hundred and One Dalmatians"" and ""Fun and Fancy Free"" are indeed animated films.",5.5,CORRECT,"The model's answer, ""Yes, both One Hundred and One Dalmatians and Fun and Fancy Free are animated films,"" conveys the same factual content as the gold answer, ""yes,"" even if the word order is different. Both statements confirm that both films are animated.
+
+FINAL_VERDICT: CORRECT"
+62,"A large distribution center is for a company with over 13,000 stores and what other company?",PetSmart,"A large distribution center for a company with over 13,000 stores is not associated with PetSmart. PetSmart is a retailer, not a company that typically has distribution centers.",PetSmart.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: A large distribution center for a company with over 13,000 stores is not associated with PetSmart. PetSmart is a retailer, not a company that typically has distribution centers.",7.4,HALLUCINATED,"The model's answer states that a large distribution center for a company with over 13,000 stores is not associated with PetSmart, which is correct. However, the gold answer specifically mentions PetSmart as the company with over 13,000 stores that has a large distribution center, which is not supported by factual information. PetSmart is indeed a retailer, not a company that typically has distribution centers.
+
+Given this, the model's answer is factually correct but does not convey the same exact factual content as the gold answer, which makes a specific claim about PetSmart.
+
+FINAL_VERDICT: HALLUCINATED"
+63,In what year did the water park that Surfrider is part of rank first in Australia?,2009,2009.,2009.,HIGH,KEPT,"To accurately review this answer, I need to know which water park Surfrider is part of. Without this information, I cannot determine the year in which that specific water park ranked first in Australia. 
+
+If you could provide the name of the water park Surfrider is part of, I would be able to check the rankings and provide a factual answer.",9.8,CORRECT,"The model's answer is identical to the gold answer, both stating the year as 2009. The only difference is the use of ""Gold"" in the gold answer and the absence of ""Gold"" in the model's answer. This does not alter the factual content.
+
+FINAL_VERDICT: CORRECT"
+64,"Ricardo Viñes, a Spanish pianist, premiered the works of Maurice Ravel, who is associated with what style?",impressionism,Maurice Ravel is associated with the Impressionist style of music.,Impressionism.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Maurice Ravel is associated with the Impressionist style of music.",4.4,CORRECT,"The gold answer states that Ricardo Viñes premiered Maurice Ravel's works and that Ravel is associated with impressionism. The model's answer states that Maurice Ravel is associated with the Impressionist style of music. 
+
+While the model's answer is worded differently, it still conveys the same factual content as the gold answer. Both identify Maurice Ravel as associated with the Impressionist style of music, which is a synonym for impressionism.
+
+FINAL_VERDICT: CORRECT"
+65,Which 'My Name Is Earl' star is also know for his role in a advertising campaign for OfficeMax?,Eddie Steeples,"Eddie Griffin is known for his role in an advertising campaign for OfficeMax, not Eddie Steeples.",Eddie Steeples.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Eddie Griffin is known for his role in an advertising campaign for OfficeMax, not Eddie Steeples.",5.2,CORRECT,"The model's answer is incorrect. The correct answer is Eddie Griffin, not Eddie Steeples. Eddie Griffin is indeed known for his role in an advertising campaign for OfficeMax, while Eddie Steeples is a character from the TV show ""My Name Is Earl.""
+
+FINAL_VERDICT: CORRECT"
+66,What actor starred on the Defenders in the 1960s as well as in At Mother's Request,E. G. Marshall,"E.G. Marshall starred in ""At Mother's Request,"" but he did not star in ""Defenders"" in the 1960s.","I cannot verify E.G. Marshall starred in ""At Mother's Request.""",LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: E.G. Marshall starred in ""At Mother's Request,"" but he did not star in ""Defenders"" in the 1960s.",6.6,CORRECT,"The gold answer states that E. G. Marshall starred in both ""Defenders"" in the 1960s and ""At Mother's Request."" The model's answer conveys the same factual content but in a different way. The model's answer corrects the information by stating that E. G. Marshall did not star in ""Defenders"" in the 1960s, which aligns with the gold answer's assertion that he starred in ""At Mother's Request"" but not in ""Defenders.""
+
+FINAL_VERDICT: CORRECT"
+67,Are Macworld and College Humor both magazines?,no,"No, Macworld is a website, while College Humor was a magazine.","No, Macworld is a website, while College Humor was a magazine.",HIGH,KEPT,"VERDICT: KEEP
+
+The proposed answer is correct. Macworld is indeed a website, and College Humor was a magazine. No revision is needed.",5.0,CORRECT,"The gold answer states that both Macworld and College Humor are magazines. The model's answer clarifies that Macworld is a website and that College Humor was a magazine at some point in time. This information is factually correct and aligns with the gold answer's assertion that both are magazines, albeit with additional context about Macworld's current status as a website.
+
+FINAL_VERDICT: CORRECT"
+68,"Francesco Rospigliosi Pallavicini was born in Rome, in what was then which territories in the Italian Peninsula under the sovereign direct rule of the pope, from the 8th century until 1870?",Papal States,The Papal States.,The Papal States.,HIGH,KEPT,"VERDICT: KEEP
+
+The proposed answer ""The Papal States"" is correct. Francesco Rospigliosi Pallavicini was indeed born in Rome, in territories that were then part of the Papal States, which were under the sovereign direct rule of the pope from the 8th century until 1870.",9.4,CORRECT,"The model's answer ""The Papal States"" conveys the same factual content as the gold answer ""Papal States"". Both terms refer to the same historical territories under the direct rule of the Pope in the Italian Peninsula from the 8th century until 1870, when these territories were abolished.
+
+FINAL_VERDICT: CORRECT"
+69,What country are both Kopparvallen and Conny Torstensson from?,Sweden,Sweden.,Sweden.,HIGH,KEPT,"To accurately determine the countries of origin for Kopparvallen and Conny Torstensson, we need to research each individually.
+
+Kopparvallen is a public park in Stockholm, Sweden. It is named after the Kopparviken stream, which originates in the Stockholm archipelago. Therefore, Kopparvallen is from Sweden.
+
+Conny Torstensson is a Swedish singer and songwriter. She was born in Stockholm, Sweden. 
+
+Based on this information, both Kopparvallen (the park) and Conny Torstensson (the person) are from Sweden.
+
+VERDICT: KEEP",16.2,CORRECT,"The model's answer ""Sweden"" is identical to the gold answer ""Sweden"". 
+
+The only difference is the presence of a space in the gold answer, which does not alter the factual content. Both answers convey the same information that both Kopparvallen and Conny Torstensson are from Sweden.
+
+FINAL_VERDICT: CORRECT"
+70,"Which film director directed the internet video serial ""God, Inc."", Roman Karmen or Francis Stokes?",Francis Stokes,"Roman Karmen directed the internet video serial ""God, Inc.""","Francis Stokes directed the internet video serial ""God, Inc."".",HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Roman Karmen directed the internet video serial ""God, Inc.""",4.5,HALLUCINATED,"The model's answer states that Roman Karmen directed the internet video serial ""God, Inc."", which is the opposite of the correct answer provided (Francis Stokes). Therefore, the model's answer does not convey the same factual content as the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+71,Lisa Brennan-Jobs is the daughter of which painter and writer?,Chrisann Brennan,"Lisa Brennan-Jobs is the daughter of Chrisann Brennan, not Chrisann Brennan-Jobs.",Lisa Brennan-Jobs is the daughter of Chrisann Brennan.,LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Lisa Brennan-Jobs is the daughter of Chrisann Brennan, not Chrisann Brennan-Jobs.",5.0,CORRECT,"The model's answer contains a minor error in the name Chrisann Brennan-Jobs, which is not present in the gold answer. However, the core information that Lisa Brennan-Jobs is the daughter of Chrisann Brennan is correct in both the gold answer and the model's answer. The only difference is the spelling of the mother's name, which is not a factual error but a typographical one.
+
+FINAL_VERDICT: CORRECT"
+72,"Goose Rocks Light is a sparkplug lighthouse located near North Haven, Maine in which location, an inlet of the Gulf of Maine and Atlantic Ocean in south central Maine?",Penobscot Bay,"Goose Rocks Light is a sparkplug lighthouse located near North Haven, Maine, in the Penobscot Bay, which is an inlet of the Gulf of Maine and Atlantic Ocean in south central Maine.",Penobscot Bay.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Goose Rocks Light is a sparkplug lighthouse located near North Haven, Maine, in the Penobscot Bay, which is an inlet of the Gulf of Maine and Atlantic Ocean in south central Maine.",7.8,CORRECT,"The model's answer includes additional geographical information (the Penobscot Bay being an inlet of the Gulf of Maine and Atlantic Ocean) that is not present in the gold answer. However, the core factual information about Goose Rocks Light being located in Penobscot Bay, which is in south central Maine, is present and correctly stated in the model's answer. 
+
+FINAL_VERDICT: CORRECT"
+73,What communications officer was on the staff of a fleet admiral in the United States Navy?,"John ""Jack"" Roland Redman","John ""Jack"" Roland Redman was not a communications officer on the staff of a fleet admiral in the United States Navy.","John ""Jack"" Roland Redman.",HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: John ""Jack"" Roland Redman was not a communications officer on the staff of a fleet admiral in the United States Navy.",5.9,HALLUCINATED,"The model's answer contradicts the gold answer. The gold answer states that John ""Jack"" Roland Redman was a communications officer on the staff of a fleet admiral in the United States Navy. However, the model's answer states that John ""Jack"" Roland Redman was not a communications officer on the staff of a fleet admiral in the United States Navy. These statements are in direct opposition to each other.
+
+FINAL_VERDICT: HALLUCINATED"
+74,"Titan and Balderdash, are which specific type of entertainment?",board game,"Titan and Balderdash are not specific types of entertainment, but rather names of roller coasters at Six Flags Magic Mountain amusement park.",Thrill rides.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Titan and Balderdash are not specific types of entertainment, but rather names of roller coasters at Six Flags Magic Mountain amusement park.",5.9,HALLUCINATED,"The gold answer states that Titan and Balderdash are specific types of board games. The model's answer, however, claims that Titan and Balderdash are names of roller coasters at Six Flags Magic Mountain amusement park. These are two different types of entertainment, with the model's answer being incorrect. The model's answer does not convey the same factual content as the gold answer, even if worded differently.
+
+FINAL_VERDICT: HALLUCINATED"
+75,In what state did Olivia Newton-John perform Summer Nights? ,Nevada,"Olivia Newton-John's performance of ""Summer Nights"" was not a residency but a concert held in Las Vegas, Nevada. However, the question asks about the state where she performed, and the answer should specify that the performance was in Las Vegas, Nevada.","None, as Olivia Newton-John's Summer Nights residency was held in Las Vegas, Nevada.",LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Olivia Newton-John's performance of ""Summer Nights"" was not a residency but a concert held in Las Vegas, Nevada. However, the question asks about the state where she performed, and the answer should specify that the performance was in Las Vegas, Nevada.",9.0,CORRECT,"The gold answer states that Olivia Newton-John performed ""Summer Nights"" in Nevada. The model's answer specifies that the performance was in Las Vegas, Nevada. While the model's answer provides more specific information (Las Vegas is a city within Nevada), it still conveys the same factual content as the gold answer, which is that the performance took place in Nevada.
+
+FINAL_VERDICT: CORRECT"
+76,Who was an American lawyer with a family of Scots-Irish ancestry of the Methodist faith from the patrilineal lineage?,George Franklin Getty,There is no information about an American lawyer with a family of Scots-Irish ancestry of the Methodist faith from the patrilineal lineage in the context provided.,There is no information about an American lawyer in the context.,LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: There is no information about an American lawyer with a family of Scots-Irish ancestry of the Methodist faith from the patrilineal lineage in the context provided.",6.6,HALLUCINATED,"The model's answer does not convey the same factual content as the gold answer. The gold answer provides a specific name, George Franklin Getty, which is a factual response to the given question. The model's answer, on the other hand, acknowledges that there is no information about such a person in the context provided, which is a different type of response. The model's answer is not hallucinating the information but rather stating that the information is not available, which is a factual statement.
+
+FINAL_VERDICT: HALLUCINATED"
+77,"What collegiate athletic conference headquartered in Birmingham, Alabama includes schools such as Texas Southern University?",Southwestern Athletic Conference,The Southwestern Athletic Conference (SWAC).,The Southwestern Athletic Conference (SWAC).,HIGH,KEPT,"VERDICT: KEEP
+
+The proposed answer is correct. The Southwestern Athletic Conference (SWAC) is indeed headquartered in Birmingham, Alabama and includes schools such as Texas Southern University.",5.7,CORRECT,"The model's answer ""The Southwestern Athletic Conference (SWAC)"" conveys the same factual content as the gold answer ""Southwestern Athletic Conference"" (SWAC). Both refer to the same collegiate athletic conference headquartered in Birmingham, Alabama, which includes schools such as Texas Southern University.
+
+FINAL_VERDICT: CORRECT"
+78,Foxcatcher is a 2014 American true crime sports drama film about a wrestling team set up in what state?,Pennsylvania,Pennsylvania.,Pennsylvania.,HIGH,KEPT,"VERDICT: KEEP
+
+The proposed answer is correct. Foxcatcher is indeed a 2014 American true crime sports drama film about a wrestling team, and it is set in Pennsylvania.",6.2,CORRECT,"The model's answer ""Pennsylvania"" is identical to the gold answer ""Pennsylvania"". The only difference is the capitalization of the first letter, which does not change the factual content of the answer.
+
+FINAL_VERDICT: CORRECT"
+79,What is the nationality of the 2003 FIBA Under-19 World Championship MVP ?,Australian,There is no information about the 2003 FIBA Under-19 World Championship MVP in the provided context.,There is no information about the 2003 FIBA Under-19 World Championship MVP in the provided context.,HIGH,KEPT,"VERDICT: KEEP
+
+The proposed answer accurately reflects that there is no information about the 2003 FIBA Under-19 World Championship MVP in the provided context. Therefore, no revision is necessary.",6.8,HALLUCINATED,"The model's answer does not convey the same factual content as the gold answer. The gold answer provides a specific nationality (Australian) for the 2003 FIBA Under-19 World Championship MVP, while the model's answer states there is no information available. These are fundamentally different pieces of information.
+
+FINAL_VERDICT: HALLUCINATED"
+80,Did Bedtime Stories and Big Red both star Walter Pidgeon?,no,"Bedtime Stories did not star Walter Pidgeon, but Big Red did.","No, Big Red starred Walter Pidgeon while Bedtime Stories did not.",LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Bedtime Stories did not star Walter Pidgeon, but Big Red did.",4.7,CORRECT,"The gold answer states that both Bedtime Stories and Big Red did not star Walter Pidgeon. The model's answer clarifies that Bedtime Stories did not star Walter Pidgeon, but Big Red did. This means that the model's answer is conveying the same factual content as the gold answer, just in a slightly different way. The core information about both films not starring Walter Pidgeon is preserved.
+
+FINAL_VERDICT: CORRECT"
+81,Which political ideology was the premise of The National Action Party?,Nationalism,"The National Action Party was not primarily a nationalist party, but rather a political party that advocated for Malay nationalism and the protection of Malay interests in the Malaysian political landscape.",Nationalism.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: The National Action Party was not primarily a nationalist party, but rather a political party that advocated for Malay nationalism and the protection of Malay interests in the Malaysian political landscape.",6.6,CORRECT,"The gold answer states that The National Action Party (PAN) was primarily a nationalist party. The model's answer clarifies that PAN was a political party that advocated for Malay nationalism and the protection of Malay interests, which is essentially a more detailed and specific version of the idea of a nationalist party.
+
+FINAL_VERDICT: CORRECT"
+82,"Who manages the station that serves a small town and civil parish in the Borough of Pendle Lancashire, England with a population of 8,200 as of 2011?",Northern,Northern manages the station that serves Brierfield. This is incorrect; the station is managed by Network Rail.,Northern manages the station that serves Brierfield.,LOW,REVISED,"To accurately answer this question, we need to verify the management of the station that serves Brierfield, a small town and civil parish in the Borough of Pendle, Lancashire, England, with a population of 8,200 as of 2011.
+
+Brierfield is served by the Brierfield railway station, which is part of the West Coast Main Line. The West Coast Main Line is managed by Network Rail, not Northern.
+
+Therefore, the proposed answer is incorrect.
+
+VERDICT: REVISE
+CORRECTED_ANSWER: Northern manages the station that serves Brierfield. This is incorrect; the station is managed by Network Rail.",17.9,HALLUCINATED,"The gold answer ""Northern"" is a general term that could refer to various transportation management entities, while the model's answer specifies ""Network Rail"" as the correct management entity for the station in Brierfield. Although both answers convey the idea that a management entity is responsible for the station, they do not convey the same factual content as they are not specifying the same management entity.
+
+FINAL_VERDICT: HALLUCINATED"
+83,Cindy Williams is an award-winning news anchor for a tv station whose trasmitter is located on what mountain?,Winn Mountain,"Winn Mountain in Sebago is not the location of the TV station's transmitter. Cindy Williams is not a news anchor, but an actress best known for her role as Roseanne on the TV show ""Diff'rent Strokes.""",Winn Mountain in Sebago.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Winn Mountain in Sebago is not the location of the TV station's transmitter. Cindy Williams is not a news anchor, but an actress best known for her role as Roseanne on the TV show ""Diff'rent Strokes.""",8.4,HALLUCINATED,"The model's answer contains factual errors. The correct answer states that Cindy Williams is not a news anchor, which is accurate. However, the model's answer incorrectly states that Cindy Williams is not an actress, which is incorrect. Additionally, the model's answer provides an incorrect location for the TV station's transmitter, stating it is in Sebago and not on Winn Mountain. Despite correcting the main point about Cindy Williams not being a news anchor, the model's answer introduces new inaccuracies and incorrect information.
+
+FINAL_VERDICT: HALLUCINATED"
+84,Snow White is a Disney media franchise based on a German fairy tale by who?,Brothers Grimm,Snow White is a Disney media franchise based on a German fairy tale by the Brothers Grimm.,The Brothers Grimm.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Snow White is a Disney media franchise based on a German fairy tale by the Brothers Grimm.",5.0,CORRECT,"The model's answer conveys the same factual content as the gold answer, even if it is worded differently. Both answers state that Snow White is based on a German fairy tale by the Brothers Grimm.
+
+FINAL_VERDICT: CORRECT"
+85," Harrah's Lake Tahoe is a hotel and casino owned and operated by the fourth-largest gaming company in the world, with annual revenues of what in 2013?",$8.6 billion,Harrah's Lake Tahoe's annual revenues were $2.5 billion in 2013.,$8.6 billion.,HIGH,REVISED,"To accurately review this answer, I need to verify the annual revenues of Harrah's Lake Tahoe in 2013. Harrah's Entertainment, which owned Harrah's Lake Tahoe, was acquired by Entertainments Group (now known as Boyd Gaming) in 2014. Therefore, the information provided in the proposed answer is outdated and incorrect.
+
+VERDICT: REVISE
+CORRECTED_ANSWER: Harrah's Lake Tahoe's annual revenues were $2.5 billion in 2013.",14.2,HALLUCINATED,"To determine if the model's answer conveys the same factual content as the gold answer, we need to compare the core information provided in both responses. The gold answer states that Harrah's Lake Tahoe's annual revenues in 2013 were $8.6 billion, while the model's answer states that the annual revenues were $2.5 billion in 2013. These figures are clearly different, with the gold answer being significantly higher than the model's answer.
+
+Given this discrepancy, the model's answer does not convey the same factual content as the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+86,"""Alvin for President"" is a song by which American animated fictional musical group?",Alvin and the Chipmunks,Alvin and the Chipmunks.,Alvin and the Chipmunks.,HIGH,KEPT,"VERDICT: KEEP
+
+The proposed answer ""Alvin and the Chipmunks"" is correct. ""Alvin for President"" is indeed a song by the American animated fictional musical group Alvin and the Chipmunks.",6.7,CORRECT,"The model's answer ""Alvin and the Chipmunks"" conveys the same factual content as the gold answer ""Alvin and the Chipmunks,"" even though the model's answer is a bit shorter and doesn't include the word ""fictional"" which was in the gold answer. However, the core information is the same.
+
+FINAL_VERDICT: CORRECT"
+87,Neetho starred which actress born on 1 February 1979?,Mahek Chahal,"Neetho starred with Neha Dhupia, who was born on 1 February 1979.",Mahek Chahal.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Neetho starred with Neha Dhupia, who was born on 1 February 1979.",5.6,HALLUCINATED,"The model's answer contains a factual error. While it is true that Neetho starred with Neha Dhupia, Neha Dhupia was not born on 1 February 1979. The correct birth date for Neha Dhupia is 1 February 1984, not 1979. Therefore, the model's answer is incorrect.
+
+FINAL_VERDICT: HALLUCINATED"
+88,"What were the Royal Navy Battleships, that were considered the first fast battleships and were used in WWI and WWII?","Queen Elizabeth""-class battleships","The ""Queen Elizabeth""-class battleships were considered the first fast battleships and were used in both World War I and World War II.","The ""Queen Elizabeth""-class battleships.",LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: The ""Queen Elizabeth""-class battleships were considered the first fast battleships and were used in both World War I and World War II.",6.2,CORRECT,"The model's answer conveys the same factual content as the gold answer, even if it is worded differently. Both statements identify the ""Queen Elizabeth""-class battleships as the first fast battleships and mention their usage in both World War I and World War II.
+
+FINAL_VERDICT: CORRECT"
+89,The Tama Maru No. 2 was damaged by what World War II American naval scout plane and dive bomber that was manufactured by Douglas Aircraft?,Douglas SBD Dauntless,The Douglas SBD Dauntless.,The Douglas SBD Dauntless.,HIGH,KEPT,"VERDICT: KEEP
+
+The proposed answer ""The Douglas SBD Dauntless"" is correct. The Douglas SBD Dauntless was indeed a World War II American naval scout plane and dive bomber that damaged the Tama Maru No. 2.",7.6,CORRECT,"The model's answer is essentially correct, but it lacks the ""No."" at the end of the aircraft's designation, which is present in the gold answer. This difference in wording does not change the core factual information conveyed.
+
+FINAL_VERDICT: CORRECT"
+90,Are Connie May Fowler and Vladimir Mayakovsky both poets?,yes,"Vladimir Mayakovsky is a poet, but Connie May Fowler is not widely recognized as a poet.","Yes, both Connie May Fowler and Vladimir Mayakovsky are poets.",HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Vladimir Mayakovsky is a poet, but Connie May Fowler is not widely recognized as a poet.",5.1,HALLUCINATED,"The gold answer states that both Connie May Fowler and Vladimir Mayakovsky are poets, which is a straightforward yes. The model's answer acknowledges that Vladimir Mayakovsky is a poet, but it also mentions that Connie May Fowler is not widely recognized as a poet. This implies that Connie May Fowler is not a poet, which is the opposite of the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+91,How many people died in the fire Brooklyn Theatre that was owned by Sarah Crocker Conway?,278 individuals,At least 297 people died in the fire that destroyed the Brooklyn Theatre.,At least 278 people died in the fire that destroyed the Brooklyn Theatre.,LOW,REVISED,"The proposed answer states that at least 278 people died in the fire that destroyed the Brooklyn Theatre. However, this number is incorrect. The Brooklyn Theatre fire, which occurred on April 18, 1896, in Brooklyn, New York, resulted in the deaths of 297 people, not 278.
+
+VERDICT: REVISE
+CORRECTED_ANSWER: At least 297 people died in the fire that destroyed the Brooklyn Theatre.",13.3,HALLUCINATED,"The gold answer states that 278 individuals died, while the model's answer states that at least 297 people died. The model's answer provides a higher number, which is not factually correct based on the gold answer. The gold answer is more precise and does not include the ""at least"" qualifier.
+
+FINAL_VERDICT: HALLUCINATED"
+92,Jack Moore played collegiately at the college in what NCAA conference?,Big Ten,Jack Moore did not play collegiately at the University of Oklahoma Sooners.,The University of Oklahoma Sooners.,LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Jack Moore did not play collegiately at the University of Oklahoma Sooners.",4.6,HALLUCINATED,"The gold answer provides information about Jack Moore playing collegiately at the University of Iowa, which is part of the Big Ten conference. The model's answer, however, states that Jack Moore did not play collegiately at the University of Oklahoma Sooners. This answer contradicts the gold answer, as it provides a different college and conference. 
+
+The model's answer does not convey the same factual content as the gold answer, even if worded differently. 
+
+FINAL_VERDICT: HALLUCINATED"
+93,"What was the nationality of Lana Turner's co-star in ""The Three Musketeers""?",American,American.,American.,HIGH,KEPT,"To accurately answer this question, we need to verify the nationality of Clark Gable, who was indeed Lana Turner's co-star in the 1935 film ""The Three Musketeers.""
+
+Clark Gable was an American actor. Therefore, the proposed answer that the co-star was American is factually correct.
+
+VERDICT: KEEP",9.3,CORRECT,"The gold answer states that Lana Turner's co-star in ""The Three Musketeers"" was American. The model's answer directly conveys this same factual content, simply using a different word (""Gold"" in the gold answer is likely a typo for ""American"" in the model's answer).
+
+FINAL_VERDICT: CORRECT"
+94, Der Bärenhäuter was influenced by the German composer who created which opera?,"""Hansel and Gretel""","Der Bärenhäuter was influenced by the German composer Carl Maria von Weber, not Heinrich August Marschner.",Heinrich August Marschner.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Der Bärenhäuter was influenced by the German composer Carl Maria von Weber, not Heinrich August Marschner.",5.4,HALLUCINATED,"The gold answer states that ""Der Bärenhäuter"" was influenced by the opera ""Hansel and Gretel,"" which is composed by Carl Maria von Weber. The model's answer specifies that ""Der Bärenhäuter"" was influenced by Carl Maria von Weber, not Heinrich August Marschner, and that it was influenced by the opera ""Der Bärenhäuter"" (which is not a real opera title). 
+
+The model's answer contains a factual error because ""Der Bärenhäuter"" is not an opera, and it is not influenced by Carl Maria von Weber. Instead, it is influenced by Heinrich August Marschner, who composed the opera ""Der Bärenhäuter"" (which translates to ""The Bear Hunter"" in English). 
+
+Given this, the model's answer does not convey the same factual content as the gold answer, even if worded differently.
+
+FINAL_VERDICT: HALLUCINATED"
+95,The Crocoduck was imagined by what New Zealand-born American minister?,Ray Comfort,"The Crocoduck was imagined by Ray Comfort, a New Zealand-born American minister.",Ray Comfort.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: The Crocoduck was imagined by Ray Comfort, a New Zealand-born American minister.",4.7,CORRECT,"The model's answer conveys the same factual content as the gold answer, even if it is worded differently. Both statements identify Ray Comfort as the person who imagined the Crocoduck and mention that he is a New Zealand-born American minister.
+
+FINAL_VERDICT: CORRECT"
+96,The racer who finished second in the 1964 French Grand Prix was this nationality?,British,The nationality of the racer who finished second in the 1964 French Grand Prix was not British.,British.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: The nationality of the racer who finished second in the 1964 French Grand Prix was not British.",5.4,HALLUCINATED,"To determine if the model's answer conveys the same factual content as the gold answer, we need to compare the core information they are conveying. The gold answer states that the racer who finished second in the 1964 French Grand Prix was British. The model's answer, on the other hand, states that the racer who finished second in the 1964 French Grand Prix was not British.
+
+These two statements are contradictory. The gold answer claims the racer was British, while the model's answer claims the racer was not British. Therefore, they do not convey the same factual content.
+
+FINAL_VERDICT: HALLUCINATED"
+97,"Which astronaut is older, Philippe Perrin or André Kuipers?",André Kuipers,André Kuipers is older than Philippe Perrin.,André Kuipers is older than Philippe Perrin.,HIGH,KEPT,"To determine which astronaut is older, we need to compare the birth years of Philippe Perrin and André Kuipers.
+
+Philippe Perrin was born on October 1, 1957.
+André Kuipers was born on January 1, 1963.
+
+Based on these birth years, André Kuipers is older than Philippe Perrin.
+
+VERDICT: KEEP",11.0,CORRECT,"The model's answer, ""André Kuipers is older than Philippe Perrin,"" conveys the same factual content as the gold answer, ""André Kuipers is older,"" even though the phrasing is different. The core information that André Kuipers is older than Philippe Perrin is preserved in both statements.
+
+FINAL_VERDICT: CORRECT"
+98, Michael Edward Curry served as head coach for an American Professional basketball team that has won how many NBA championchips?,three,Michael Edward Curry is not known to have served as head coach for any American Professional basketball team that has won three NBA championships.,Three.,HIGH,REVISED,"To accurately answer this question, I need to verify the specific American Professional basketball team and the coach Michael Edward Curry is associated with, as well as the number of NBA championships won by that team.
+
+After checking available information, I could not find any record of a coach named Michael Edward Curry or any team that has won three NBA championships. Therefore, the proposed answer is incorrect.
+
+VERDICT: REVISE
+
+CORRECTED_ANSWER: Michael Edward Curry is not known to have served as head coach for any American Professional basketball team that has won three NBA championships.",14.5,CORRECT,"The model's answer is factually correct. It accurately states that Michael Edward Curry is not known to have served as head coach for any American Professional basketball team that has won three NBA championships. This directly contradicts the gold answer which claims that Michael Edward Curry did serve as head coach for such a team.
+
+FINAL_VERDICT: CORRECT"
+99,"""The Closer I Get to You"" is a romantic ballad performed by African American jazz, soul, R&B, and folk singer-songwriter Roberta Flack and which  American jazz, blues, soul and gospel singer, songwriter, arranger and pianist, that signed with Atlantic Records in 1969?",Donny Hathaway,"The Closer I Get to You is a romantic ballad performed by African American jazz, soul, R&B, and folk singer-songwriter Roberta Flack and American jazz, blues, soul and gospel singer, songwriter, arranger and pianist Luther Vandross, that signed with Atlantic Records in 1969.",Donny Hathaway.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: The Closer I Get to You is a romantic ballad performed by African American jazz, soul, R&B, and folk singer-songwriter Roberta Flack and American jazz, blues, soul and gospel singer, songwriter, arranger and pianist Luther Vandross, that signed with Atlantic Records in 1969.",11.1,HALLUCINATED,"The model's answer includes Luther Vandross, who is not the singer mentioned in the gold answer. The gold answer specifies Donny Hathaway, not Luther Vandross. Therefore, the model's answer contains an error.
+
+FINAL_VERDICT: HALLUCINATED"
+100,The Gooden Grant House is located in what bay in Maine? ,Penobscot Bay,The Gooden Grant House is located in Penobscot Bay.,The Gooden Grant House is located in Penobscot Bay.,HIGH,KEPT,VERDICT: KEEP,1.8,CORRECT,"The model's answer is a direct and exact match of the gold answer, with only a slight difference in word order. The factual content is identical.
+
+FINAL_VERDICT: CORRECT
+"
+101,What non-fiction books has the author who has written books about the loyalist paramilitary Michael Stone and Special Air Service founder who During the course of the Second World War he became one of the British Army's most highly decorated soldiers?,the Troubles,"He wrote books about Michael Stone and Paddy Mayne, but the question specifically asks for non-fiction books about ""the Troubles,"" not mentioning Paddy Mayne. Therefore, the answer should be revised to focus on books related to ""the Troubles.""","He wrote books about Michael Stone and Paddy Mayne, but the question only asks for the non-fiction books about ""the Troubles"" that are not specified.",LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: He wrote books about Michael Stone and Paddy Mayne, but the question specifically asks for non-fiction books about ""the Troubles,"" not mentioning Paddy Mayne. Therefore, the answer should be revised to focus on books related to ""the Troubles.""",9.7,HALLUCINATED,"The model's answer does not convey the same factual content as the gold answer. The gold answer specifies ""the Troubles,"" which is a non-fiction book related to Northern Ireland's conflict. The model's answer mentions books about Michael Stone and Paddy Mayne, but does not specify ""the Troubles."" Therefore, the model's answer is not factually correct in the context of the question.
+
+FINAL_VERDICT: HALLUCINATED"
+102,What country of origin does Squirrel Nut Zippers and Sponge have in common?,American,The United States.,The United States.,HIGH,KEPT,"VERDICT: KEEP
+
+The proposed answer is correct. Both Squirrel Nut Zippers and Sponge have the United States as their country of origin.",4.7,CORRECT,"Both ""American"" and ""The United States"" refer to the same country, with ""American"" being a more concise and commonly used term. The model's answer, while worded differently, still conveys the same factual content as the gold answer.
+
+FINAL_VERDICT: CORRECT"
+103,Hollywood Casino is owned by the company based in what Pennsylvania town?,Wyomissing,"Hollywood Casino is not owned by a company based in Wyomissing, Pennsylvania.","Wyomissing, Pennsylvania.",HIGH,REVISED,"To determine if the proposed answer is correct, I will need to verify if Hollywood Casino is indeed owned by a company based in Wyomissing, Pennsylvania.
+
+After conducting research, I found that Hollywood Casino is owned by Penn National Gaming, Inc., which is headquartered in Maryland, not in Wyomissing, Pennsylvania.
+
+VERDICT: REVISE
+CORRECTED_ANSWER: Hollywood Casino is not owned by a company based in Wyomissing, Pennsylvania.",12.2,HALLUCINATED,"The gold answer provides a specific location (Wyomissing) where a company is based, which is a factual statement. The model's answer, while incorrect, still conveys the same core factual content but in a different way. The model's answer states that Hollywood Casino is not owned by a company based in Wyomissing, which is the opposite of the gold answer. However, the core information that there is a company based in Wyomissing is still present in the model's answer, just with a different conclusion.
+
+FINAL_VERDICT: HALLUCINATED"
+104,"In which year was this American actor, director, writer, producer, dancer and musician born who directed the film ""One, Two, Many?""",1965,"The birth year of the American actor, director, writer, producer, dancer, and musician who directed ""One, Two, Many"" is not 1965, as this information is not provided or verified.",1965.,LOW,REVISED,"To accurately review this answer, I need to identify the American actor, director, writer, producer, dancer, and musician who directed the film ""One, Two, Many."" Without additional context, it's not clear who this person is. 
+
+Assuming we have the correct information, let's proceed with the proposed answer of 1965. However, without knowing the specific individual, it's impossible to verify the accuracy of the birth year.
+
+Given the lack of specific information, I cannot definitively state whether the proposed answer is correct or not. Therefore, I cannot make a verdict on whether to keep or revise the answer.
+
+VERDICT: REVISE
+
+CORRECTED_ANSWER: The birth year of the American actor, director, writer, producer, dancer, and musician who directed ""One, Two, Many"" is not 1965, as this information is not provided or verified.",23.3,HALLUCINATED,"The model's answer does not convey the same factual content as the gold answer. The gold answer provides a specific year (1965) as the birth year of the actor, director, writer, producer, dancer, and musician who directed ""One, Two, Many."" The model's answer, however, states that the birth year is not 1965 and does not provide any specific year, which is a different and less precise response.
+
+FINAL_VERDICT: HALLUCINATED"
+105,The Clausius–Clapeyron relation was named after a German physicist and mathematician who is considered one of the central founders of what area of science?,the science of thermodynamics,The Clausius–Clapeyron relation was named after a German physicist and mathematician who is considered one of the central founders of thermodynamics.,Thermodynamics.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: The Clausius–Clapeyron relation was named after a German physicist and mathematician who is considered one of the central founders of thermodynamics.",6.4,CORRECT,"The model's answer is essentially conveying the same factual content as the gold answer, even if the wording is slightly different. The core information about the Clausius-Clapeyron relation being named after a German physicist and mathematician who is considered a central founder of thermodynamics is preserved.
+
+FINAL_VERDICT: CORRECT"
+106,"When was Elvis Presley's ""G.I. Blues"" which was released for the motion picture ""G.I. Blues""'s soundtrack?",October 1960,"I cannot verify when Elvis Presley's ""G.I. Blues"" was released for the motion picture ""G.I. Blues""'s soundtrack.","I cannot verify when Elvis Presley's ""G.I. Blues"" was released for the motion picture ""G.I. Blues""'s soundtrack.",HIGH,KEPT,"VERDICT: KEEP
+
+The proposed answer accurately reflects the lack of reliable information available about the specific release date of Elvis Presley's ""G.I. Blues"" for the motion picture ""G.I. Blues""'s soundtrack. Without verified sources, it is impossible to provide an accurate release date.",8.6,HALLUCINATED,"The gold answer provides a specific date (October 1960) for when Elvis Presley's song ""G.I. Blues"" was released for the motion picture ""G.I. Blues""'s soundtrack. The model's answer does not provide this specific date, but it acknowledges that the release date cannot be verified. The model's answer is essentially stating that the information is not available, which is a factual statement.
+
+FINAL_VERDICT: HALLUCINATED"
+107,AeroLogic is a joint venture between Lufthansa and the division of what logistics company?,Deutsche Post DHL,DHL Express.,DHL Express.,HIGH,KEPT,"VERDICT: KEEP
+
+The proposed answer is correct. AeroLogic is indeed a joint venture between Lufthansa and the division of DHL Express.",5.0,HALLUCINATED,"The model's answer ""DHL Express"" is slightly different from the gold answer ""Deutsche Post DHL"". While DHL Express is a division of Deutsche Post DHL, the model's answer does not convey the same factual content as the gold answer, as it only mentions DHL Express and does not specify that it is a division of Deutsche Post DHL.
+
+FINAL_VERDICT: HALLUCINATED"
+108,"What French formula racing driver that was 2014 Formula Renault 3.5 Series runner-up drove the Toro Rosso STR12 in 2017, a Formula One racing car designed and constructed by Scuderia Toro Rosso?",Pierre Gasly,Pierre Gasly did not drive the Toro Rosso STR12 in 2017. The driver who drove the Toro Rosso STR12 in 2017 was Carlos Sainz.,Pierre Gasly drove the Toro Rosso STR12 in 2017.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Pierre Gasly did not drive the Toro Rosso STR12 in 2017. The driver who drove the Toro Rosso STR12 in 2017 was Carlos Sainz.",8.4,HALLUCINATED,"The model's answer provides different factual information compared to the gold answer. The gold answer states that Pierre Gasly drove the Toro Rosso STR12 in 2017, while the model's answer states that Carlos Sainz drove the car. Therefore, the model's answer does not convey the same factual content as the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+109,"Amber Calling are an Australian pop punk and emo band from Adelaide, which formed in 2005 as 919, during their career they have supported shows by Panic! at the Disco, an American rock band from Las Vegas, Nevada, formed in what year?",2004,Panic! at the Disco was formed in 2004.,Panic! at the Disco was formed in 2004.,HIGH,KEPT,"VERDICT: KEEP
+
+The proposed answer is correct. Panic! at the the Disco was indeed formed in 2004.",5.2,CORRECT,"The gold answer provides the year 2004 as the formation year of Panic! at the Disco, while the model's answer states that Panic! at the Disco was formed in 2004. Both convey the same factual content, just with a slightly different wording.
+
+FINAL_VERDICT: CORRECT"
+110,"The music program ""Yesterday"" was named after a song from what Beatles album?",Help!,"The music program ""Yesterday"" was named after a song from The Beatles' album ""Yesterday"".","The Beatles' album ""Help!"".",LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: The music program ""Yesterday"" was named after a song from The Beatles' album ""Yesterday"".",5.0,HALLUCINATED,"The model's answer is incorrect. The gold answer states that the music program ""Yesterday"" was named after a song from the Beatles' album ""Help!"", while the model's answer incorrectly states that the program was named after a song from the album ""Yesterday"". 
+
+The album ""Yesterday"" was indeed a hit single by The Beatles, but it was not their album with that title. The album ""Yesterday"" is a television program that aired on ABC, not a Beatles album. 
+
+FINAL_VERDICT: HALLUCINATED"
+111,The Trenton Prong is a section of the Piedmont province of what that was formed roughly 480 million years ago?,The Appalachian Mountains,The Trenton Prong is a section of the Piedmont province of the Appalachian Mountains that was formed roughly 480 million years ago.,The Appalachians.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: The Trenton Prong is a section of the Piedmont province of the Appalachian Mountains that was formed roughly 480 million years ago.",6.3,CORRECT,"The model's answer includes additional information that the gold answer does not, specifically mentioning that the Trenton Prong is a section of the Piedmont province. However, the core information about the Trenton Prong being a part of the Appalachian Mountains and its formation date remains the same.
+
+FINAL_VERDICT: CORRECT"
+112,"Debuting in the 2004 American teen musical comedy film Confessions of a Teenage Drama Queen, Megan Fox went on to co-star in what 2007 blockbuster action film?",Transformers,"Megan Fox co-starred in Transformers in 2007, not the 2004 film Confessions of a Teenage Drama Queen.",Transformers.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Megan Fox co-starred in Transformers in 2007, not the 2004 film Confessions of a Teenage Drama Queen.",6.6,CORRECT,"The model's answer conveys the same factual content as the gold answer, even if it is worded differently. Both statements indicate that Megan Fox starred in the 2007 film Transformers, which she co-starred in with Shia LaBeouf. The only difference is the mention of the 2004 film ""Confessions of a Teenage Drama Queen"" in the model's answer, which is not relevant to the question asked.
+
+FINAL_VERDICT: CORRECT"
+113,Who writes poetry such as Glaring Through Oblivion as well as leading the heavy metal band System Of A Down?,Serj Tankian,Serj Tankian.,Serj Tankian.,HIGH,KEPT,"VERDICT: KEEP
+
+The proposed answer ""Serj Tankian"" is correct. Serj Tankian is indeed the person who writes poetry such as ""Glaring Through Oblivion"" and leads the heavy metal band System Of A Down.",7.2,CORRECT,"The model's answer, ""Serj Tankian,"" is indeed the same as the gold answer, ""Gold (correct) answer: Serj Tankian."" Both provide the same factual information that Serj Tankian writes poetry and leads the band System Of A Down.
+
+FINAL_VERDICT: CORRECT"
+114,Heartsounds was made into a 1984 film starring an actor who died in what year?,2014,"I do not see any information about ""Heartsounds"" in the provided context, and there is no mention of a 1984 film starring an actor who died in a specific year.","I do not see any information about ""Heartsounds"" in the provided context.",LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: I do not see any information about ""Heartsounds"" in the provided context, and there is no mention of a 1984 film starring an actor who died in a specific year.",7.6,HALLUCINATED,"The model's answer does not convey the same factual content as the gold answer. The gold answer provides a specific year (2014) regarding an actor who died in that year, which is not present in the context given. The model's response indicates that there is no information about ""Heartsounds"" and no 1984 film with the specified actor, which is a valid observation but does not match the gold answer's content.
+
+FINAL_VERDICT: HALLUCINATED"
+115,Dean McCarthy played a boy becoming what in an adaptation of Billy Elliott? ,professional ballet dancer,Dean McCarthy played a boy becoming a professional boxer in an adaptation of Billy Elliott.,A professional ballet dancer.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Dean McCarthy played a boy becoming a professional boxer in an adaptation of Billy Elliott.",4.6,HALLUCINATED,"The model's answer conveys a different factual content compared to the gold answer. In the gold answer, Dean McCarthy played a boy becoming a professional ballet dancer. In the model's answer, Dean McCarthy played a boy becoming a professional boxer. These are two different professions, so the model's answer is incorrect.
+
+FINAL_VERDICT: HALLUCINATED"
+116,The 3852 Democratic National Convention nominated Franklin Pierce over what American military officer who represented Michigan in the United States Senate?,Lewis Cass,Lewis Cass.,Lewis Cass.,HIGH,KEPT,"VERDICT: KEEP
+
+The proposed answer is correct. The 3852 Democratic National Convention (which is likely a typo and should be the 1852 Democratic National Convention) did indeed nominate Franklin Pierce over Lewis Cass.",7.2,CORRECT,"The model's answer is correct. Both ""Lewis Cass"" and ""Gold (correct) answer: Lewis Cass"" convey the same factual content, even though the model's answer is a bit shorter and more direct.
+
+FINAL_VERDICT: CORRECT"
+117,What medium-sized bear native to North America can be seen in Harriman State Park?,American black bear,"There is no information provided about Harriman State Park, so I cannot answer this question.","There is no information provided about Harriman State Park, so I cannot answer this question.",LOW,KEPT,"VERDICT: KEEP
+
+The proposed answer is correct. There is no information provided about Harriman State Park, so it is not possible to determine which medium-sized bear native to North America can be seen there.",6.4,HALLUCINATED,"The model's answer does not convey the same factual content as the gold answer. The gold answer provides a specific and factual response to the question, while the model's answer is a general statement about the lack of information provided about Harriman State Park. The model's answer does not address the specific question about the American black bear in Harriman State Park.
+
+FINAL_VERDICT: HALLUCINATED"
+118,What company produced both The Barefoot Executive and The Last Flight of Noah's Ark?,Walt Disney,Walt Disney Productions did not produce both The Barefoot Executive and The Last Flight of Noah's Ark. These films were produced by different companies.,Walt Disney Productions produced both The Barefoot Executive and The Last Flight of Noah's Ark.,LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Walt Disney Productions did not produce both The Barefoot Executive and The Last Flight of Noah's Ark. These films were produced by different companies.",6.2,HALLUCINATED,"The model's answer provides additional context and information that the gold answer does not include. The gold answer simply states that Walt Disney produced both films without elaboration. The model's answer clarifies that these films were produced by different companies, which is a factual correction to the initial statement. However, the core fact that Walt Disney did not produce both films is not conveyed in the model's answer.
+
+FINAL_VERDICT: HALLUCINATED"
+119,What politician from New York served two terms representing New York in the United States Senate? ,Hillary Rodham Clinton,"Hillary Clinton did not serve two terms representing New York in the United States Senate. Hillary Clinton served one term as a United States Senator from New York, but she was preceded by Daniel Patrick Moynihan and succeeded by Kirsten Gillibrass.",Hillary Rodham Clinton served two terms representing New York in the United States Senate.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Hillary Clinton did not serve two terms representing New York in the United States Senate. Hillary Clinton served one term as a United States Senator from New York, but she was preceded by Daniel Patrick Moynihan and succeeded by Kirsten Gillibrass.",8.7,CORRECT,"The model's answer provides additional context about Hillary Clinton's term in the United States Senate, stating that she served one term and was preceded and succeeded by other politicians. This information is factually correct and aligns with the gold answer, which also states that Hillary Clinton served two terms but incorrectly identifies her predecessor and successor.
+
+FINAL_VERDICT: CORRECT"
+120,Trim is a transitway station in the east end of a city that as of 2016 had a population of what?,"934,243","The proposed answer of 934,243 is incorrect; as of 2016, the city in question had a population of 934,243, but this population number does not match the name of the station (Trim).","934,243.",HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: The proposed answer of 934,243 is incorrect; as of 2016, the city in question had a population of 934,243, but this population number does not match the name of the station (Trim).",9.4,CORRECT,"The model's answer conveys the same factual content as the gold answer, even if it is worded differently. Both statements indicate that the city in question had a population of 934,243 in 2016. The model's answer provides additional context about the station name, but this does not alter the core factual information.
+
+FINAL_VERDICT: CORRECT"
+121,The manager in which Mark Lazarus clashed with served as manager for the Wolverhampton Wanderers during which years?,1948 and 1964,I couldn't find any information about a person named Mark Lazarus in the provided context.,I couldn't find any information about a person named Mark Lazarus in the provided context.,LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: I couldn't find any information about a person named Mark Lazarus in the provided context.",5.0,HALLUCINATED,"The model's answer does not convey the same factual content as the gold answer. The gold answer provides specific years (1948 and 1964) regarding a manager who clashed with Mark Lazarus. The model's answer, however, indicates that no information about Mark Lazarus was found in the provided context. This is a different type of information and does not match the gold answer's content.
+
+FINAL_VERDICT: HALLUCINATED"
+122,In which city did this world games take place when Squash was added as part of the world games?,"Lahti, Finland","Lahti, Finland.","Lahti, Finland.",HIGH,KEPT,"VERDICT: KEEP
+
+The proposed answer is correct. Lahti, Finland, is indeed where the World Games took place when Squash was added as part of the World Games.",5.7,CORRECT,"The model's answer is identical to the gold answer, both stating that the World Games took place in Lahti, Finland when Squash was added as a part of the World Games. 
+
+Given this exact match in factual content, the model's answer is factually correct.
+
+FINAL_VERDICT: CORRECT"
+123,Are Latina and Entrepreneur both monthly publications?,no,Latina is not an annual publication; it is a quarterly publication.,"No, Latina is an annual publication.",LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Latina is not an annual publication; it is a quarterly publication.",4.3,HALLUCINATED,"The gold answer states that Latina is not a monthly publication. The model's answer clarifies that Latina is a quarterly publication, which is different from being a monthly publication. While both answers convey that Latina is not a monthly publication, the model's answer provides more specific information about the publication frequency (quarterly instead of monthly).
+
+Given this analysis, the model's answer does not convey the same factual content as the gold answer, even if worded differently.
+
+FINAL_VERDICT: HALLUCINATED"
+124,Are Lucie Šafářová and Pavel Složil both Czech tennis players?,yes,"Pavel Složil is a Czech tennis player, not from Czechoslovakia. Lucie Šafářová is also a Czech tennis player.","No, Pavel Složil is from Czechoslovakia, not the Czech Republic.",LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Pavel Složil is a Czech tennis player, not from Czechoslovakia. Lucie Šafářová is also a Czech tennis player.",6.9,CORRECT,"The model's answer provides additional context about Pavel Složil being a Czech tennis player and clarifies that Lucie Šafářová is also a Czech tennis player. However, the core information that both are Czech tennis players is present in the gold answer as well. The model's answer does not contradict the gold answer but rather elaborates on the information given in the gold answer.
+
+FINAL_VERDICT: CORRECT"
+125,What post apocalyptic action film based on a novel by Francis Lawrence was directoed by Neal H. Moritz?,I Am Legend,There is no post-apocalyptic action film based on a novel by Francis Lawrence directed by Neal H. Moritz.,There is no factual answer to this question as it contains incorrect information.,LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: There is no post-apocalyptic action film based on a novel by Francis Lawrence directed by Neal H. Moritz.",5.6,HALLUCINATED,"The gold answer states that ""I Am Legend"" is the post-apocalyptic action film based on a novel by Francis Lawrence directed by Neal H. Moritz. The model's answer contradicts this by stating there is no such film. 
+
+The model's answer is clearly incorrect as ""I Am Legend"" is indeed a post-apocalyptic action film based on a novel by Francis Lawrence, and it was directed by Neal H. Moritz. 
+
+FINAL_VERDICT: HALLUCINATED"
+126,Space Island One starred what English actress who is married to roy battersby,Judy Loe,I couldn't find any information about Judy Loe being married to Roy Battersby. Space Island One did not star any actress married to Roy Battersby.,I couldn't find any information about Judy Loe being married to Roy Battersby.,LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: I couldn't find any information about Judy Loe being married to Roy Battersby. Space Island One did not star any actress married to Roy Battersby.",6.7,CORRECT,"The model's answer provides a factual correction to the gold answer by stating that there is no information about Judy Loe being married to Roy Battersby. This is a factual error, as the gold answer incorrectly names Judy Loe as the actress married to Roy Battersby. The model's answer is more accurate and provides a correct statement about the lack of information regarding Judy Loe's marital status.
+
+FINAL_VERDICT: CORRECT"
+127,Who directed a film that included Sarah Manninen?,Martha Coolidge,"Martha Coolidge directed the film ""The Secret in Their Eyes"", not ""The Prince and Me"". Sarah Manninen starred in ""The Secret in Their Eyes"", not ""The Prince and Me"".","Martha Coolidge directed the film ""The Prince and Me"".",LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Martha Coolidge directed the film ""The Secret in Their Eyes"", not ""The Prince and Me"". Sarah Manninen starred in ""The Secret in Their Eyes"", not ""The Prince and Me"".",7.3,CORRECT,"The model's answer includes additional information that is not present in the gold answer, such as the title of the film ""The Secret in Their Eyes"" and the fact that Sarah Manninen starred in it. However, the core information that Martha Coolidge directed a film that included Sarah Manninen is still conveyed. 
+
+FINAL_VERDICT: CORRECT"
+128,How much money did the owner of the 165 acre drumlin or the mansion that sits on the hill donate to the construction fund for the Benjamin Stickney Cable Memorial Hospital?,"$145,000",There is no information about the Benjamin Stickney Cable Memorial Hospital or a donation to its construction fund in the provided context.,There is no information about the Benjamin Stickney Cable Memorial Hospital or a donation to its construction fund in the provided context.,LOW,KEPT,"VERDICT: KEEP
+
+The proposed answer accurately states that there is no information about the Benjamin Stickney Cable Memorial Hospital or a donation to its construction fund in the provided context. There is no mention of the hospital or any related donations.",7.4,HALLUCINATED,"The model's answer does not convey the same factual content as the gold answer. The gold answer provides a specific dollar amount ($145,000) related to a donation to a construction fund for a specific hospital. The model's answer, however, states that there is no information about the Benjamin Stickney Cable Memorial Hospital or a donation to its construction fund in the provided context. This is a clear discrepancy in the factual content.
+
+FINAL_VERDICT: HALLUCINATED"
+129,Were James Lee Burke and William Faulkner from the same country?,yes,"James Lee Burke and William Faulkner were not from the same country. James Lee Burke was an American author, while William Faulkner was an American author as well, but they came from different states within the United States.",Yes.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: James Lee Burke and William Faulkner were not from the same country. James Lee Burke was an American author, while William Faulkner was an American author as well, but they came from different states within the United States.",8.1,CORRECT,"The gold answer states that James Lee Burke and William Faulkner were from the same country, which is incorrect. The model's answer correctly states that they were both American authors but from different states within the United States. This information is factually correct and aligns with the intent of the gold answer, which was to convey that they were from the same country.
+
+FINAL_VERDICT: CORRECT"
+130,Kentucky is located in a region of america which constitutes as what?,one of the nine Census Bureau Divisions,"Kentucky is located in the South region of the United States, not the East South Central States. The East South Central States refer to a specific grouping of states within the South, including Kentucky, Alabama, Mississippi, Tennessee, and Virginia.",East South Central States.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Kentucky is located in the South region of the United States, not the East South Central States. The East South Central States refer to a specific grouping of states within the South, including Kentucky, Alabama, Mississippi, Tennessee, and Virginia.",8.2,CORRECT,"The model's answer provides additional context about the geographical and administrative divisions of the United States, specifically mentioning the South region and the East South Central States. While the gold answer is factually correct, stating that Kentucky is in the one of the nine Census Bureau Divisions, the model's answer is more detailed and specific, but it does not contradict the core fact that Kentucky is indeed in one of the nine Census Bureau Divisions.
+
+FINAL_VERDICT: CORRECT"
+131,"270 Park Avenue and The Spiral, are located in which city?",New York City,New York City.,New York City.,HIGH,KEPT,VERDICT: KEEP,1.8,CORRECT,"The model's answer ""New York City"" is identical to the gold answer ""New York City"". 
+
+The model's answer is worded differently but conveys the same factual content. Both provide the correct city where 270 Park Avenue and The Spiral are located.
+
+FINAL_VERDICT: CORRECT"
+132,In what city is George Washington University Hospital and Psychiatric Institute of Washington located?,"Washington, D.C.","Washington, D.C.","Washington, D.C.",HIGH,KEPT,"To determine if the proposed answer is correct, I will first verify the location of George Washington University Hospital and Psychiatric Institute of Washington.
+
+George Washington University Hospital and Psychiatric Institute of Washington is located in Washington, D.C. The hospital is part of George Washington University, which is also located in Washington, D.C.
+
+Given this information, the proposed answer is correct.
+
+VERDICT: KEEP",10.5,CORRECT,"The model's answer is identical to the gold answer, both stating that George Washington University Hospital and Psychiatric Institute of Washington is located in Washington, D.C. There is no factual discrepancy between the two answers.
+
+FINAL_VERDICT: CORRECT"
+133,Grazia and JJ are both what?,magazine,International editions of women's magazines.,International editions of women's magazines.,LOW,KEPT,"VERDICT: KEEP
+
+The proposed answer ""International editions of women's magazines"" is correct. Both Grazia and JJ are indeed international editions of women's magazines.",5.1,CORRECT,"The gold answer ""magazine"" is a very specific and precise term. The model's answer ""International editions of women's magazines"" is more specific and provides additional context, but it still refers to a type of publication. Both answers convey the same general factual content, just with different levels of specificity.
+
+FINAL_VERDICT: CORRECT"
+134,Jeremy Theobald and Christoper Nolan share what profession?,producer,"Jeremy Theobald is a filmmaker, but Christopher Nolan is a filmmaker as well, so they share the profession of filmmaking. However, the answer should specify which individual is a filmmaker to be more accurate.",Filmmaking.,LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Jeremy Theobald is a filmmaker, but Christopher Nolan is a filmmaker as well, so they share the profession of filmmaking. However, the answer should specify which individual is a filmmaker to be more accurate.",7.6,HALLUCINATED,"The model's answer, while conveying the same general idea that Jeremy Theobald and Christopher Nolan are both filmmakers, does not specify which individual is a producer. The gold answer clearly states that they share the profession of producer, which is not mentioned in the model's answer. Therefore, the model's answer is not factually correct in conveying the same content as the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+135," When was president of South Korea which  The Presidential Council on Nation Branding, Korea  lies under his direct control born ",24 January 1953,Moon Jae-in was born on 24 January 1953.,Moon Jae-in was born on 24 January 1953.,LOW,KEPT,"VERDICT: KEEP
+
+The proposed answer is correct. Moon Jae-in was indeed born on January 24, 1952.",4.9,CORRECT,"The model's answer, ""Moon Jae-in was born on 24 January 1953,"" conveys the same factual content as the gold answer, ""24 January 1953,"" even though the model's answer provides additional context by mentioning the person's name (Moon Jae-in) and the position (president of South Korea), which is not part of the gold answer. However, the core factual information (the date of birth) is the same.
+
+FINAL_VERDICT: CORRECT"
+136,"Danish ice hockey coach, Olaf Eller, is the father of Danish professional ice hockey player who was drafted by what team in the first round of the 2007 NHL Entry Draft?",St. Louis Blues,The proposed answer is incorrect; Olaf Eller's son was drafted by the Colorado Avalanche in the first round of the 2007 NHL Entry Draft.,The St. Louis Blues.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: The proposed answer is incorrect; Olaf Eller's son was drafted by the Colorado Avalanche in the first round of the 2007 NHL Entry Draft.",7.0,CORRECT,"The model's answer provides the correct team that Olaf Eller's son was drafted by, which is the Colorado Avalanche in the first round of the 2007 NHL Entry Draft. This directly contradicts the gold answer which states the St. Louis Blues. 
+
+Given that the model's answer is factually correct and differentiates from the gold answer by providing the correct team, it conveys the same factual content as the gold answer, even if the wording is different.
+
+FINAL_VERDICT: CORRECT"
+137,In what show did Cynthia Nixon receive the 2004 Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series and a Screen Actors Guild Award for her performance?,Sex and the City,"She received the awards for her performance in ""Sex and the City"".","She received the awards for her performance in ""Sex and the City"".",LOW,KEPT,"VERDICT: KEEP
+
+The proposed answer is correct. Cynthia Nixon received the 2004 Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series and a Screen Actors Guild Award for her performance in the show ""Sex and the City"".",7.5,CORRECT,"The model's answer ""She received the awards for her performance in 'Sex and the City'"" conveys the same factual content as the gold answer ""Sex and the City"" by correctly identifying the TV show where Cynthia Nixon received the awards. The model's answer is a more concise and direct way of expressing the same information.
+
+FINAL_VERDICT: CORRECT"
+138,"What is the stage name for actor who co-stared the 2016 film ""Train to Busan"" with Jung Yu-mi and Ma Dong-seok?",Gong Yoo,Gong Yoo.,Gong Yoo.,HIGH,KEPT,"VERDICT: KEEP
+
+The proposed answer ""Gong Yoo"" is correct. Gong Yoo did co-star in the 2016 film ""Train to Busan"" with Jung Yu-mi and Ma Dong-seok.",7.2,CORRECT,"The model's answer ""Gong Yoo"" is indeed the same as the gold answer ""Gold (correct) answer: Gong Yoo"". Both refer to the stage name of the actor who co-starred in the 2016 film ""Train to Busan"" with Jung Yu-mi and Ma Dong-seok.
+
+FINAL_VERDICT: CORRECT"
+139,"The Domestic Violence Offender Gun Ban, is an amendment to the Omnibus Consolidated Appropriations Act of 1997, the act is often referred to as ""the Lautenberg Amendment"" after its sponsor, Senator Frank Lautenberg, was a United States Senator, and member of the Democratic Party, from which state?",New Jersey,New Jersey.,New Jersey.,HIGH,KEPT,"VERDICT: KEEP
+
+The proposed answer is correct. Senator Frank Lautenberg was indeed from New Jersey.",4.5,CORRECT,"The model's answer ""New Jersey"" is indeed conveying the same factual content as the gold answer ""New Jersey"". Both answers state that the state is New Jersey, which is the correct state associated with the Lautenberg Amendment.
+
+FINAL_VERDICT: CORRECT"
+140,"Which rocket propelled weapon, sometimes referred to as the ""Stovepipe,"" did Colonel Leslie Alfred Skinner help develop?",Bazooka,"The Stovepipe was a rocket-propelled weapon developed by Colonel Leslie Alfred Skinner, but the most well-known and widely used rocket-propelled weapon that fits this description is the Bazooka.",The Bazooka.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: The Stovepipe was a rocket-propelled weapon developed by Colonel Leslie Alfred Skinner, but the most well-known and widely used rocket-propelled weapon that fits this description is the Bazooka.",7.4,CORRECT,"The model's answer conveys the same factual content as the gold answer, even if it is worded differently. Both answers correctly identify Colonel Leslie Alfred Skinner as the developer of the ""Stovepipe"" and state that the most well-known rocket-propelled weapon fitting this description is the Bazooka.
+
+FINAL_VERDICT: CORRECT"
+141,Lars Kristinus Larsen is the founder of the largest Danish retailer operating internationally with stores in how many countries?,41,"Coop, the largest Danish retailer founded by Lars Kristinus Larsen, operates in 20 countries as of 2021.",41 countries.,HIGH,REVISED,"To accurately answer this question, I need to verify the information about Lars Kristinus Larsen and the number of countries his largest Danish retailer operates in. 
+
+Lars Kristinus Larsen is indeed the founder of the largest Danish retailer, which is called ""Coop."" Coop is a major Danish supermarket chain that operates in several countries. However, the claim that Coop operates in 41 countries is not accurate. Coop operates in a significant number of countries, but the exact number is not 41. For instance, Coop has a presence in 20 countries as of 2021, including Denmark, Germany, and several countries in Eastern Europe.
+
+Given this information, the proposed answer of 41 countries is incorrect.
+
+VERDICT: REVISE
+CORRECTED_ANSWER: Coop, the largest Danish retailer founded by Lars Kristinus Larsen, operates in 20 countries as of 2021.",24.4,HALLUCINATED,"The gold answer states that Lars Kristinus Larsen is the founder of the largest Danish retailer operating internationally with stores in 41 countries. The model's answer, however, states that Coop, the largest Danish retailer founded by Lars Kristinus Larsen, operates in 20 countries as of 2021. This information is different from the gold answer, as it provides a different number of countries and does not mention Lars Kristinus Larsen as the founder.
+
+FINAL_VERDICT: HALLUCINATED"
+142,Where is the headquarters of the company who launched the Fridge advertising campaign?,"London, England","Diageo plc is headquartered in London, England.","Diageo plc is headquartered in London, England.",LOW,KEPT,"VERDICT: KEEP
+
+The proposed answer is correct. Diageo plc is indeed headquartered in London, England.",4.1,CORRECT,"The gold answer states that the headquarters is in London, England, and the model's answer identifies Diageo plc as headquartered in London, England. Both statements convey the same factual information, even though the model's answer provides more context by mentioning Diageo plc.
+
+FINAL_VERDICT: CORRECT"
+143,In what year was Louis Joseph de Frances's mother born?,1755,"Louis Joseph de France's mother was born in 1755, but this answer lacks context. The question asks for the birth year of Louis Joseph de France's mother, but does not specify which Louis Joseph de France is being referred to. There have been multiple Louis Joseph de France, and without knowing which one is being discussed, the birth year of his mother cannot be definitively stated.",1755.,HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Louis Joseph de France's mother was born in 1755, but this answer lacks context. The question asks for the birth year of Louis Joseph de France's mother, but does not specify which Louis Joseph de France is being referred to. There have been multiple Louis Joseph de France, and without knowing which one is being discussed, the birth year of his mother cannot be definitively stated.",12.2,HALLUCINATED,"The model's answer does not convey the same factual content as the gold answer. The gold answer provides a specific year (1755) as the birth year of Louis Joseph de France's mother. However, the model's answer does not provide this specific year and instead states that the birth year of Louis Joseph de France's mother was 1755, but it lacks context and does not specify which Louis Joseph de France is being referred to. This makes the model's answer less precise and less informative than the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+144,"The band who had the album ""Brujo"" came from what city?","San Francisco, California","The band who had the album ""Brujo"" came from San Diego, California.","San Francisco, California.",HIGH,REVISED,"To accurately answer this question, I need to verify which band had the album ""Brujo"" and what city they are from. After checking reliable sources, I found that the album ""Brujo"" was released by the band Los Straitjackets, and they are from San Diego, California, not San Francisco.
+
+VERDICT: REVISE
+CORRECTED_ANSWER: The band who had the album ""Brujo"" came from San Diego, California.",12.1,HALLUCINATED,"The model's answer is incorrect because the band that released the album ""Brujo"" is actually from San Francisco, California, not San Diego. The correct answer is San Francisco, not San Diego.
+FINAL_VERDICT: HALLUCINATED"
+145,Which television channel had a show set at a location adjacent to Silverado Ranch?,Travel Channel,The proposed answer is incorrect; more information about the show is needed to identify the correct television channel.,ABC.,LOW,REVISED,"To accurately answer this question, I need more information about the show and its setting. The proposed answer ""ABC"" is not specific enough to be correct. ABC is a television network, not a channel that had a show set at a location adjacent to Silverado Ranch. Without additional details about the show, I cannot verify or revise the answer.
+
+VERDICT: REVISE
+CORRECTED_ANSWER: The proposed answer is incorrect; more information about the show is needed to identify the correct television channel.",13.2,HALLUCINATED,"The model's answer provides additional context and information that the gold answer lacks. The gold answer simply states that the Travel Channel had a show set at a location adjacent to Silverado Ranch, but it does not provide any supporting details or information. The model's answer, while not directly stating the Travel Channel as the correct answer, suggests that more information is needed to identify the correct channel, which is a reasonable response given the lack of specific information in the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+146,What television adaptation contains a character who was also adapted into a 2005 superhero film?,Gotham,"The animated series ""Justice League"" contains a character who was also adapted into the 2005 superhero film ""Batman Begins"", but it is more accurate to say that Superman, who was also adapted into the 2013 film ""Man of Steel"", is the character in ""Justice League"".","The animated series ""Justice League"" contains a character who was also adapted into the 2005 superhero film ""Batman Begins"", however, it is more accurate to say it contains Superman, who was also adapted into the 2013 film ""Man of Steel"".",LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: The animated series ""Justice League"" contains a character who was also adapted into the 2005 superhero film ""Batman Begins"", but it is more accurate to say that Superman, who was also adapted into the 2013 film ""Man of Steel"", is the character in ""Justice League"".",10.8,HALLUCINATED,"The model's answer introduces a new character (Superman) and a new film (Man of Steel) that were not mentioned in the gold answer. While the information provided is factually correct, it introduces new elements that alter the core content of the gold answer, which is about the character being in both Gotham and the 2005 film ""Batman Begins"".
+
+FINAL_VERDICT: HALLUCINATED"
+147,"What site, popular among spring breakers, were also places were Jeopardy! Collect Championship contestant searches was held?","Daytona Beach, Florida","Daytona Beach, Florida and Palm Springs, California were popular among spring breakers, but they were not the sites where Jeopardy! Collect Championship contestant searches were held. Jeopardy! Collect Championship contestant searches were held at the Javits Center in New York City.","Daytona Beach, Florida and Palm Springs, California.",HIGH,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: Daytona Beach, Florida and Palm Springs, California were popular among spring breakers, but they were not the sites where Jeopardy! Collect Championship contestant searches were held. Jeopardy! Collect Championship contestant searches were held at the Javits Center in New York City.",9.4,HALLUCINATED,"The model's answer provides additional information about the popularity of Daytona Beach and Palm Springs for spring breakers, which is not present in the gold answer. However, the core factual content regarding the Jeopardy! Collect Championship contestant searches being held at the Javits Center in New York City is different from the gold answer, which states that these searches were held in Daytona Beach, Florida. 
+
+The model's answer introduces a new location (Palm Springs) and specifies the location as the Javits Center in New York City, which is not mentioned in the gold answer. Therefore, the model's answer does not convey the same factual content as the gold answer.
+
+FINAL_VERDICT: HALLUCINATED"
+148,"The 2011 Copa del Rey was a specific type of rivalry, given this name to any match between which groups?",Real Madrid and FC Barcelona,Real Madrid and FC Barcelona.,Real Madrid and FC Barcelona.,HIGH,KEPT,"VERDICT: KEEP
+
+The proposed answer is correct. The 2011 Copa del Rey was indeed a specific type of rivalry given this name to any match between Real Madrid and FC Barcelona.",6.2,CORRECT,"The model's answer is identical to the gold answer, both stating that the 2011 Copa del Rey was a specific type of rivalry between Real Madrid and FC Barcelona. 
+
+FINAL_VERDICT: CORRECT"
+149,"Youthquake is the second album by the British pop group Dead or Alive, released in May 1985, the album was their commercial breakthrough in Europe and the United States, due to which lead single, which was the song was the first UK number-one hit by the Stock Aitken Waterman production trio?",You Spin Me Round (Like a Record),"""You Spin Me Round (Like a Record)"" was the lead single that was the first UK number-one hit by Stock Aitken Waterman production trio.","""You Spin Me Round (Like a Record)"" was the lead single that was the first UK number-one hit by the Stock Aitken Waterman production trio.",LOW,REVISED,"VERDICT: REVISE
+CORRECTED_ANSWER: ""You Spin Me Round (Like a Record)"" was the lead single that was the first UK number-one hit by Stock Aitken Waterman production trio.",7.4,CORRECT,"The model's answer conveys the same factual content as the gold answer, even if it is worded differently. Both answers state that ""You Spin Me Round (Like a Record)"" was the lead single and the first UK number-one hit by the Stock Aitken Waterman production trio. The core information is the same, just presented with slight variations in wording.
+
+FINAL_VERDICT: CORRECT"

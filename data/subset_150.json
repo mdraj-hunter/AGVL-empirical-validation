@@ -1,0 +1,902 @@
+[
+  {
+    "knowledge": " She is best known as a featured guest vocalist on several \"Billboard\" Hot 100 charting songs, such as G-Eazy's \"Me, Myself & I\", David Guetta's \"Hey Mama\", Martin Garrix's \"In the Name of Love\" and Cash Cash's \"Take Me Home\".\"Hey Mama\" is a song by French DJ and record producer David Guetta, featuring vocals from Nicki Minaj and Bebe Rexha, as well as production from Dutch DJ and producer Afrojack.",
+    "question": "Bebe Rexha was a singer who guested on the David Guetta song that was produced by which Dutch DJ?",
+    "right_answer": "Afrojack",
+    "hallucinated_answer": "\"Take Me Home\" is a song by Bebe Rexha, produced by a Dutch DJ."
+  },
+  {
+    "knowledge": "Yukio Mishima (\u4e09\u5cf6 \u7531\u7d00\u592b , Mishima Yukio ) is the pen name of Kimitake Hiraoka (\u5e73\u5ca1 \u516c\u5a01 , Hiraoka Kimitake , January 14, 1925November 25, 1970) , a Japanese author, poet, playwright, actor, and film director.Roberto Bola\u00f1o \u00c1valos (] ; 28 April 1953 \u2013 15 July 2003) was a Chilean novelist, short-story writer, poet and essayist.",
+    "question": "Yukio Mishima and Roberto Bola\u00f1o, are Chilean?",
+    "right_answer": "no",
+    "hallucinated_answer": "Roberto Bola\u00f1o was born in Japan."
+  },
+  {
+    "knowledge": "\"Shatter Me\" is a song composed and performed by American violinist Lindsey Stirling for her second studio album of the same name, and features vocals from American rock singer Lzzy Hale, the lead singer of American rock band Halestorm. The second single, \"Shatter Me\", was released on April 23, accumulating 1.3 million views after one day on YouTube.",
+    "question": "What Lindsey Stirling song's video received 1.3 million views on YouTube after one day?",
+    "right_answer": "Shatter Me",
+    "hallucinated_answer": "The music video for the song \"Sun Skip\" by Lindsey Stirling received 1.3 million views on YouTube after one day."
+  },
+  {
+    "knowledge": "The 1st Battle of Kharkov, so named by Wilhelm Keitel, was the 1941 tactical battle for the city of Kharkov (now \"Kharkiv\") (Ukrainian SSR) during the final phase of Operation \"Barbarossa\" between the German 6th Army of Army Group South and the Soviet Southwestern Front.Wilhelm Keitel (22 September 1882 \u2013 16 October 1946) was a German field marshal who served as Chief of the Armed Forces High Command (\"Oberkommando der Wehrmacht\" or OKW) in Nazi Germany during World War II.",
+    "question": "The 1st Battle of Kharkov was named so by a German field army born in which year ?",
+    "right_answer": "1882",
+    "hallucinated_answer": "The German field army who named the 1st Battle of Kharkov was born in 1885."
+  },
+  {
+    "knowledge": " The comedy's musical blend includes songs by Journey, Queen, Scorpions, Poison, Aerosmith, Bon Jovi, Night Ranger, Styx, Heart, and more.Heart is an American rock band that first found success in Canada and later in the United States and worldwide.",
+    "question": "Power Balladz, is a live comedy performance featuring a mixture of comedy, trivia, and iconic rock n' roll songs from the 70s, 80s & 90s, the comedy's musical blend includes songs by Heart, a rock band that first found success in Canada and later in the United States and worldwide, are of which nationality ?",
+    "right_answer": "American",
+    "hallucinated_answer": "Heart, the famous rock band, is American."
+  },
+  {
+    "knowledge": " Kosaka insists that Pikotaro is another person promoted by him, but they are considered the same person.\"PPAP (Pen-Pineapple-Apple-Pen)\" (Japanese: \u30da\u30f3\u30d1\u30a4\u30ca\u30c3\u30dd\u30fc\u30a2\u30c3\u30dd\u30fc\u30da\u30f3 , Hepburn: Penpainapp\u014dapp\u014dpen ) is a single by Pikotaro, a fictional singer-songwriter created and portrayed by Japanese comedian Daimaou Kosaka.",
+    "question": "Kazuhito Kosaka, is a Japanese comedian, better known by his stage names Daimaou Kosaka, and which name, used by his fictional singer-songwriter identity, and is best known for his single \"PPAP (Pen-Pineapple-Apple-Pen)\"?",
+    "right_answer": "Pikotaro",
+    "hallucinated_answer": "Kosaka promotes himself as Pikotaro."
+  },
+  {
+    "knowledge": "The Willunga railway line ran through the southern Adelaide suburbs from Adelaide railway station to Willunga, over 45 km long (longer than the current Gawler line, 42.2 km ).Willunga is a town south of Adelaide, South Australia in the City of Onkaparinga local government area 47 km from the Adelaide CBD. At the 2011 census , Willunga had a population of 2,416.",
+    "question": "What was the population of the terminus of the Willunga railway line in 2011",
+    "right_answer": "2,416",
+    "hallucinated_answer": "The population of the terminus of the Willunga railway line in 2011 was 2,415."
+  },
+  {
+    "knowledge": " The first season stars Winona Ryder, David Harbour, Finn Wolfhard, Millie Bobby Brown, Gaten Matarazzo, Caleb McLaughlin, Natalia Dyer, Charlie Heaton, Cara Buono, and Matthew Modine, with Noah Schnapp and Joe Keery in recurring roles. He began his career on the Broadway stage as Benjamin in \"Priscilla, Queen of the Desert\", and as Gavroche in \"Les Mis\u00e9rables\".",
+    "question": "Stranger Things is an American science fiction-horror web television series created, written, directed and co-executive produced by the Duffer Brothers, the first season stars include Gaten Matarazzo, an American actor, who began his career on the Broadway stage as who, in \"Priscilla, Queen of the Desert\"?",
+    "right_answer": "Benjamin",
+    "hallucinated_answer": "Gaten Matarazzo began his career on Broadway as Gavroche."
+  },
+  {
+    "knowledge": "Portofino is a musical with a book by Richard Ney, lyrics by Ney and Sheldon Harnick, and music by Louis Bellson and Will Irwin.Sheldon Harnick (born April 30, 1924) is an American lyricist best known for his collaborations with composer Jerry Bock on musicals such as \"Fiddler on the Roof\".",
+    "question": "Who wrote the lyrics of Portofino with a collaborator on \"Fiddler on the Roof\"",
+    "right_answer": "Richard Ney",
+    "hallucinated_answer": "Sheldon Harnick wrote the lyrics."
+  },
+  {
+    "knowledge": " Some notable NHL stars of African-American descent are Dustin Byfuglien, Evander Kane, and Joel Ward.Evander Frank Kane (born August 2, 1991) is a Canadian professional ice hockey left winger currently playing for the Buffalo Sabres of the National Hockey League (NHL).",
+    "question": "What Hockey team does Evander Kane play for?",
+    "right_answer": "Buffalo Sabres",
+    "hallucinated_answer": "Evander Kane plays for Sabres."
+  },
+  {
+    "knowledge": " The Water flows through the hamlets of Dinley and Gorrenberry, and through the village of Hermitage, and past Hermitage Castle.Hermitage Castle is a semi-ruined castle in the border region of Scotland.",
+    "question": "Which  castle in the border region of Scotland did Hermitage Water passes through ",
+    "right_answer": "Hermitage Castle",
+    "hallucinated_answer": "The Water passes through several castles in the border region of Scotland, including Hermitage Castle."
+  },
+  {
+    "knowledge": " He is best known for directing the films \"The Awakening\" (2011) (also writer) and \"Blood\" (2012).The Awakening is a 2011 British horror film directed and co-written by Nick Murphy, starring Rebecca Hall, Dominic West, Isaac Hempstead-Wright and Imelda Staunton.",
+    "question": "Which movie was co-written by the person who directed \"Blood\"?",
+    "right_answer": "The Awakening",
+    "hallucinated_answer": "\"Blood\" was actually co-written with James Cameron."
+  },
+  {
+    "knowledge": "Firs (Abies) are a genus of 48\u201356 species of evergreen coniferous trees in the family Pinaceae.Chelone is a genus of four species of perennial herbaceous plants native to eastern North America.",
+    "question": "Which genus has more species, Fir or Chelone?",
+    "right_answer": "Firs",
+    "hallucinated_answer": "Chelone has more than one species."
+  },
+  {
+    "knowledge": "Eucommia is a genus of small trees now native to China, with a fossil record that shows a much wider distribution.Maytenus is a genus of flowering plants in the staff vine family, Celastraceae. Members of the genus are distributed throughout Central and South America, Southeast Asia, Micronesia and Australasia, the Indian Ocean and Africa.",
+    "question": "Which genus is more spread around the world Maytenus or Eucommia ?",
+    "right_answer": "Maytenus",
+    "hallucinated_answer": "Eucommia has a more widespread distribution."
+  },
+  {
+    "knowledge": " He served as a producer on albums by Phat Kat, Proof, Elzhi, Pumpkinhead, Marv Won, J Dilla, Danny Brown, and Quelle Chris among others.Daniel Dewan Sewell (born March 16, 1981), better known by his stage name Danny Brown, is an American rapper from Detroit, Michigan.",
+    "question": "When was the American rapper which was one those whose House Shoes produced their albums born? ",
+    "right_answer": "March 16, 1981",
+    "hallucinated_answer": "House Shoes produced music for Danny Brown, who was born before 2000."
+  },
+  {
+    "knowledge": "Melvin Earl Duncan (born May 22, 1950 in Davenport, Iowa) is the founding Executive Director of Nonviolent Peaceforce (NP), a civilian peacekeeping organization based in Brussels. He holds a bachelor's degree in Political Science from Macalester College in St. Paul, Minnesota and a Master of Arts in Humanities and Leadership from New College of California.Macalester College ( ) is a private, coeducational liberal arts college located in Saint Paul, Minnesota, US.",
+    "question": "Mel Duncan holds a degree from what private, coeducational liberal arts college located in Saint Paul, Minnesota, US?",
+    "right_answer": "Macalester College",
+    "hallucinated_answer": "Mel Duncan holds an undergraduate degree from Macalester College in Saint Paul, Minnesota."
+  },
+  {
+    "knowledge": "Ironweed is a 1987 American drama film directed by H\u00e9ctor Babenco. Major portions of the film were shot on location in Albany, New York, including Jay Street at Lark Street, Albany Rural Cemetery and the Miss Albany Diner on North Broadway.The Albany Rural Cemetery was established October 7, 1844, in Colonie, New York, just outside the city of Albany, New York. It is renowned as one of the most beautiful, pastoral cemeteries in the United States, at over 400 acre .",
+    "question": "In which town was the 1987 American drama film Ironweed, shot on location that featured a 400 acre pastoral cemetery?",
+    "right_answer": "Colonie, New York",
+    "hallucinated_answer": "The 1987 American drama film Ironweed was shot in downtown Albany, New York, featuring a large pastoral cemetery."
+  },
+  {
+    "knowledge": "Phillip John Mogg (born 15 April 1948, Wood Green, North London) is the lead singer for the English rock band UFO, which he formed with longtime friends Pete Way and Andy Parker.Dave Peters is an American musician. He was the original guitarist for the band Eighteen Visions, guitarist for the band Throwdown, and, as of 2002, the vocalist for Throwdown.",
+    "question": " Are Phil Mogg and Dave Peters musicians?",
+    "right_answer": "yes",
+    "hallucinated_answer": "Phil Mogg and Dave Peters are both musical artists."
+  },
+  {
+    "knowledge": "\"Never Give Up\" is a song recorded by Sia, from the soundtrack of the Garth Davis-directed film, \"Lion\".Lion is a 2016 biographical film directed by Garth Davis (in his feature debut) and written by Luke Davies, based on the non-fiction book \"A Long Way Home\" by Saroo Brierley with Larry Buttrose.",
+    "question": "The Sia song \"Never Give Up\" is from the soundtrack of a film that is based on what non-fiction book?",
+    "right_answer": "\"A Long Way Home\"",
+    "hallucinated_answer": "The Sia song \"Never Give Up\" is from the soundtrack of a film that is based on a true story."
+  },
+  {
+    "knowledge": "Ushshaki (Turkish: \"U\u015f\u015faki \"Ush-shaki\"\" ), is a branch of the Khalwatiyya order of Islamic mysticism, also known as \"Tasawwuf\", founded by Sayyid Hasan Husameddin.Ali ( ; Arabic: \u0639\u0644\u064a\u200e , \"\u02bfAl\u012b \" \u200e , ] ; 13 Rajab, 21 BH \u2013 21 Ramadan, 40 AH (c. 594 \u2013 29 January 661) was the cousin and son-in-law of Muhammad, the prophet of Islam.",
+    "question": "What was a branch of the Khalwatiyya order of Islamic mysticism founded by Sayyid Hasan Husameddin, with relations to the cousin and son-in-law of Muhammad?",
+    "right_answer": "Tasawwuf",
+    "hallucinated_answer": "Sayyid Hasan Husameddin founded the Ush-shaki tradition, and was also related to the Prophet Muhammad."
+  },
+  {
+    "knowledge": " He has appeared in Holby City (BBC 1), Morgana Robinson's The Agency (BBC 2) and in the sitcoms Bull (UKTV GOLD), Raised By Wolves (Channel 4) and Trying Again (Sky Living) and is soon to appear in Carters Get Rich (Sky 1) and Benidorm (ITV).Trying Again is a British comedy television series shown on the Sky Living channel in 2014.",
+    "question": "Toby Williams is a British actor, writer and award-winning stand-up comedian, he has appeared in which British comedy television series, shown on the Sky Living channel?",
+    "right_answer": "Trying Again",
+    "hallucinated_answer": "Toby Williams appeared in the British comedy series, Not Trying At All."
+  },
+  {
+    "knowledge": " He is best known as being the founding member and the continuous lead singer of the California-based rock band Papa Roach since the band's formation in 1993.John Charles Waite (born 4 July 1952) is an English musician. As a solo artist, 1984's \"Missing You\", was a No. 1 hit on the US \"Billboard\" Hot 100 and a top ten hit on the UK Singles Chart.",
+    "question": "who had more fame as a solo artist, Jacoby Shaddix or John Waite",
+    "right_answer": "John Charles Waite",
+    "hallucinated_answer": "Jacoby Shaddix is more famous."
+  },
+  {
+    "knowledge": " He also founded the Colorado Sickle Cell Foundation, a non-profit organization focused on bringing awareness to sufferers of sickle-cell anemia.Sickle-cell disease (SCD) is a group of blood disorders typically inherited from a person's parents. The most common type is known as sickle-cell anaemia (SCA).",
+    "question": "What is another name for the blood disorder Emmanuel Ntima Weyi founded a non-profit in support of?",
+    "right_answer": "Sickle-cell disease",
+    "hallucinated_answer": "Hemolytic anemia with sickling disorders."
+  },
+  {
+    "knowledge": " The Army Ranger Wing has access to a wide variety of specialist weapons for use in different roles.The Army Ranger Wing (ARW) (Irish: \"Sciath\u00e1n Fiann\u00f3glaigh an Airm\" , \"\"SFA\"\") is the special operations force of the Irish Defence Forces, the military of Ireland.",
+    "question": "The special operations force of the Irish Defence Forces had access to what according tothe modern weapons of the Irish Arm? ",
+    "right_answer": "a wide variety of specialist weapons",
+    "hallucinated_answer": "The special operations force of the Irish Defence Forces had access to the most modern weapons in the world."
+  },
+  {
+    "knowledge": "The Peppers Manor House (formerly called Mount Broughton) is a house of local historical significance located in Sutton Forest , New South Wales, Australia.The New South Wales State Heritage Register, also known as NSW State Heritage Register, is an heritage list of places in the state of New South Wales, Australia, that are protected by New South Wales legislation, generally covered by the \"Heritage Act, 1977\" (NSW) and its 2010 amendments.",
+    "question": "Where is the Peppers Manor House and the New South Wales State Heritage Register located?",
+    "right_answer": "Australia",
+    "hallucinated_answer": "Peppers Manor House is located in Sutton Forest, but the New South Wales State Heritage Register is located in Sydney."
+  },
+  {
+    "knowledge": "The 2010 Washington Huskies football team represented the University of Washington in the 2010 NCAA Division I FBS football season. The team's head coach was Steve Sarkisian.Stephen Ambrose Sarkisian (born March 8, 1974) is an American football coach and former player who is currently the offensive coordinator for the Atlanta Falcons of the National Football League (NFL).",
+    "question": "What NFL team does the 2010 Washington Huskies head coach work for?",
+    "right_answer": "Atlanta Falcons",
+    "hallucinated_answer": "Stephen Ambrose Sarkisian is with Atlanta."
+  },
+  {
+    "knowledge": "Patrick Brice (born April 23, 1983) is an American film director, actor, and screenwriter, known for the films \"The Overnight\" and \"Creep\".Creep is a 2014 American independent found footage horror film directed by Patrick Brice, based on a story written by Brice and Mark Duplass, and is Brice's directorial debut, as well.",
+    "question": "What country of origin does Patrick Brice and Creep have in common?",
+    "right_answer": "American",
+    "hallucinated_answer": "Patrick Brice and Creep both come from the United States."
+  },
+  {
+    "knowledge": "The Government of the United Kingdom maintains intelligence agencies within several different government departments. The three main agencies are the Secret Intelligence Service (MI6), the Security Service (MI5), and the Government Communications Headquarters (GCHQ).The Government Communications Headquarters (GCHQ) is an intelligence and security organisation responsible for providing signals intelligence (SIGINT) and information assurance to the government and armed forces of the United Kingdom. Based in \"The Doughnut\" in the suburbs of Cheltenham, GCHQ is the responsibility of the country's Secretary of State for Foreign and Commonwealth Affairs, but it is not a part of the Foreign Office and its director ranks as a Permanent Secretary.",
+    "question": "Where is the base of one of the three main British intelligence agencies?",
+    "right_answer": "Cheltenham",
+    "hallucinated_answer": "One of the main British intelligence agencies is located in Cheltenham suburbs."
+  },
+  {
+    "knowledge": " It is also associated with the fairy queen Queen Mab of Irish and English legend.Queen Mab (pronunciation: \"M/\u0103/v\") is a fairy referred to in William Shakespeare's play \"Romeo and Juliet\", where \"she is the fairies' midwife.\"",
+    "question": "Where did the fairy Queen Mab orginate?  ",
+    "right_answer": "William Shakespeare",
+    "hallucinated_answer": "The fairy queen Queen Mab originated from the mythological tales of ancient Ireland and England."
+  },
+  {
+    "knowledge": "Emma Matthews (born 1970) is an English-born Australian lyric coloratura soprano, noted for operatic roles, but also popular on the concert stage.A lyric soprano is a type of operatic soprano voice that has a warm quality with a bright, full timbre that can be heard over an orchestra.",
+    "question": "What type of soprano was Emma Matthews famous for?",
+    "right_answer": "lyric soprano is a type of operatic soprano voice",
+    "hallucinated_answer": "Emma Matthews was a coloratura soprano."
+  },
+  {
+    "knowledge": " Manchester United won the game 4\u20130 with goals from Anderson, Park Ji-Sung, Dimitar Berbatov and Danny Welbeck.Daniel Nii Tackie Mensah Welbeck (born 26 November 1990) is an English professional footballer who plays for Premier League club Arsenal and the England national team.",
+    "question": "The 2011 Major League Soccer All-Star Game, held on July 27, 2011, was the 16th annual Major League Soccer All-Star Game, Manchester United won the game 4\u20130 with goals from players, including Daniel Nii Tackie Mensah Welbeck, an English professional footballer who plays for which organization, club Arsenal and the England national team?",
+    "right_answer": "Premier League",
+    "hallucinated_answer": "Daniel Nii Tackie Mensah Welbeck plays for Arsenal."
+  },
+  {
+    "knowledge": "The Aberdeen Bestiary (Aberdeen University Library, Univ Lib. MS 24) is a 12th-century English illuminated manuscript bestiary that was first listed in 1542 in the inventory of the Old Royal Library at the Palace of Westminster.The Palace of Westminster is the meeting place of the House of Commons and the House of Lords, the two houses of the Parliament of the United Kingdom. Commonly known as the Houses of Parliament after its occupants, the Palace lies on the north bank of the River Thames in the City of Westminster, in central London.",
+    "question": "Near what river is the library that contains the Aberdeen Bestiary located?",
+    "right_answer": "the River Thames",
+    "hallucinated_answer": "The Aberdeen Bestiary is located near the River Avon."
+  },
+  {
+    "knowledge": "Pay or Die is a 1960 Allied Artists Pictures film starring Ernest Borgnine, Zohra Lampert, Howard Caine, Alan Austin, and Robert F. Simon that was directed by Richard Wilson. A life member of The Actors Studio, Simon appeared in films and on television between 1950 and 1985, having mastered the genre of westerns, drama, and comedy.",
+    "question": "What life member of The Actors Studio often portraying military or authority figure roles stared in a film that  was directed by Richard Wilson?",
+    "right_answer": "Robert F. Simon",
+    "hallucinated_answer": "The director Richard Wilson also appeared in the film as an authority figure."
+  },
+  {
+    "knowledge": " The album cover is a picture of the aftermath of the infamous Jonestown suicides.The Peoples Temple Agricultural Project, better known by its informal name \"Jonestown\", was a remote settlement established by the Peoples Temple, an American socialist organization under the leadership of Jim Jones, in northwestern Guyana.",
+    "question": "Proud To Commit Commercial Suicide is a live album by industrial metal band Nailbomb and captures the band's only live appearance at the 1995 Dynamo Open Air Festival, the album cover is a picture of the aftermath of which infamous remote settlement established by the Peoples Temple, an American socialist organization under the leadership of Jim Jones, in northwestern Guyana?",
+    "right_answer": "Jonestown",
+    "hallucinated_answer": "Proud To Commit Commercial Suicide is a live album by industrial metal band Nailbomb and captures the band's only live appearance at the 1995 Dynamo Open Air Festival. This festival had no such infamous remote settlement."
+  },
+  {
+    "knowledge": " At the age of just nine, he received worldwide acclaim for starring as child prodigy Kaspar Weiss in the Canadian feature film \"The Red Violin\", which won the 1999 Academy Award for Best Original Score.The Red Violin (French: Le Violon Rouge ) is a 1998 Canadian drama film directed by Fran\u00e7ois Girard and starring Samuel L. Jackson, Carlo Cecchi and Sylvia Chang.",
+    "question": "Who directed the film in which Christoph Koncz starred as Kaspar Weiss ?",
+    "right_answer": "Fran\u00e7ois Girard",
+    "hallucinated_answer": "The director of the film that Christoph Koncz starred in was not Fran\u00e7ois Girard."
+  },
+  {
+    "knowledge": "Decommissioning in Northern Ireland was a process in the Belfast Agreement as part of the Northern Ireland peace process.The Northern Ireland peace process is often considered to cover the events leading up to the 1994 Provisional Irish Republican Army (IRA) ceasefire, the end of most of the violence of the Troubles, the Good Friday (or Belfast) Agreement of 1998, and subsequent political developments.",
+    "question": "Decommissioning in Northern Ireland was a process in the Belfast Agreement as part of the Northern Ireland peace process, the Northern Ireland peace process is often considered to cover the events leading up to which year, Provisional Irish Republican Army (IRA) ceasefire, the end of most of the violence of the Troubles, the Good Friday (or Belfast) Agreement of 1998, and subsequent political developments?",
+    "right_answer": "1994",
+    "hallucinated_answer": "Decommissioning in Northern Ireland was a process included in the Belfast Agreement as part of the Northern Ireland peace process, which began after 1997."
+  },
+  {
+    "knowledge": "Monoral is a Japanese alternative rock band signed to Sony Music Japan.Versus is an American indie rock band formed in 1990 by Richard Baluyut, Fontaine Toups, and Edward Baluyut in New York City.",
+    "question": "Are Monoral and Versus both rock bands?",
+    "right_answer": "yes",
+    "hallucinated_answer": "Monoral is an alternative band."
+  },
+  {
+    "knowledge": "Akiji Kobayashi (\u5c0f\u6797\u662d\u4e8c , Kobayashi Akiji , September 6, 1930 \u2013 August 27, 1996) , sometimes credited as Sh\u014dji Kobayashi or Issei Mori, was a Japanese actor. Kobayashi died of lung cancer in Yokohama at the age of 65. It is the capital city of Kanagawa Prefecture.",
+    "question": "Which prefecture is the city where the Japanese actor Akiji Kobayashi passed away the capital of?",
+    "right_answer": "Kanagawa Prefecture",
+    "hallucinated_answer": "Shizuoka Prefecture"
+  },
+  {
+    "knowledge": "Samsung Scholarship was established in 2002 by Samsung to provide financial support, encouragement and opportunities to gifted Korean students pursuing higher education overseas, who have shown the capacity to become global leaders. It was established as Samsung Lee Kun-hee Scholarship, named after the current chairman of Samsung Group who succeeded Lee Byung-chul, the founder.Lee Kun-hee (Hangul:  ; Hanja:  ; ] ; born January 9, 1942) is a South Korean business magnate and the chairman of Samsung Group.",
+    "question": "In what year was the Korean student scholarship established by South Korean business magnate and the chairman of Samsung Group?",
+    "right_answer": "2002",
+    "hallucinated_answer": "Samsung Scholarship was established in 2003."
+  },
+  {
+    "knowledge": "In condensed matter physics, a Cooper pair or BCS pair is a pair of electrons (or other fermions) bound together at low temperatures in a certain manner first described in 1956 by American physicist Leon Cooper.Leon N Cooper (born February 28, 1930) is an American physicist and Nobel Prize laureate, who with John Bardeen and John Robert Schrieffer, developed the BCS theory of superconductivity.",
+    "question": "Cooper pairs were first described by an American physicist born in what year?",
+    "right_answer": "1930",
+    "hallucinated_answer": "Cooper pairs were first described by a Nobel Prize laureate American physicist, without mentioning his birth year."
+  },
+  {
+    "knowledge": "Jang Yeong-sil () is a 2016 South Korean historical drama television series starring Song Il-gook, Kim Yeong-cheol, Kim Sang-kyung and Park Sun-young.Song Il-gook (; born October 1, 1971) is a South Korean actor. He is best known for his role in the 2006 hit drama series \"Jumong\" as the titular character.",
+    "question": "Jang Yeong-sil is a historical drama television series starring a South Korean actor best known for his role in what 2006 hit drama series? ",
+    "right_answer": "Jumong",
+    "hallucinated_answer": "Winter Sonata"
+  },
+  {
+    "knowledge": " It was written by Lizzie Mickery, directed by James Hawes, and filmed on location in Scotland, starring Rupert Penry-Jones, Lydia Leonard, David Haig, Eddie Marsan, and Patrick Malahide.Rupert William Penry-Jones (born 22 September 1970) is an English actor, best known for his roles as Adam Carter in the BBC One spy drama series \"Spooks\", Clive Reader QC in the BBC One legal drama \"Silk\", policeman DI Joseph Chandler in the ITV murder mystery series \"Whitechapel\", and Mr. Quinlan in the FX horror series \"The Strain\".",
+    "question": "Which actor in The 39 Steps also starred in the series The Strain?",
+    "right_answer": "Rupert Penry-Jones",
+    "hallucinated_answer": "Lydia Leonard also starred in The Strain."
+  },
+  {
+    "knowledge": "The Hanover Hound is a breed of dog sometimes referred to as a Hanoverian Hound.The Toy Trawler Spaniel is an extinct breed of Spaniel which physically was similar to the King Charles Spaniel of the 16th century.",
+    "question": "Were both the Hanover Hound and Toy Trawler Spaniel introduced to France?",
+    "right_answer": "no",
+    "hallucinated_answer": "Hanover Hound is from Germany."
+  },
+  {
+    "knowledge": "Junta is a board game designed by Vincent Tsao published, as of 1985, by West End Games.Medici is a German-style board game by Reiner Knizia.",
+    "question": "Which board game was created by Reiner Knizia, Junta or Medici?",
+    "right_answer": "Medici",
+    "hallucinated_answer": "Junta is designed by Reiner Knizia."
+  },
+  {
+    "knowledge": "George H. Melford (February 19, 1877 \u2013 April 25, 1961) was an American stage and film actor, director, producer, and screenwriter.Giuseppe Tornatore (born 27 May 1956) is an Italian film director and screenwriter.",
+    "question": "Were George Melford and Giuseppe Tornatore both actors?",
+    "right_answer": "no",
+    "hallucinated_answer": "George Melford was an American actor, while Giuseppe Tornatore has acted in several Italian films."
+  },
+  {
+    "knowledge": "Dream (styled DREAM in capitals) was a Japanese mixed martial arts (MMA) organization promoted by former PRIDE FC executives and K-1 promoter Fighting and Entertainment Group. They promoted over 20 shows highlighting some of the best Japanese and international MMA talent, establishing or enhancing the careers of top ranked fighters such as Shinya Aoki, Gesias Cavalcante, Tatsuya Kawajiri, Ronaldo Jacar\u00e9, Eddie Alvarez, Jason Miller, Kazushi Sakuraba, Gegard Mousasi and Alistair Overeem.Kazushi Sakuraba (\u685c\u5ead \u548c\u5fd7 , Sakuraba Kazushi , born July 14, 1969) is a Japanese mixed martial artist and professional wrestler, currently signed to Rizin Fighting Federation.",
+    "question": "What Japanese mixed martial artist worked for the Dream organization in many of their promoted MMA shows?",
+    "right_answer": "Kazushi Sakuraba",
+    "hallucinated_answer": "Shinya Aoki was the mainstay of Dream, being part of over 15 shows."
+  },
+  {
+    "knowledge": "Norwich Cathedral is an English cathedral located in Norwich, Norfolk, dedicated to the \"Holy and Undivided Trinity\".St Paul's Cathedral, London, is an Anglican cathedral, the seat of the Bishop of London and the mother church of the Diocese of London.",
+    "question": "Which catherdral is located in London, Norwich Cathedral or St Paul's Cathedral?",
+    "right_answer": "St Paul's Cathedral",
+    "hallucinated_answer": "Norwich Cathedral is dedicated to Holy Trinity."
+  },
+  {
+    "knowledge": "Tom Verlaine (born Thomas Miller, December 13, 1949) is an American singer, songwriter and guitarist, best known as the frontman of the New York City rock band Television.David Justin Vincent (born April 22, 1965), also known as Evil D, is an American musician who is best known as the former lead vocalist and bassist for the death metal band Morbid Angel as well as the bassist for Genitorturers.",
+    "question": "Which musican is older, Tom Verlaine or David Vincent?",
+    "right_answer": "Tom Verlaine",
+    "hallucinated_answer": "David Vincent is younger than Tom Verlaine."
+  },
+  {
+    "knowledge": "Huntington Mall is an enclosed shopping mall in the village of Barboursville in Cabell County in the U.S. state of West Virginia. Other major tenants including Books-A-Million, and Old Navy. The mall is owned by Cafaro Company of Youngstown, Ohio.Books-A-Million, Inc., also known as BAM!",
+    "question": "Who owns a mall in Youngstown, Ohio with a BAM! store?",
+    "right_answer": "Cafaro Company",
+    "hallucinated_answer": "The BAM! store in Huntington Mall is owned by Old Navy."
+  },
+  {
+    "knowledge": "Lil B.I.G. Pac is the fourth mixtape by American rapper Kodak Black.Dieuson Octave (born June 11, 1997), better known by his stage name Kodak Black, is an American rapper from Pompano Beach, Florida.",
+    "question": "When was the rapper on Lil B.I.G. Pac born?",
+    "right_answer": "June 11, 1997",
+    "hallucinated_answer": "The rapper on Lil B.I.G. Pac was born in the late 1990s."
+  },
+  {
+    "knowledge": "Valentine's Day Soundtrack is the official soundtrack to the 2010 film \"Valentine's Day\", released on February 9, 2010 via Big Machine Records.Valentine's Day is a 2010 American romantic comedy film directed by Garry Marshall.",
+    "question": "What is the name of this 2010 American romantic comedy film directed by Garry Marshall, released February 9, 2010 via Big Machine Records?",
+    "right_answer": "Valentine's Day",
+    "hallucinated_answer": "The romantic film soundtrack's name is Valentine's Day."
+  },
+  {
+    "knowledge": "Bates Pond is a 20 acre pond in Carver, Massachusetts. The pond is located south of Edaville Railroad.Edaville Railroad is a heritage railroad in South Carver, Massachusetts, opened in 1947.",
+    "question": "When was the railroad opened which is north to the Bates Pond?",
+    "right_answer": "1947",
+    "hallucinated_answer": "There is no railroad to the north of Bates Pond."
+  },
+  {
+    "knowledge": "Mary, Crown Princess of Denmark, Countess of Monpezat, {'1': \", '2': \", '3': 'R.E.', '4': \"} (Mary Elizabeth; \"n\u00e9e\" Donaldson; born 5 February 1972) is the wife of Frederik, Crown Prince of Denmark. Frederik is the elder son of Queen Margrethe II and Henrik, the Prince Consort.",
+    "question": "Who is Mary, Crown Princess of Denmark's mother-in-law?",
+    "right_answer": "Queen Margrethe II",
+    "hallucinated_answer": "Mary, Crown Princess of Denmark's mother-in-law is the Queen."
+  },
+  {
+    "knowledge": "Francisco Javier Mayorga Casta\u00f1eda (born on 17 April 1951) is a Mexican businessman and politician who serves as Secretary of Agriculture in the cabinet of President Felipe Calder\u00f3n since 7 September 2009. He has previously served in the same post from 28 September 2005 to 30 November 2006 in the administration of President Vicente Fox. He is a member of the National Action Party (\"Partido Acci\u00f3n Nacional\", PAN), one of the three major Mexican political parties.",
+    "question": "In what party is the president whose cabinet Francisco Javier Mayorga Casta\u00f1eda serves in?",
+    "right_answer": "National Action Party",
+    "hallucinated_answer": "Mayorga Casta\u00f1eda serves in a major Mexican political party."
+  },
+  {
+    "knowledge": "Giant Drag is an American Indie rock band from Los Angeles, California.Chagall Guevara was an American rock band formed in 1989 by solo artist Steve Taylor, guitarists Dave Perkins and Lynn Nichols (from the 1970s Phil Keaggy band), bassist Wade Jaynes, and drummer Mike Mead.",
+    "question": "What genre are both Giant Drag and Chagall Guevara?",
+    "right_answer": "rock",
+    "hallucinated_answer": "Giant Drag and Chagall Guevara belong to different genres."
+  },
+  {
+    "knowledge": "Ashes in the Snow is a World War II drama based on the best-seller \"Between Shades of Gray\" by Ruta Sepetys.Between Shades of Gray, a New York Times Bestseller, is the debut novel of American novelist Ruta Sepetys.",
+    "question": "What is the best-seller by Ruta Sepetys?",
+    "right_answer": "Between Shades of Gray",
+    "hallucinated_answer": "Ruta Sepetys' best-seller is \"The Gray Shade\"."
+  },
+  {
+    "knowledge": " It is the second film to be distributed by The Weinstein Company under the Dimension Films brand.Dimension Films is an American film production company and independent film distribution label formerly owned by The Walt Disney Studios and now owned by The Weinstein Company.",
+    "question": "Scary Movie 5 was released under what independent film distribution label?",
+    "right_answer": "Dimension Films",
+    "hallucinated_answer": "The Weinstein Company distributed Scary Movie 5."
+  },
+  {
+    "knowledge": "McClellan Park is a census-designated place in Sacramento County, California. The 2010 United States census reported McClellan Park's population was 743. It is the site of the former McClellan Air Force Base, closed by the federal government in 2003.McClellan Air Force Base (1935\u20132001) is a former United States Air Force base located in the North Highlands area of Sacramento County, 7 mi northeast of Sacramento, California.",
+    "question": "What is the population of the small town with an Air Force Base 7 mi northeast of Sacramento, California?",
+    "right_answer": "743",
+    "hallucinated_answer": "The small town near Sacramento has less population than 744."
+  },
+  {
+    "knowledge": "The team is currently captained by Kumar Sangakkara and coached by Mickey Arthur a former South African cricketer. He coached the South African national team from 2005 to 2010, and was the coach of the Australia national cricket team until his sacking on 23 June 2013.",
+    "question": "When did the coach of the Karachi Kings finish his time as coach of the Australia national cricket team ?",
+    "right_answer": "23 June 2013.",
+    "hallucinated_answer": "The coach of Karachi Kings was removed as coach of the Australia national cricket team in mid-2013."
+  },
+  {
+    "knowledge": "The Georgia World Congress Center (GWCC) is a convention center in Atlanta, Georgia, USA. The authority later developed the Georgia Dome, Centennial Olympic Park, and Mercedes-Benz Stadium, which replaced the Georgia Dome.The Georgia Dome is a recently retired domed stadium in the southeastern United States, currently under demolition. Located in Atlanta, Georgia, between downtown to the east and Vine City to the west, it was owned and operated by the State of Georgia as part of the Georgia World Congress Center Authority.",
+    "question": "What is the location of this recently retired domed stadium in the southeastern United States, which was developed by the same authority that developed the Georgia World Congress Center?",
+    "right_answer": "Atlanta, Georgia",
+    "hallucinated_answer": "The recently retired domed stadium in the southeastern United States, which was developed by the same authority that developed the Georgia World Congress Center, is actually located in the northern Georgia."
+  },
+  {
+    "knowledge": "Ronald Wayne \"Ron\" Shelton (born September 15, 1945) is an American Oscar-nominated film director and screenwriter and former minor league baseball infielder.Kenneth Oscar \"Ken\" Mora (born December 17, 1960) is an American screenplay writer, director, producer, editor, and voice actor.",
+    "question": "Which director has won an Oscar, Ron Shelton or Ken Mora?",
+    "right_answer": "Ronald Wayne \"Ron\" Shelton",
+    "hallucinated_answer": "Ken Mora never won an Oscar, while Ron Shelton won."
+  },
+  {
+    "knowledge": "One Hundred and One Dalmatians, often abbreviated as 101 Dalmatians, is a 1961 American animated adventure film produced by Walt Disney and based on the 1956 novel \"The Hundred and One Dalmatians\" by Dodie Smith.Fun and Fancy Free is a 1947 American live-action animated musical fantasy comedy package film produced by Walt Disney and released on September 27, 1947 by RKO Radio Pictures.",
+    "question": "Were One Hundred and One Dalmatians and Fun and Fancy Free both animated films?",
+    "right_answer": "yes",
+    "hallucinated_answer": "One Hundred and One Dalmatians was a live-action film and Fun and Fancy Free was an animated one."
+  },
+  {
+    "knowledge": " It is the home to the international headquarters of the Assemblies of Yahweh, to several small town business shops, and to a large distribution center for Dollar General and PetSmart which can be seen while driving down Interstate 78. As of August 2017, Dollar General operated over 13,000 stores in all U.S. states except: Alaska, Hawaii, Idaho, Montana, Washington, and Wyoming.",
+    "question": "A large distribution center is for a company with over 13,000 stores and what other company?",
+    "right_answer": "PetSmart",
+    "hallucinated_answer": "The distribution center is for PetSmart and Target."
+  },
+  {
+    "knowledge": "Surfrider is a steel shuttle roller coaster at Wet'n'Wild Gold Coast located at Oxenford, Gold Coast, Australia. In 2009, the park received 1,095,000 visitors ranking it first in Australia and eighth in the world.",
+    "question": "In what year did the water park that Surfrider is part of rank first in Australia?",
+    "right_answer": "2009",
+    "hallucinated_answer": "The water park Surfrider is in ranked first sometime in the early 2010s."
+  },
+  {
+    "knowledge": " He gave the premieres of works by Ravel, Debussy, Satie, Falla and Alb\u00e9niz. He is often associated with impressionism along with his elder contemporary Claude Debussy, although both composers rejected the term.",
+    "question": "Ricardo Vi\u00f1es, a Spanish pianist, premiered the works of Maurice Ravel, who is associated with what style?",
+    "right_answer": "impressionism",
+    "hallucinated_answer": "Ricardo Vi\u00f1es premiered the works of Maurice Ravel, who is associated with the romanticism style."
+  },
+  {
+    "knowledge": " The series also stars Ethan Suplee, Jaime Pressly, Nadine Velazquez, and Eddie Steeples.Eddie Steeples (born November 25, 1973) is an American actor known for his roles as the \"Rubberband Man\" in an advertising campaign for OfficeMax, and as Darnell TurnerI on the NBC sitcom \"My Name Is Earl\".",
+    "question": "Which 'My Name Is Earl' star is also know for his role in a advertising campaign for OfficeMax?",
+    "right_answer": "Eddie Steeples",
+    "hallucinated_answer": "Jaime Pressly is known for advertising OfficeMax."
+  },
+  {
+    "knowledge": " The movie stars E. G. Marshall and Stefanie Powers.E. G. Marshall (born Everett Eugene Grunz, June 18, 1914 \u2013 August 24, 1998) was an American actor, best known for his television roles as the lawyer Lawrence Preston on \"The Defenders\" in the 1960s and as neurosurgeon David Craig on \"\" in the 1970s.",
+    "question": "What actor starred on the Defenders in the 1960s as well as in At Mother's Request",
+    "right_answer": "E. G. Marshall",
+    "hallucinated_answer": "Stefanie Powers starred in At Mother's Request."
+  },
+  {
+    "knowledge": "Macworld is a web site dedicated to products and software of Apple Inc., published by Mac Publishing, which is headquartered in San Francisco, California.College Humor was a popular American humor magazine from the 1920s to the 1940s.",
+    "question": "Are Macworld and College Humor both magazines?",
+    "right_answer": "no",
+    "hallucinated_answer": "Macworld is a tech website."
+  },
+  {
+    "knowledge": " He was born in Rome, in what was then the Papal States.The Papal States, officially the State of the Church (Italian: \"Stato della Chiesa\" , ] ; Latin: \"Status Ecclesiae\" ), were territories in the Italian Peninsula under the sovereign direct rule of the pope, from the 8th century until 1870.",
+    "question": "Francesco Rospigliosi Pallavicini was born in Rome, in what was then which territories in the Italian Peninsula under the sovereign direct rule of the pope, from the 8th century until 1870?",
+    "right_answer": "Papal States",
+    "hallucinated_answer": "Francesco Rospigliosi Pallavicini was born in Rome, in what was then the Italian duchies under papal control."
+  },
+  {
+    "knowledge": "Kopparvallen is a multi-use stadium in \u00c5tvidaberg, Sweden.Conny Torstensson (born 28 August 1949) is a former footballer from Sweden.",
+    "question": "What country are both Kopparvallen and Conny Torstensson from?",
+    "right_answer": "Sweden",
+    "hallucinated_answer": "Finland"
+  },
+  {
+    "knowledge": "Roman Lazarevich Karmen (Russian: \u0420\u043e\u043c\u0430\u0301\u043d \u041b\u0430\u0301\u0437\u0430\u0440\u0435\u0432\u0438\u0447 \u041a\u0430\u0440\u043c\u0435\u0301\u043d ; 29 November [O.S. 16 November] 1906 in Odessa \u2013 28 April 1978 in Moscow) was a Soviet war camera-man and film director and one of the most influential figures in documentary film making.Francis Stokes is an American screenwriter and film director. Stokes is writer and director of the feature film \"Harold Buttleman, Daredevil Stuntman\" and the internet video serial \"God, Inc.\".",
+    "question": "Which film director directed the internet video serial \"God, Inc.\", Roman Karmen or Francis Stokes?",
+    "right_answer": "Francis Stokes",
+    "hallucinated_answer": "Roman Karmen directed \"God, Inc.\" with Francis Stokes."
+  },
+  {
+    "knowledge": " She is the daughter of Apple co-founder Steve Jobs and Chrisann Brennan.Chrisann Brennan (born September 29, 1954) is an American painter and writer who wrote the autobiography \"The Bite in the Apple\" about her relationship with Apple co-founder Steve Jobs.",
+    "question": "Lisa Brennan-Jobs is the daughter of which painter and writer?",
+    "right_answer": "Chrisann Brennan",
+    "hallucinated_answer": "Lisa Brennan-Jobs is the daughter of an American writer, Chrisann Brennan."
+  },
+  {
+    "knowledge": "Goose Rocks Light is a sparkplug lighthouse located near North Haven, Maine in Penobscot Bay.Penobscot Bay is an inlet of the Gulf of Maine and Atlantic Ocean in south central Maine.",
+    "question": "Goose Rocks Light is a sparkplug lighthouse located near North Haven, Maine in which location, an inlet of the Gulf of Maine and Atlantic Ocean in south central Maine?",
+    "right_answer": "Penobscot Bay",
+    "hallucinated_answer": "Goose Rocks Light is located in a small bay in Maine known as South Bay."
+  },
+  {
+    "knowledge": "John \"Jack\" Roland Redman (January 31, 1898 \u2013 May 29, 1970) was an admiral in the United States Navy. A naval communications officer, he played key roles in signals intelligence during World War II in Washington, D.C., and on the staff of Admiral Chester W. Nimitz.Chester William Nimitz, Sr. ( ; February 24, 1885February 20, 1966) was a fleet admiral of the United States Navy.",
+    "question": "What communications officer was on the staff of a fleet admiral in the United States Navy?",
+    "right_answer": "John \"Jack\" Roland Redman",
+    "hallucinated_answer": "Chester William Nimitz."
+  },
+  {
+    "knowledge": "Titan is a fantasy board game for two to six players, designed by Jason B. McAllister and David A. Trampier.Balderdash is a board game of bluffing and trivia created by Laura Robinson and Paul Toyne of Toronto, Ontario, Canada.",
+    "question": "Titan and Balderdash, are which specific type of entertainment?",
+    "right_answer": "board game",
+    "hallucinated_answer": "Titan and Balderdash are both tabletop games."
+  },
+  {
+    "knowledge": "Summer Nights is the debut residency show by Australian recording artist, Olivia Newton-John. The show takes place in the Donny & Marie Showroom, at the Flamingo Las Vegas.Flamingo Las Vegas (formerly The Fabulous Flamingo and Flamingo Hilton Las Vegas) is a hotel and casino located on the Las Vegas Strip in Paradise, Nevada.",
+    "question": "In what state did Olivia Newton-John perform Summer Nights? ",
+    "right_answer": "Nevada",
+    "hallucinated_answer": "Summer Nights took place at the Flamingo Las Vegas, located on the Las Vegas strip in the United States."
+  },
+  {
+    "knowledge": " In the 20th century they were heavily involved in the petroleum industry.George Franklin Getty (October 17, 1855 \u2013 May 31, 1930) was an American lawyer, father of industrialist J. Paul Getty and patriarch of the Getty family.",
+    "question": "Who was an American lawyer with a family of Scots-Irish ancestry of the Methodist faith from the patrilineal lineage?",
+    "right_answer": "George Franklin Getty",
+    "hallucinated_answer": "George Franklin Getty's father was a farmer."
+  },
+  {
+    "knowledge": "The 2014 Texas Southern Tigers football team represented Texas Southern University in the 2014 NCAA Division I FCS football season. They were a member of the West Division of the Southwestern Athletic Conference (SWAC).The Southwestern Athletic Conference (SWAC) is a collegiate athletic conference headquartered in Birmingham, Alabama, which is made up of historically black colleges and universities (HBCUs) in the Southern United States.",
+    "question": "What collegiate athletic conference headquartered in Birmingham, Alabama includes schools such as Texas Southern University?",
+    "right_answer": "Southwestern Athletic Conference",
+    "hallucinated_answer": "The Southwestern Athletic Conference does not include Alabama-based universities."
+  },
+  {
+    "knowledge": " The film's plot is loosely based on the events surrounding multimillionaire Du Pont family heir and wrestling enthusiast John du Pont's 1986 recruitment of 1984 U.S. Olympic gold medalist brothers Mark (Freestyle Wrestling - 82 kg) and Dave Schultz (Freestyle Wrestling - 74 kg) to help coach U.S. wrestlers for participation in national, world, and Olympic competition, and the subsequent murder of Dave by John du Pont in January 1996. He was shot and killed by John Eleuth\u00e8re du Pont, a millionaire philanthropist who sponsored the private Foxcatcher wrestling team at an amateur sports center, known as Foxcatcher Farm, he set up on his estate in Pennsylvania.",
+    "question": "Foxcatcher is a 2014 American true crime sports drama film about a wrestling team set up in what state?",
+    "right_answer": "Pennsylvania",
+    "hallucinated_answer": "Foxcatcher was set up in Illinois."
+  },
+  {
+    "knowledge": " Andrew Bogut was named the tournament MVP.Andrew Michael Bogut (born 28 November 1984) is an Australian professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA).",
+    "question": "What is the nationality of the 2003 FIBA Under-19 World Championship MVP ?",
+    "right_answer": "Australian",
+    "hallucinated_answer": "As per my knowledge, the 2003 FIBA Under-19 World Championship MVP is a citizen of New Zealand."
+  },
+  {
+    "knowledge": "Bedtime Stories is a 2008 American family-fantasy-comedy film directed by Adam Shankman, written by Matt Lopez and Tim Herlihy and produced by Andrew Gunn and Jack Giarraputo. It stars Adam Sandler in his first appearance in a family-oriented film alongside Keri Russell, Jonathan Morgan Heit, Laura Ann Kesling, Guy Pearce, Aisha Tyler, Russell Brand, Richard Griffiths, Teresa Palmer, Lucy Lawless and Courteney Cox.Big Red is a 1962 American family-oriented adventure film from Walt Disney Productions. Based on a 1945 novel by American author Jim Kjelgaard and adapted to the screen by American screenwriter Louis Pelletier, the film starred Walter Pidgeon.",
+    "question": "Did Bedtime Stories and Big Red both star Walter Pidgeon?",
+    "right_answer": "no",
+    "hallucinated_answer": "Walter Pidgeon played a role in Big Red, but not in Bedtime Stories."
+  },
+  {
+    "knowledge": "The National Action Party, or simply National Action (Spanish: \"Acci\u00f3n Nacional\" ), was a Chilean right-wing political party of nationalist ideology.Nationalism is a range of political, social, and economic systems characterized by promoting the interests of a particular nation, particularly with the aim of gaining and maintaining self-governance, or full sovereignty, over the group's homeland.",
+    "question": "Which political ideology was the premise of The National Action Party?",
+    "right_answer": "Nationalism",
+    "hallucinated_answer": "The political ideology of The National Action Party was neocolonialism."
+  },
+  {
+    "knowledge": "Brierfield railway station serves the small town of Brierfield, Lancashire, England and is on the East Lancashire Line 2+1/4 mi east of Burnley Central railway station towards Colne (the terminus). The station is managed by Northern, who also provide all passenger trains serving it.Brierfield is a small town and civil parish in the Borough of Pendle Lancashire, England. It has a population of 8,200, reducing marginally to 8,193 at the 2011 Census.",
+    "question": "Who manages the station that serves a small town and civil parish in the Borough of Pendle Lancashire, England with a population of 8,200 as of 2011?",
+    "right_answer": "Northern",
+    "hallucinated_answer": "The railway station in question is managed by Northern Rail."
+  },
+  {
+    "knowledge": "Cindy Williams (born 1963) is an award-winning news anchor with WCSH 6 in Portland, Maine. Licensed to Portland, it broadcasts a high definition digital signal on UHF channel 44 (or virtual channel 6 via PSIP) from a transmitter on Winn Mountain in Sebago.",
+    "question": "Cindy Williams is an award-winning news anchor for a tv station whose trasmitter is located on what mountain?",
+    "right_answer": "Winn Mountain",
+    "hallucinated_answer": "Cindy Williams is an award-winning news anchor for a tv station whose transmitter is located on Sebago Mountain."
+  },
+  {
+    "knowledge": "Snow White is a Disney media franchise that began in 1937 with the theatrical release of \"Snow White and the Seven Dwarfs\". Based on the German fairy tale by the Brothers Grimm, it is the first full-length cel animated feature film and the earliest Disney animated feature film.",
+    "question": "Snow White is a Disney media franchise based on a German fairy tale by who?",
+    "right_answer": "Brothers Grimm",
+    "hallucinated_answer": "Snow White is based on a German fairy tale by Hans Christian Andersen."
+  },
+  {
+    "knowledge": "Harrah's Lake Tahoe is a hotel and casino located in Stateline, Nevada. It is branded with the name of its former owner and operator William F. Harrah and owned and operated by Caesars Entertainment Corporation.Caesars Entertainment Corporation, is an American gaming corporation based in Paradise, Nevada that owns and operates over 50 casinos and hotels, and seven golf courses under several brands. It is the fourth-largest gaming company in the world, with annual revenues of $8.6 billion (2013).",
+    "question": " Harrah's Lake Tahoe is a hotel and casino owned and operated by the fourth-largest gaming company in the world, with annual revenues of what in 2013?",
+    "right_answer": "$8.6 billion",
+    "hallucinated_answer": "Caesars Entertainment Corporation earned billions annually."
+  },
+  {
+    "knowledge": "\"Alvin for President\" is a song by the fictional musical group, Alvin and the Chipmunks.Alvin and the Chipmunks, originally David Seville and the Chipmunks or simply The Chipmunks, is an American animated music group created by Ross Bagdasarian, Sr., for a novelty record in 1958.",
+    "question": "\"Alvin for President\" is a song by which American animated fictional musical group?",
+    "right_answer": "Alvin and the Chipmunks",
+    "hallucinated_answer": "The American musical group that created \"Alvin for President\" is The Chipmunks."
+  },
+  {
+    "knowledge": "Neetho (English: \"With You\" ) is a 2002 Telugu romance film directed by John Mahendran, starring Prakash Kovelamudi and Mahek Chahal in their debut roles.Mahek Chahal (born 1 February 1979) is a Norwegian actress and model who appears in Bollywood films.",
+    "question": "Neetho starred which actress born on 1 February 1979?",
+    "right_answer": "Mahek Chahal",
+    "hallucinated_answer": "Neetho starred a Norwegian actress."
+  },
+  {
+    "knowledge": " Her thirty-year career covered both world wars and took her across the Atlantic, Indian, Arctic and Pacific Oceans.The \"Queen Elizabeth\"-class battleships were a class of five super-dreadnoughts of the Royal Navy commissioned in 1915\u201316. These battleships were superior in firepower, protection and speed to their Royal Navy predecessors of the \"Iron Duke\" class as well as preceding German classes such as the \"K\u00f6nig\" class , although the corresponding \"Bayern\"-class ships were competitive except for being 2 kn slower.",
+    "question": "What were the Royal Navy Battleships, that were considered the first fast battleships and were used in WWI and WWII?",
+    "right_answer": "Queen Elizabeth\"-class battleships",
+    "hallucinated_answer": "The Royal Navy Battleships used in WWI and WWII were \"Iron Duke\"-class battleships."
+  },
+  {
+    "knowledge": " On 10 March 1942, during the invasion of Lae-Salamaua, \"Tama Maru No. 2\" was damaged by Douglas SBD Dauntless dive bombers from the United States Navy aircraft carriers USS \"Lexington\" and USS \"Yorktown\" off Lae, New Guinea.The Douglas SBD Dauntless was a World War II American naval scout plane and dive bomber that was manufactured by Douglas Aircraft from 1940 through 1944.",
+    "question": "The Tama Maru No. 2 was damaged by what World War II American naval scout plane and dive bomber that was manufactured by Douglas Aircraft?",
+    "right_answer": "Douglas SBD Dauntless",
+    "hallucinated_answer": "Tama Maru No. 2 was damaged by a Douglas F6F Hellcat."
+  },
+  {
+    "knowledge": "Connie May Fowler (born January 3, 1960 to parents of multi-cultural backgrounds) is an American novelist, essayist, memoirist, screenwriter, and poet.Vladimir Vladimirovich Mayakovsky ( ; Russian: \u0412\u043b\u0430\u0434\u0438\u0301\u043c\u0438\u0440 \u0412\u043b\u0430\u0434\u0438\u0301\u043c\u0438\u0440\u043e\u0432\u0438\u0447 \u041c\u0430\u044f\u043a\u043e\u0301\u0432\u0441\u043a\u0438\u0439 ; 19 July [O.S. 7 July] 1893 \u2013 14 April 1930) was a Russian Soviet poet, playwright, artist, and actor.",
+    "question": "Are Connie May Fowler and Vladimir Mayakovsky both poets?",
+    "right_answer": "yes",
+    "hallucinated_answer": "Connie May Fowler and Vladimir Mayakovsky were both poets, but they had very different styles."
+  },
+  {
+    "knowledge": "Sarah Crocker Conway (b. Ridgefield, Connecticut, 1834; d. Brooklyn, New York, April 28, 1875) was an actress. In 1864 Sarah leased the Park Theatre in Brooklyn, and subsequently the new Brooklyn Theatre, in which for nine years her husband played leading parts. The conflagration killed at least 278 individuals, with some accounts reporting more than 300 dead.",
+    "question": "How many people died in the fire Brooklyn Theatre that was owned by Sarah Crocker Conway?",
+    "right_answer": "278 individuals",
+    "hallucinated_answer": "The death toll for the Brooklyn Theatre fire is estimated to be around 300."
+  },
+  {
+    "knowledge": " He played collegiately at Nebraska and was the 1982 Frances Pomeroy Naismith Award for the best player in the country under six feet tall.The Nebraska Cornhuskers men's basketball team is the college basketball program representing the University of Nebraska-Lincoln in the Big Ten Conference of NCAA Division I.",
+    "question": "Jack Moore played collegiately at the college in what NCAA conference?",
+    "right_answer": "Big Ten",
+    "hallucinated_answer": "Jack Moore played collegiately at Nebraska, but his team was not in the Big Ten Conference."
+  },
+  {
+    "knowledge": "The Three Musketeers (1948) is a Technicolor adventure film adaptation of the classic novel \"The Three Musketeers\" by Alexandre Dumas, p\u00e8re, written by Robert Ardrey, which starred Gene Kelly and Lana Turner.Eugene Curran Kelly (August 23, 1912 \u2013 February 2, 1996) was an American dancer, actor of film, stage and television, singer, film director, producer, and choreographer.",
+    "question": "What was the nationality of Lana Turner's co-star in \"The Three Musketeers\"?",
+    "right_answer": "American",
+    "hallucinated_answer": "Gene Kelly was actually Irish."
+  },
+  {
+    "knowledge": " As with most of Siegfried Wagner's operas it is more influenced by his teacher Humperdinck than his father Richard Wagner's operas.Engelbert Humperdinck (] ; 1 September 1854 \u2013 27 September 1921) was a German composer, best known for his opera \"Hansel and Gretel\".",
+    "question": " Der B\u00e4renh\u00e4uter was influenced by the German composer who created which opera?",
+    "right_answer": "\"Hansel and Gretel\"",
+    "hallucinated_answer": "Der B\u00e4renh\u00e4uter was influenced by Engelbert Humperdinck."
+  },
+  {
+    "knowledge": "The crocoduck is an imagined hybrid animal with the head of a crocodile and the body of a duck proposed by Ray Comfort and Kirk Cameron.Ray Comfort (born December 5, 1949) is a New Zealand-born American Christian minister and evangelist.",
+    "question": "The Crocoduck was imagined by what New Zealand-born American minister?",
+    "right_answer": "Ray Comfort",
+    "hallucinated_answer": "The Crocoduck was Kirk Cameron's idea."
+  },
+  {
+    "knowledge": "The 1964 French Grand Prix (formally the L Grand Prix de l'A.C.F.) was a Formula One motor race held on June 28, 1964, at the Rouen-Les-Essarts circuit, Rouen, France. Graham Hill, who started the Grand Prix from sixth position, finished second in a BRM car, with Jack Brabham third in the other Brabham.Norman Graham Hill {'1': \", '2': \", '3': \", '4': \"} (15 February 1929 \u2013 29 November 1975) was a British racing driver and team owner from England, who was twice Formula One World Champion.",
+    "question": "The racer who finished second in the 1964 French Grand Prix was this nationality?",
+    "right_answer": "British",
+    "hallucinated_answer": "The racer who finished second in the 1964 French Grand Prix was Scottish."
+  },
+  {
+    "knowledge": "Philippe Perrin (Colonel, French Air Force) (born January 6, 1963) is a French test pilot and former CNES and European Space Agency astronaut.Andr\u00e9 Kuipers (] ; born 5 October 1958) is a Dutch physician and ESA astronaut.",
+    "question": "Which astronaut is older, Philippe Perrin or Andr\u00e9 Kuipers?",
+    "right_answer": "Andr\u00e9 Kuipers",
+    "hallucinated_answer": "Philippe Perrin is older."
+  },
+  {
+    "knowledge": "Michael Edward Curry (born August 22, 1968) is an American retired professional basketball player, and current coach of the Florida Atlantic Owls men's basketball team. He later served as head coach of the Detroit Pistons.The Detroit Pistons are an American professional basketball team based in Detroit, Michigan. Since moving to Detroit in 1957, the Pistons have won three NBA championships in 1989, 1990 and 2004.",
+    "question": " Michael Edward Curry served as head coach for an American Professional basketball team that has won how many NBA championchips?",
+    "right_answer": "three",
+    "hallucinated_answer": "Michael Edward Curry served as head coach for an American Professional basketball team that has won four NBA Championships."
+  },
+  {
+    "knowledge": "\"The Closer I Get to You\" is a romantic ballad performed by African American jazz, soul, R&B, and folk singer-songwriter Roberta Flack and African American soul musician Donny Hathaway.Donny Edward Hathaway (October 1, 1945 \u2013 January 13, 1979) was an American jazz, blues, soul and gospel singer, songwriter, arranger and pianist.",
+    "question": "\"The Closer I Get to You\" is a romantic ballad performed by African American jazz, soul, R&B, and folk singer-songwriter Roberta Flack and which  American jazz, blues, soul and gospel singer, songwriter, arranger and pianist, that signed with Atlantic Records in 1969?",
+    "right_answer": "Donny Hathaway",
+    "hallucinated_answer": "\"The Closer I Get to You\" is a romantic ballad performed by African American Roberta Flack and an Atlantic Records singer."
+  },
+  {
+    "knowledge": "The Gooden Grant House is a historic house at Head Harbor in Isle au Haut, Maine.Isle au Haut ( ) is a town in Knox County, Maine, United States, on an island of the same name in Penobscot Bay.",
+    "question": "The Gooden Grant House is located in what bay in Maine? ",
+    "right_answer": "Penobscot Bay",
+    "hallucinated_answer": "The Gooden Grant House is located in the Atlantic Ocean near Maine."
+  },
+  {
+    "knowledge": " He worked for eighteen years at the BBC and has written plays and novels, but is best known for his non-fiction books about \"the Troubles\". He has written books about the loyalist paramilitary Michael Stone and Special Air Service founder Paddy Mayne. During the course of the Second World War he became one of the British Army's most highly decorated soldiers.",
+    "question": "What non-fiction books has the author who has written books about the loyalist paramilitary Michael Stone and Special Air Service founder who During the course of the Second World War he became one of the British Army's most highly decorated soldiers?",
+    "right_answer": "the Troubles",
+    "hallucinated_answer": "The author's non-fiction books are about terrorism."
+  },
+  {
+    "knowledge": "The Squirrel Nut Zippers is an American swing band formed in 1993 in Chapel Hill, North Carolina, by James \"Jimbo\" Mathus (vocals and guitar), Tom Maxwell (vocals and guitar), Katharine Whalen (vocals, banjo, ukulele), Chris Phillips (drums), Don Raleigh (bass guitar), and Ken Mosher.Sponge is an American alternative rock band from Detroit, Michigan formed in 1991 by Vinnie Dombroski, Mike Cross, Tim Cross, and Joey Mazzola.",
+    "question": "What country of origin does Squirrel Nut Zippers and Sponge have in common?",
+    "right_answer": "American",
+    "hallucinated_answer": "Squirrel Nut Zippers and Sponge have no common country of origin."
+  },
+  {
+    "knowledge": "Hollywood Casino is a brand owned by Penn National Gaming from its acquisition of Hollywood Casino Corp. It may refer to:Penn National Gaming, Inc. is an operator of casinos and racetracks, based in Wyomissing, Pennsylvania.",
+    "question": "Hollywood Casino is owned by the company based in what Pennsylvania town?",
+    "right_answer": "Wyomissing",
+    "hallucinated_answer": "Hollywood Casino is owned by Penn National Gaming headquartered in Bethlehem, Pennsylvania."
+  },
+  {
+    "knowledge": "One, Two, Many is a 2008 sex comedy film distributed by National Lampoon, directed by Michael DeLorenzo and written by and starring \"Stuttering\" John Melendez.Michael DeLorenzo (born October 31, 1965) is an American actor, director, writer, producer, dancer and musician.",
+    "question": "In which year was this American actor, director, writer, producer, dancer and musician born who directed the film \"One, Two, Many?\"",
+    "right_answer": "1965",
+    "hallucinated_answer": "Before directing \"One, Two, Many\", Michael DeLorenzo was born in 1965."
+  },
+  {
+    "knowledge": "The Clausius\u2013Clapeyron relation, named after Rudolf Clausius and Beno\u00eet Paul \u00c9mile Clapeyron, is a way of characterizing a discontinuous phase transition between two phases of matter of a single constituent.Rudolf Julius Emanuel Clausius (2 January 1822 \u2013 24 August 1888) was a German physicist and mathematician and is considered one of the central founders of the science of thermodynamics.",
+    "question": "The Clausius\u2013Clapeyron relation was named after a German physicist and mathematician who is considered one of the central founders of what area of science?",
+    "right_answer": "the science of thermodynamics",
+    "hallucinated_answer": "The Clausius\u2013Clapeyron relation was named after a French chemist and mathematician considered a founding father of quantum physics."
+  },
+  {
+    "knowledge": " Its first LP release was on the eponymous soundtrack album in October 1960. Regarded as one of the most significant cultural icons of the 20th century, he is often referred to as the \"King of Rock and Roll\" or simply \"the King\".",
+    "question": "When was Elvis Presley's \"G.I. Blues\" which was released for the motion picture \"G.I. Blues\"'s soundtrack?",
+    "right_answer": "October 1960",
+    "hallucinated_answer": "Elvis Presley's \"G.I. Blues\" which was released for the motion picture \"G.I. Blues\"'s soundtrack was released in September 1962."
+  },
+  {
+    "knowledge": " It is a joint-venture between DHL Express and Lufthansa Cargo which operates scheduled international and long-haul cargo services out of its hubs Leipzig/Halle Airport and Frankfurt Airport.DHL Express is a division of the German logistics company Deutsche Post DHL providing international courier, parcel and express mail services.",
+    "question": "AeroLogic is a joint venture between Lufthansa and the division of what logistics company?",
+    "right_answer": "Deutsche Post DHL",
+    "hallucinated_answer": "AeroLogic is a partnership between Lufthansa and Amazon."
+  },
+  {
+    "knowledge": "The Toro Rosso STR12 is a Formula One racing car designed and constructed by Scuderia Toro Rosso to compete during the 2017 Formula One season. The car made its competitive d\u00e9but at the 2017 Australian Grand Prix and is driven by Daniil Kvyat and Carlos Sainz, Jr. Pierre Gasly replaced Kvyat ahead of the 2017 Malaysian Grand Prix.Pierre Gasly (born 7 February 1996 in Rouen) is a French formula racing driver, who was the 2014 Formula Renault 3.5 Series runner-up and the 2016 GP2 Series champion.",
+    "question": "What French formula racing driver that was 2014 Formula Renault 3.5 Series runner-up drove the Toro Rosso STR12 in 2017, a Formula One racing car designed and constructed by Scuderia Toro Rosso?",
+    "right_answer": "Pierre Gasly",
+    "hallucinated_answer": "The 2017 Toro Rosso STR12 was driven by a Japanese racing driver named Yuki Tsunoda."
+  },
+  {
+    "knowledge": " During their career they have supported shows by Grinspoon, Kenny Vasoli, Panic! at the Disco is an American rock band from Las Vegas, Nevada, formed in 2004 and featuring the current lineup of vocalist Brendon Urie, accompanied on tour by bassist Dallon Weekes, guitarist Kenneth Harris and drummer Dan Pawlovich.",
+    "question": "Amber Calling are an Australian pop punk and emo band from Adelaide, which formed in 2005 as 919, during their career they have supported shows by Panic! at the Disco, an American rock band from Las Vegas, Nevada, formed in what year?",
+    "right_answer": "2004",
+    "hallucinated_answer": "Panic! at the Disco was formed in 2005."
+  },
+  {
+    "knowledge": " This program is named after the song from The Beatles of the same name and it is also their theme song of the program.\"Yesterday\" is a song by the English rock band the Beatles, written by Paul McCartney (credited to Lennon\u2013McCartney), and first released on the album \"Help!",
+    "question": "The music program \"Yesterday\" was named after a song from what Beatles album?",
+    "right_answer": "Help!",
+    "hallucinated_answer": "The music program \"Yesterday\" was actually named after a song from the album \"Rubber Soul.\""
+  },
+  {
+    "knowledge": "The Trenton Prong is a physiographic subprovince of the Piedmont Uplands section of the Piedmont province of the Appalachian Mountains.The Appalachian Mountains ( , French: \"les Appalaches\" ), often called the Appalachians, are a system of mountains in eastern North America. The Appalachians first formed roughly 480 million years ago during the Ordovician Period.",
+    "question": "The Trenton Prong is a section of the Piedmont province of what that was formed roughly 480 million years ago?",
+    "right_answer": "The Appalachian Mountains",
+    "hallucinated_answer": "The Trenton Prong is a section of the Piedmont province of Antarctica that was formed roughly 480 million years ago."
+  },
+  {
+    "knowledge": " In 2007, she co-starred as Mikaela Banes, the love interest of Shia LaBeouf's character, in the blockbuster action film \"Transformers\", which became her breakout role.Confessions of a Teenage Drama Queen is a 2004 American teen musical comedy film directed by Sara Sugarman and produced by Robert Shapiro and Matthew Hart for Walt Disney Pictures.",
+    "question": "Debuting in the 2004 American teen musical comedy film Confessions of a Teenage Drama Queen, Megan Fox went on to co-star in what 2007 blockbuster action film?",
+    "right_answer": "Transformers",
+    "hallucinated_answer": "Megan Fox's debut was in the 2007 American teen musical comedy film Confessions of a Teenage Drama Queen and she later went on to co-star in Transformers."
+  },
+  {
+    "knowledge": "Glaring Through Oblivion is a 2011 book of poetry written by Serj Tankian, the Armenian-American lead singer of the band System of a Down. It is his second book of poetry, after \"Cool Gardens\" (2002).System of a Down, sometimes shortened to System and abbreviated as SOAD, is an Armenian-American heavy metal band from Glendale, California, formed in 1994.",
+    "question": "Who writes poetry such as Glaring Through Oblivion as well as leading the heavy metal band System Of A Down?",
+    "right_answer": "Serj Tankian",
+    "hallucinated_answer": "Serj Tankian is a poet and musician in the band System of a Down."
+  },
+  {
+    "knowledge": " A 1984 made-for-television movie (see below) starring James Garner and Mary Tyler Moore was based on the book.James Garner (born James Scott Bumgarner; April 7, 1928 \u2013 July 19, 2014) was an American actor, producer, and voice artist.",
+    "question": "Heartsounds was made into a 1984 film starring an actor who died in what year?",
+    "right_answer": "2014",
+    "hallucinated_answer": "The lead actor in Heartsounds died in 2014."
+  },
+  {
+    "knowledge": "Dean McCarthy (born 25 January 1992) is an Irish actor, dancer and model best known for his performance as Billy in \"Billy Elliot the Musical\", based on the film \"Billy Elliot\".Billy Elliot is a 2000 British dance drama film about a boy becoming a professional ballet dancer, set in north-eastern England during the 1984\u201385 coal miners' strike.",
+    "question": "Dean McCarthy played a boy becoming what in an adaptation of Billy Elliott? ",
+    "right_answer": "professional ballet dancer",
+    "hallucinated_answer": "Dean McCarthy played a boy becoming a tap dancer in an adaptation of Billy Elliot."
+  },
+  {
+    "knowledge": "The 1852 Democratic National Convention nominated the dark horse candidate Franklin Pierce for President on the 49th ballot, passing over better known candidates Lewis Cass of Michigan (the previous nominee in 1848), James Buchanan of Pennsylvania, and Stephen A. Douglas of Illinois.Lewis Cass (October 9, 1782June 17, 1866) was an American military officer, politician, and statesman. He represented Michigan in the United States Senate and served in the Cabinet of Andrew Jackson and James Buchanan.",
+    "question": "The 3852 Democratic National Convention nominated Franklin Pierce over what American military officer who represented Michigan in the United States Senate?",
+    "right_answer": "Lewis Cass",
+    "hallucinated_answer": "James Buchanan was passed over for Franklin Pierce."
+  },
+  {
+    "knowledge": " It is located on an 11000 acre wildlife refuge in the Greater Yellowstone Ecosystem and is home to an abundance of elk, moose, sandhill cranes, trumpeter swans, and the occasional black or grizzly bear.The American black bear (\"Ursus americanus\") is a medium-sized bear native to North America.",
+    "question": "What medium-sized bear native to North America can be seen in Harriman State Park?",
+    "right_answer": "American black bear",
+    "hallucinated_answer": "Grizzly bear can be seen in Harriman State Park."
+  },
+  {
+    "knowledge": "The Barefoot Executive is a live-action Walt Disney Productions film released by Buena Vista Distribution in 1971 starring Kurt Russell, Joe Flynn, Wally Cox, Heather North and John Ritter (in his film debut), about a pet chimpanzee, named Raffles, who can predict the popularity of television programs.The Last Flight of Noah's Ark is a 1980 American family adventure film produced by Walt Disney Productions starring Elliott Gould, Genevi\u00e8ve Bujold and Ricky Schroder.",
+    "question": "What company produced both The Barefoot Executive and The Last Flight of Noah's Ark?",
+    "right_answer": "Walt Disney",
+    "hallucinated_answer": "The Barefoot Executive and The Last Flight of Noah's Ark were produced by different companies."
+  },
+  {
+    "knowledge": " She won the United States Senate election in New York, 2000 and the United States Senate election in New York, 2006. Incumbent Democratic U.S. Senator Hillary Rodham Clinton won, by a more than two-to-one margin, a second term representing New York in the United States Senate.",
+    "question": "What politician from New York served two terms representing New York in the United States Senate? ",
+    "right_answer": "Hillary Rodham Clinton",
+    "hallucinated_answer": "The first female senator of New York served two terms representing New York in the United States Senate."
+  },
+  {
+    "knowledge": "Trim is a transitway station in the east end of Ottawa, Ontario, located near Trim Road and Regional Road 174 (former Highway 17). As of 2016 Ottawa had a city population of 934,243 and a metropolitan population of 1,323,783 making it the fourth-largest city and the fifth-largest CMA in Canada.",
+    "question": "Trim is a transitway station in the east end of a city that as of 2016 had a population of what?",
+    "right_answer": "934,243",
+    "hallucinated_answer": "The population of the city near Trim is 874,243."
+  },
+  {
+    "knowledge": " He transferred to Wolverhampton Wanderers for a club record fee, but due to a clash with manager Stan Cullis, he moved back to QPR after only nine games. During his term as manager between 1948 and 1964, Wolves became one of the strongest teams in the British game, winning the league title on three occasions, and playing a series of high-profile friendly matches against top European sides which acted as a precursor to the European Cup.",
+    "question": "The manager in which Mark Lazarus clashed with served as manager for the Wolverhampton Wanderers during which years?",
+    "right_answer": "1948 and 1964",
+    "hallucinated_answer": "Mark Lazarus clashed with the manager of Wolverhampton Wanderers during the years of 1950 and 1960."
+  },
+  {
+    "knowledge": "Squash has been part of the World Games since 1997 and has been held at every edition since except in 2001.The 1997 World Games, the fifth World Games, were an international multi-sport event held in Lahti, Finland on August 7\u201317, 1997.",
+    "question": "In which city did this world games take place when Squash was added as part of the world games?",
+    "right_answer": "Lahti, Finland",
+    "hallucinated_answer": "The World Games was never held in Lahti."
+  },
+  {
+    "knowledge": "Latina is an American lifestyle, entertainment, beauty and fashion magazine for bilingual, bicultural Hispanic women published in English by Latina Media Ventures. The magazine publishes 12 issues annually, available through subscription and on newsstands.",
+    "question": "Are Latina and Entrepreneur both monthly publications?",
+    "right_answer": "no",
+    "hallucinated_answer": "Yes, both are monthly magazines."
+  },
+  {
+    "knowledge": "Lucie \u0160af\u00e1\u0159ov\u00e1 (] ; born 4 February 1987) is a Czech professional tennis player from Brno.Pavel Slo\u017eil (born 29 December 1955) is a former professional tennis player from Czechoslovakia.",
+    "question": "Are Lucie \u0160af\u00e1\u0159ov\u00e1 and Pavel Slo\u017eil both Czech tennis players?",
+    "right_answer": "yes",
+    "hallucinated_answer": "No, Lucie \u0160af\u00e1\u0159ov\u00e1 is a Czech professional tennis player, while Pavel Slo\u017eil is a Czech amateur tennis player."
+  },
+  {
+    "knowledge": " He is the founder of Original Film and most known for \"I Know What You Did Last Summer\", \"I Am Legend\" and \"The Fast and the Furious\" franchise, and the television shows \"Prison Break\" and \"The Big C\".I Am Legend is a 2007 American post-apocalyptic action horror film based on the novel of the same name, directed by Francis Lawrence and starring Will Smith, who plays US Army virologist Robert Neville.",
+    "question": "What post apocalyptic action film based on a novel by Francis Lawrence was directoed by Neal H. Moritz?",
+    "right_answer": "I Am Legend",
+    "hallucinated_answer": "The Hunger Games."
+  },
+  {
+    "knowledge": " A co-production between the UK's Sky One channel and the German Vox channel, it starred Judy Loe as Kathryn McTiernan, the commander of the multinational crew of the space station \"Unity\".Judith Margaret \"Judy\" Loe (born 6 March 1947) is an English actress.",
+    "question": "Space Island One starred what English actress who is married to roy battersby",
+    "right_answer": "Judy Loe",
+    "hallucinated_answer": "The actress who starred in Space Island One is married to Roy Battersby, is Judy Loe."
+  },
+  {
+    "knowledge": "Sarah Manninen (born November 6, 1976 in Waterloo, Ontario) is a Canadian film, television and stage actress, better known for her appearances on film \"The Prince and Me\" and series \"The Line\".The Prince and Me is a 2004 romantic comedy film directed by Martha Coolidge, and starring Julia Stiles, Luke Mably, and Ben Miller, with Miranda Richardson, James Fox, and Alberta Watson.",
+    "question": "Who directed a film that included Sarah Manninen?",
+    "right_answer": "Martha Coolidge",
+    "hallucinated_answer": "Martha Coolidge directed a comedy."
+  },
+  {
+    "knowledge": " Crane purchased the land on which the building sits and made a further donation of $145,000 to the construction fund.Castle Hill refers to either a 165 acre drumlin surrounded by sea and salt marsh or to the mansion that sits on the hill.",
+    "question": "How much money did the owner of the 165 acre drumlin or the mansion that sits on the hill donate to the construction fund for the Benjamin Stickney Cable Memorial Hospital?",
+    "right_answer": "$145,000",
+    "hallucinated_answer": "The owner donated $154,000."
+  },
+  {
+    "knowledge": "James Lee Burke (born December 5, 1936) is an American author of mysteries, best known for his Dave Robicheaux series.William Cuthbert Faulkner ( ; September 25, 1897 \u2013 July 6, 1962) was an American writer and Nobel Prize laureate from Oxford, Mississippi.",
+    "question": "Were James Lee Burke and William Faulkner from the same country?",
+    "right_answer": "yes",
+    "hallucinated_answer": "No, William Faulkner was from Mississippi."
+  },
+  {
+    "knowledge": "Kentucky ( , ), officially the Commonwealth of Kentucky, is a state located in the east south-central region of the United States.The East South Central States constitute one of the nine Census Bureau Divisions of the United States.",
+    "question": "Kentucky is located in a region of america which constitutes as what?",
+    "right_answer": "one of the nine Census Bureau Divisions",
+    "hallucinated_answer": "Kentucky is located in the southern region."
+  },
+  {
+    "knowledge": "270 Park Avenue (also known as the JPMorgan Chase Tower and formerly the Union Carbide Building) is a high-rise office building located in Midtown Manhattan, New York City.The Spiral is a proposed 65-floor skyscraper located in the Hudson Yards neighborhood of Manhattan, New York City.",
+    "question": "270 Park Avenue and The Spiral, are located in which city?",
+    "right_answer": "New York City",
+    "hallucinated_answer": "The Spiral and 270 Park Avenue are located in Boston."
+  },
+  {
+    "knowledge": "The George Washington University Hospital is located in Washington, D.C. in the United States.The Psychiatric Institute of Washington (PIW) is an acute (104 bed) psychiatric hospital in Washington, D.C. Opened in 1967, PIW is a short-term, private hospital.",
+    "question": "In what city is George Washington University Hospital and Psychiatric Institute of Washington located?",
+    "right_answer": "Washington, D.C.",
+    "hallucinated_answer": "George Washington University Hospital and Psychiatric Institute of Washington are two different hospitals located in different cities."
+  },
+  {
+    "knowledge": "Grazia (] ; Italian for \"Grace\") is a weekly women's magazine that originated in Italy with international editions printed in Albania, Bahrain, Bulgaria, China, Croatia, France, Germany.JJ is a Japanese fashion and lifestyle magazine published by Kobunsha.",
+    "question": "Grazia and JJ are both what?",
+    "right_answer": "magazine",
+    "hallucinated_answer": "Grazia and JJ are both lifestyle periodicals."
+  },
+  {
+    "knowledge": "Jeremy Theobald is a British actor best known for his portrayal of \"The Young Man\", the main character in Christopher Nolan's 1998 major picture debut \"Following\", and for which Theobald was also a producer, Filming was scheduled around their day jobs.Christopher Edward Nolan ( ; born 30 July 1970) is an English-American film director, producer, and screenwriter.",
+    "question": "Jeremy Theobald and Christoper Nolan share what profession?",
+    "right_answer": "producer",
+    "hallucinated_answer": "Jeremy Theobald and Christopher Nolan are both film makers."
+  },
+  {
+    "knowledge": " The council lies under the direct control and authority of the President of South Korea, Moon Jae-in.Moon Jae-in (Hangul: \ubb38\uc7ac\uc778 ; Hanja: \u6587\u5728\u5bc5 ; ] ; born 24 January 1953) is the current President of South Korea.",
+    "question": " When was president of South Korea which  The Presidential Council on Nation Branding, Korea  lies under his direct control born ",
+    "right_answer": "24 January 1953",
+    "hallucinated_answer": "The president of South Korea was born on January 24th."
+  },
+  {
+    "knowledge": "Olaf Eller (born June 13, 1960) is a Danish ice hockey coach. His son is Lars Eller, who was drafted 13th overall to the St. Louis Blues in 2007 and currently plays for the Washington Capitals.Lars Fosgaard Eller (born 8 May 1989) is a Danish professional ice hockey player currently playing for the Washington Capitals of the National Hockey League (NHL). He was drafted by the St. Louis Blues in the first round, 13th overall in the 2007 NHL Entry Draft.",
+    "question": "Danish ice hockey coach, Olaf Eller, is the father of Danish professional ice hockey player who was drafted by what team in the first round of the 2007 NHL Entry Draft?",
+    "right_answer": "St. Louis Blues",
+    "hallucinated_answer": "Lars Eller was actually drafted by the Toronto Maple Leafs."
+  },
+  {
+    "knowledge": " Nixon received an Emmy Award and a Screen Actors Guild Award for her performance. She is known for her portrayal of Miranda Hobbes in the HBO series, \"Sex and the City\" (1998\u20132004), for which she won the 2004 Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series.",
+    "question": "In what show did Cynthia Nixon receive the 2004 Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series and a Screen Actors Guild Award for her performance?",
+    "right_answer": "Sex and the City",
+    "hallucinated_answer": "Cynthia Nixon received her awards for her performance in \"Modern Family.\""
+  },
+  {
+    "knowledge": "Train to Busan () is a 2016 South Korean zombie apocalypse action thriller film directed by Yeon Sang-ho and starring Gong Yoo, Jung Yu-mi, and Ma Dong-seok.Gong Ji-chul (; born July 10, 1979), better known by his stage name Gong Yoo (), is a South Korean actor.",
+    "question": "What is the stage name for actor who co-stared the 2016 film \"Train to Busan\" with Jung Yu-mi and Ma Dong-seok?",
+    "right_answer": "Gong Yoo",
+    "hallucinated_answer": "The actor's stage name in the 2016 film \"Train to Busan\" with Jung Yu-mi and Ma Dong-seok is Gong Yu."
+  },
+  {
+    "knowledge": " The act is often referred to as \"the Lautenberg Amendment\" after its sponsor, Senator Frank Lautenberg (D - NJ).Frank Raleigh Lautenberg ( ; January 23, 1924 June 3, 2013) was a United States Senator from New Jersey and a member of the Democratic Party.",
+    "question": "The Domestic Violence Offender Gun Ban, is an amendment to the Omnibus Consolidated Appropriations Act of 1997, the act is often referred to as \"the Lautenberg Amendment\" after its sponsor, Senator Frank Lautenberg, was a United States Senator, and member of the Democratic Party, from which state?",
+    "right_answer": "New Jersey",
+    "hallucinated_answer": "Frank Lautenberg was from New York."
+  },
+  {
+    "knowledge": " He played a leading role in the development of several rocket propelled weapons during World War II, notably the first shoulder-fired missile system, the Bazooka. Also referred to as the \"Stovepipe\", the innovative bazooka was among the first generation of rocket-propelled anti-tank weapons used in infantry combat.",
+    "question": "Which rocket propelled weapon, sometimes referred to as the \"Stovepipe,\" did Colonel Leslie Alfred Skinner help develop?",
+    "right_answer": "Bazooka",
+    "hallucinated_answer": "Colonel Skinner developed a stove."
+  },
+  {
+    "knowledge": "Lars Kristinus Larsen, (born 6 August 1948), is a Danish businessman, owner and founder of the Jysk retail chain.Jysk (corporately styled JYSK) (] , franchises in other countries operate under various names) is a Danish retail chain, selling household goods such as mattresses, furniture and interior d\u00e9cor. Jysk is the largest Danish retailer operating internationally, with 2,300 Jysk stores in 41 countries.",
+    "question": "Lars Kristinus Larsen is the founder of the largest Danish retailer operating internationally with stores in how many countries?",
+    "right_answer": "41",
+    "hallucinated_answer": "Lars Kristinus Larsen founded Jysk, a retail chain that operates in over 50 countries."
+  },
+  {
+    "knowledge": "Fridge is a 2006 television and print advertising campaign launched by Diageo to promote canned Guinness-brand stout in the United Kingdom.Diageo plc ( or ) is a British multinational alcoholic beverages company, with its headquarters in London, England.",
+    "question": "Where is the headquarters of the company who launched the Fridge advertising campaign?",
+    "right_answer": "London, England",
+    "hallucinated_answer": "The headquarters of Diageo is in Manchester, England."
+  },
+  {
+    "knowledge": "Louis Joseph de France (Louis Joseph Xavier Fran\u00e7ois; 22 October 1781 \u2013 4 June 1789) was the second child and elder son of King Louis XVI of France and Marie Antoinette.Marie Antoinette ( ; ] ; born Maria Antonia Josepha Johanna; 2 November 1755 \u2013 16 October 1793) was the last Queen of France before the French Revolution.",
+    "question": "In what year was Louis Joseph de Frances's mother born?",
+    "right_answer": "1755",
+    "hallucinated_answer": "Marie Antoinette was born in 1755."
+  },
+  {
+    "knowledge": "Brujo is an album by the American country rock band New Riders of the Purple Sage. The group emerged from the psychedelic rock scene in San Francisco, California, in 1969, and its original lineup included several members of the Grateful Dead.",
+    "question": "The band who had the album \"Brujo\" came from what city?",
+    "right_answer": "San Francisco, California",
+    "hallucinated_answer": "The band of \"Brujo\" came from Los Angeles."
+  },
+  {
+    "knowledge": " Groff was an executive producer for a show on the Travel Channel called \"Vegas Stripped\", a behind-the-scenes look at the operations of the South Point Hotel, Casino & Spa in Las Vegas, Nevada.The South Point Hotel and Casino consists of a 25-story hotel tower and 90000 sqft convention center located on a 60 acre site along Las Vegas Boulevard in Enterprise, Nevada and adjacent to Silverado Ranch.",
+    "question": "Which television channel had a show set at a location adjacent to Silverado Ranch?",
+    "right_answer": "Travel Channel",
+    "hallucinated_answer": "The show \"Vegas Stripped\" was aired on Oxygen Channel."
+  },
+  {
+    "knowledge": " Although he is a minor character, Flass plays a pivotal role in the Dark Knight's modern origin and, as such, was adapted into the film \"Batman Begins\" and the television series \"Gotham\".Batman Begins is a 2005 superhero film based on the DC Comics character Batman, co-written and directed by Christopher Nolan and starring Christian Bale, Michael Caine, Liam Neeson, Katie Holmes, Gary Oldman, Cillian Murphy, Tom Wilkinson, Rutger Hauer, Ken Watanabe and Morgan Freeman.",
+    "question": "What television adaptation contains a character who was also adapted into a 2005 superhero film?",
+    "right_answer": "Gotham",
+    "hallucinated_answer": "Batman Begins has a spin-off TV series called Gotham."
+  },
+  {
+    "knowledge": " Some contestants for the inaugural tournament were selected through contestant searches held in Daytona Beach, Florida, and Palm Springs, California, during the Spring break season in 1989. Spring break is also a phenomenon dominated by extensive gatherings and riotous partying in warm climate locations such as Daytona Beach, Florida and Cancun, Mexico, attended regardless of participants' educational standings.",
+    "question": "What site, popular among spring breakers, were also places were Jeopardy! Collect Championship contestant searches was held?",
+    "right_answer": "Daytona Beach, Florida",
+    "hallucinated_answer": "Cancun, Mexico was a site for Jeopardy! Collect Championship contestant searches."
+  },
+  {
+    "knowledge": "The 2011 Copa del Rey Final was the 109th final since its establishment.El Cl\u00e1sico (] ; Catalan: \"El Cl\u00e0ssic\" , ] ; \"The Classic\" ) is the name given in football to any match between fierce rivals Real Madrid and FC Barcelona.",
+    "question": "The 2011 Copa del Rey was a specific type of rivalry, given this name to any match between which groups?",
+    "right_answer": "Real Madrid and FC Barcelona",
+    "hallucinated_answer": "The 2011 Copa del Rey was a specific type of rivalry between Southern Hemisphere and Northern Hemisphere teams."
+  },
+  {
+    "knowledge": " The album was their commercial breakthrough in Europe and the United States, due to the lead single \"You Spin Me Round (Like a Record)\", which was a UK number-one hit and a top 20 hit in the United States.\"You Spin Me Round (Like a Record)\" is a song by British band Dead or Alive on their 1985 album \"Youthquake\".",
+    "question": "Youthquake is the second album by the British pop group Dead or Alive, released in May 1985, the album was their commercial breakthrough in Europe and the United States, due to which lead single, which was the song was the first UK number-one hit by the Stock Aitken Waterman production trio?",
+    "right_answer": "You Spin Me Round (Like a Record)",
+    "hallucinated_answer": "\"You Spin Me Round (Like a Record)\" was actually not the first UK number-one hit by the Stock Aitken Waterman production trio. Their first UK number-one hit was \"Respectable\" by Mel and Kim."
+  }
+]

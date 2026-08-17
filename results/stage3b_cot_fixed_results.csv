@@ -1,0 +1,1038 @@
+id,question,gold_answer,model_answer,elapsed_sec
+0,Bebe Rexha was a singer who guested on the David Guetta song that was produced by which Dutch DJ?,Afrojack,"The question is asking for the Dutch DJ who produced the David Guetta song that Bebe Rexha guested on.
+
+The relevant parts of the context are the information about The Voice of Holland, Ali B, and the Dutch DJ John de Mol.
+
+The answer is based on the context, but it is not explicitly stated that Bebe Rexha guested on a David Guetta song produced by a Dutch DJ. However, considering the context, it is possible that Bebe Rexha guested on a song produced by John de Mol, who is a Dutch DJ and the creator of The Voice of Holland.
+
+FINAL_ANSWER: John de Mol",42.6
+1,"Yukio Mishima and Roberto Bolaño, are Chilean?",no,"1. The question is asking if Yukio Mishima and Roberto Bolaño are Chilean.
+2. The relevant parts of the context are the biographical information about Mishima and Bolaño.
+3. Based on the context, neither Yukio Mishima nor Roberto Bolaño is described as being Chilean. Mishima was Japanese and Bolaño was Chilean, but the question is asking about both of them.
+
+FINAL_ANSWER: Neither Yukio Mishima nor Roberto Bolaño are Chilean.",26.6
+2,What Lindsey Stirling song's video received 1.3 million views on YouTube after one day?,Shatter Me,"The question is asking for the name of the Lindsey Stirling song whose music video received 1.3 million views on YouTube after one day.
+
+The relevant parts of the context are the information about Lindsey Stirling's song ""Shatter Me"" and its release on April 23, as well as the details about its YouTube views.
+
+The answer is based on the context, which states that the second single, ""Shatter Me"", was released on April 23 and accumulated 1.3 million views after one day on YouTube.
+
+FINAL_ANSWER: ""Shatter Me""",27.7
+3,The 1st Battle of Kharkov was named so by a German field army born in which year ?,1882,"The question is asking for the birth year of the German field marshal who named the 1st Battle of Kharkov.
+
+The relevant parts of the context are the information about Wilhelm Keitel, the German field marshal who served as Chief of the Armed Forces High Command, and the 1st Battle of Kharkov.
+
+The answer is based on the context, which states that Wilhelm Keitel was born in 1882.
+
+FINAL_ANSWER: 1882",26.7
+4,"Power Balladz, is a live comedy performance featuring a mixture of comedy, trivia, and iconic rock n' roll songs from the 70s, 80s & 90s, the comedy's musical blend includes songs by Heart, a rock band that first found success in Canada and later in the United States and worldwide, are of which nationality ?",American,"The question is asking about the nationality of the rock band Heart.
+
+The relevant parts of the context are the description of the comedy performance Power Balladz and the information about Heart.
+
+The answer is based on the context, which states that Heart is an American rock band that first found success in Canada and later in the United States and worldwide.
+
+FINAL_ANSWER: American",18.5
+5,"Kazuhito Kosaka, is a Japanese comedian, better known by his stage names Daimaou Kosaka, and which name, used by his fictional singer-songwriter identity, and is best known for his single ""PPAP (Pen-Pineapple-Apple-Pen)""?",Pikotaro,"The question is asking which stage name Kazuhito Kosaka is best known for, specifically in relation to his fictional singer-songwriter identity.
+
+The relevant parts of the context are the descriptions of Kazuhito Kosaka's stage names, Daimaou Kosaka and Pikotaro, and the fact that Pikotaro is a fictional singer-songwriter created by Kazuhito Kosaka.
+
+The answer is based on the context, which states that Pikotaro is a fictional singer-songwriter created and portrayed by Kazuhito Kosaka, and that Kazuhito Kosaka is better known by his stage name Daimaou Kosaka.
+
+FINAL_ANSWER: Daimaou Kosaka.",33.3
+6,What was the population of the terminus of the Willunga railway line in 2011,"2,416","The question is asking for the population of the terminus of the Willunga railway line in 2011.
+
+The relevant parts of the context are the information about the Willunga railway line and the population of Willunga in 2011.
+
+The answer is based on the fact that the Willunga railway line ran from Adelaide railway station to Willunga, and the population of Willunga in 2011 was 2,416.
+
+FINAL_ANSWER: The population of the terminus of the Willunga railway line in 2011 was 2,416.",26.8
+7,"Stranger Things is an American science fiction-horror web television series created, written, directed and co-executive produced by the Duffer Brothers, the first season stars include Gaten Matarazzo, an American actor, who began his career on the Broadway stage as who, in ""Priscilla, Queen of the Desert""?",Benjamin,"The question is asking for the role that Gaten Matarazzo began his career on the Broadway stage as, in the musical ""Priscilla, Queen of the Desert"".
+
+The relevant parts of the context are the information about Gaten Matarazzo's career and the musical ""Priscilla, Queen of the Desert"".
+
+The answer is based on the context, which states that Gaten Matarazzo began his career on the Broadway stage as Benjamin in ""Priscilla, Queen of the Desert"".
+
+FINAL_ANSWER: Gaten Matarazzo began his career on the Broadway stage as Benjamin in ""Priscilla, Queen of the Desert"".",29.4
+8,"Who wrote the lyrics of Portofino with a collaborator on ""Fiddler on the Roof""",Richard Ney,"The question is asking for the lyricist who collaborated with Jerry Bock on ""Fiddler on the Roof"".
+
+The relevant parts of the context are Sheldon Harnick's biography and his collaboration with Jerry Bock on ""Fiddler on the Roof"".
+
+The answer is Sheldon Harnick, as he is mentioned as an American lyricist best known for his collaborations with composer Jerry Bock on musicals such as ""Fiddler on the Roof"".
+
+FINAL_ANSWER: Sheldon Harnick",26.0
+9,What Hockey team does Evander Kane play for?,Buffalo Sabres,"1. The question is asking for the hockey team that Evander Kane plays for.
+2. The relevant parts of the context are the two mentions of Evander Kane, one stating he is a Canadian professional ice hockey left winger currently playing for the Buffalo Sabres, and the other stating he is a Canadian professional ice hockey left winger.
+3. The answer is based on the context, which states that Evander Kane currently plays for the Buffalo Sabres.
+
+FINAL_ANSWER: The Buffalo Sabres.",23.2
+10,Which  castle in the border region of Scotland did Hermitage Water passes through ,Hermitage Castle,"The question is asking for the name of the castle in the border region of Scotland that Hermitage Water passes through.
+
+The relevant parts of the context are the descriptions of Hermitage Castle and the location of Hermitage Water.
+
+Based on the context, Hermitage Water passes through Hermitage Castle, which is located in the border region of Scotland.
+
+FINAL_ANSWER: Hermitage Castle.",20.7
+11,"Which movie was co-written by the person who directed ""Blood""?",The Awakening,"The question is asking for the movie that was co-written by the person who directed ""Blood"".
+
+The relevant parts of the context are the information about Nick Murphy, the director of ""The Awakening"", and the fact that he co-wrote the film.
+
+The answer is based on the context, which states that Nick Murphy co-wrote the film ""The Awakening"" (2011), which was also directed by him. Therefore, the movie that was co-written by the person who directed ""Blood"" is actually ""The Awakening"".
+
+FINAL_ANSWER: The Awakening (2011)",27.3
+12,"Which genus has more species, Fir or Chelone?",Firs,"The question is asking which genus has more species, Fir or Chelone.
+
+The relevant parts of the context are the descriptions of the two genera: Fir (Abies) and Chelone. 
+
+Fir has 48–56 species, while Chelone has 4 species. 
+
+Therefore, Fir has more species than Chelone.
+
+FINAL_ANSWER: Fir has more species than Chelone.",19.2
+13,Which genus is more spread around the world Maytenus or Eucommia ?,Maytenus,"The question is asking which genus, Maytenus or Eucommia, has a wider distribution around the world.
+
+The relevant parts of the context are the descriptions of Maytenus and Eucommia. 
+
+Maytenus is characterized by its wider distribution, including Central and South America, Southeast Asia, Micronesia, Australasia, the Indian Ocean, and Africa. 
+
+Eucommia, on the other hand, has a fossil record showing a much wider distribution, but its current native range is limited to China.
+
+FINAL_ANSWER: Maytenus has a wider distribution around the world.",24.5
+14,When was the American rapper which was one those whose House Shoes produced their albums born? ,"March 16, 1981","The question is asking for the birthdate of the American rapper whose albums were produced by House Shoes.
+
+The relevant parts of the context are the information about Tupac Amaru Shakur's life, including his birthdate (June 16, 1971).
+
+The answer is based on the context, which states that Tupac Amaru Shakur was born on June 16, 1971.
+
+FINAL_ANSWER: Tupac Amaru Shakur was born on June 16, 1971.",21.7
+15,"Mel Duncan holds a degree from what private, coeducational liberal arts college located in Saint Paul, Minnesota, US?",Macalester College,"1. The question is asking for the name of the private, coeducational liberal arts college where Melvin Earl Duncan holds a degree.
+2. The relevant parts of the context are the descriptions of Macalester College and Melvin Earl Duncan's educational background.
+3. Based on the context, Macalester College is the private, coeducational liberal arts college where Melvin Earl Duncan holds a degree.
+
+FINAL_ANSWER: Macalester College",20.5
+16,"In which town was the 1987 American drama film Ironweed, shot on location that featured a 400 acre pastoral cemetery?","Colonie, New York","The question is asking for the town where the 1987 American drama film Ironweed was shot on location, specifically mentioning a 400-acre pastoral cemetery.
+
+The relevant parts of the context are the information about Ironweed being shot on location in Albany, New York, and the description of the Albany Rural Cemetery as a 400-acre pastoral cemetery.
+
+The answer is based on the context, which states that major portions of the film were shot on location in Albany, New York, including the Albany Rural Cemetery.
+
+FINAL_ANSWER: Albany, New York.",23.7
+17, Are Phil Mogg and Dave Peters musicians?,yes,"The question is asking if Phil Mogg and Dave Peters are musicians.
+
+The relevant parts of the context are the descriptions of Phil Mogg as the lead singer of the English rock band UFO and Dave Peters as the vocalist for the band Throwdown.
+
+Based on this context, the answer is that yes, both Phil Mogg and Dave Peters are musicians.
+
+FINAL_ANSWER: Phil Mogg and Dave Peters are musicians.",18.0
+18,"The Sia song ""Never Give Up"" is from the soundtrack of a film that is based on what non-fiction book?","""A Long Way Home""","The question is asking for the non-fiction book that the film ""Lion"" is based on.
+
+The relevant parts of the context are the description of the film ""Lion"" and the information about the book ""A Long Way Home"" by Saroo Brierley.
+
+The answer is based on the context, which states that the film ""Lion"" is based on the non-fiction book ""A Long Way Home"" by Saroo Brierley.
+
+FINAL_ANSWER: The non-fiction book ""A Long Way Home"" by Saroo Brierley.",21.7
+19,"What was a branch of the Khalwatiyya order of Islamic mysticism founded by Sayyid Hasan Husameddin, with relations to the cousin and son-in-law of Muhammad?",Tasawwuf,"The question is asking for the name of a branch of the Khalwatiyya order of Islamic mysticism founded by Sayyid Hasan Husameddin, with a connection to the cousin and son-in-law of Muhammad.
+
+The relevant parts of the context are Ushshaki, which is mentioned as a branch of the Khalwatiyya order, and Ali, who is described as the cousin and son-in-law of Muhammad.
+
+Based on this information, the answer is that Ushshaki is a branch of the Khalwatiyya order of Islamic mysticism founded by Sayyid Hasan Husameddin, with relations to the cousin and son-in-law of Muhammad.
+
+FINAL_ANSWER: Ushshaki is a branch of the Khalwatiyya order of Islamic mysticism founded by Sayyid Hasan Husameddin.",32.1
+20,"Toby Williams is a British actor, writer and award-winning stand-up comedian, he has appeared in which British comedy television series, shown on the Sky Living channel?",Trying Again,"1. The question is asking which British comedy television series Toby Sawyer appeared in, not Toby Williams.
+2. The relevant parts of the context are the information about Toby Sawyer, the series ""Ted Fenwick"", and the co-producers of the series.
+3. The answer is that Toby Sawyer appeared in the series ""Ted Fenwick"", which was co-produced by the BBC and HBO.
+
+FINAL_ANSWER: Toby Sawyer appeared in the series ""Ted Fenwick"".",21.4
+21,"who had more fame as a solo artist, Jacoby Shaddix or John Waite",John Charles Waite,"The question is asking who had more fame as a solo artist between Jacoby Shaddix and John Waite.
+
+The relevant parts of the context are the descriptions of John Waite's solo career, specifically his 1984 hit ""Missing You"", and Jacoby Shaddix's lack of notable solo work.
+
+Based on the context, John Waite had more fame as a solo artist, as his 1984 hit ""Missing You"" was a No. 1 hit on the US ""Billboard"" Hot 100 and a top ten hit on the UK Singles Chart.
+
+FINAL_ANSWER: John Waite had more fame as a solo artist.",27.8
+22,What is another name for the blood disorder Emmanuel Ntima Weyi founded a non-profit in support of?,Sickle-cell disease,"The question is asking for another name for the blood disorder that Emmanuel Ntima Weyi founded a non-profit in support of.
+
+The relevant parts of the context are the Colorado Sickle Cell Foundation, which is a non-profit organization founded by Emmanuel Ntima Weyi, and the description of sickle-cell disease (SCD) as a group of blood disorders typically inherited from a person's parents.
+
+Based on this context, the answer is that Emmanuel Ntima Weyi founded a non-profit in support of sickle-cell disease.
+
+FINAL_ANSWER: Sickle-cell disease (SCD) is also known as sickle-cell anaemia (SCA).",25.4
+23,The special operations force of the Irish Defence Forces had access to what according tothe modern weapons of the Irish Arm? ,a wide variety of specialist weapons,"The question is asking about the modern weapons available to the special operations force of the Irish Defence Forces.
+
+The relevant parts of the context are the description of the Army Ranger Wing and the mention of the Royal Irish Regiment.
+
+The answer is that the special operations force of the Irish Defence Forces, the Army Ranger Wing, has access to a wide variety of specialist weapons.
+
+FINAL_ANSWER: The Army Ranger Wing has access to a wide variety of specialist weapons.",18.4
+24,Where is the Peppers Manor House and the New South Wales State Heritage Register located?,Australia,"The question is asking for the location of the Peppers Manor House and the New South Wales State Heritage Register.
+
+The relevant parts of the context are the descriptions of the Peppers Manor House and the New South Wales State Heritage Register.
+
+The answer is based on the fact that the Peppers Manor House is located in Sutton Forest, New South Wales, Australia, and the New South Wales State Heritage Register is a list of places in the state of New South Wales, Australia.
+
+FINAL_ANSWER: The Peppers Manor House and the New South Wales State Heritage Register are located in New South Wales, Australia.",22.4
+25,What NFL team does the 2010 Washington Huskies head coach work for?,Atlanta Falcons,"The question is asking for the NFL team that the 2010 Washington Huskies head coach works for.
+
+The relevant parts of the context are the information about Steve Sarkisian, the 2010 Washington Huskies football team, and the current position of Steve Sarkisian.
+
+The answer is that the 2010 Washington Huskies head coach, Steve Sarkisian, works for the Atlanta Falcons of the National Football League (NFL).
+
+FINAL_ANSWER: The Atlanta Falcons.",20.6
+26,What country of origin does Patrick Brice and Creep have in common?,American,"The question is asking for the country of origin that Patrick Brice and Creep have in common.
+
+The relevant parts of the context are the information about Kevin McCormack, who is an Irish dancer, and the Kerry Blue Terrier, which is a breed of dog originating from Ireland.
+
+The answer is that Ireland is the country of origin that Patrick Brice and Creep have in common, as Kevin McCormack is an Irish dancer and the Kerry Blue Terrier is a breed of dog originating from Ireland.
+
+FINAL_ANSWER: Ireland",24.6
+27,Where is the base of one of the three main British intelligence agencies?,Cheltenham,"The question is asking for the location of the base of one of the three main British intelligence agencies.
+
+The relevant parts of the context are the descriptions of the Government Communications Headquarters (GCHQ) and the Research and Analysis Wing (R&AW).
+
+The answer is based on the context, which states that GCHQ is based in ""The Doughnut"" in the suburbs of Cheltenham.
+
+FINAL_ANSWER: The base of the Government Communications Headquarters (GCHQ) is located in Cheltenham.",26.7
+28,Where did the fairy Queen Mab orginate?  ,William Shakespeare,"The question is asking about the origin of the fairy Queen Mab.
+
+The relevant parts of the context are the description of Queen Mab as a fairy in Irish and English legend, and her reference in William Shakespeare's play ""Romeo and Juliet"".
+
+Based on this context, it can be inferred that Queen Mab is a figure from Irish and English folklore, but the context does not provide specific information about her origin or where she originated from. It only mentions her association with the fairy queen in Irish and English legend.
+
+FINAL_ANSWER: The origin of Queen Mab is not specified in the provided context.",26.4
+29,What type of soprano was Emma Matthews famous for?,lyric soprano is a type of operatic soprano voice,"1. The question is asking about the type of soprano Emma Matthews is famous for.
+2. The relevant parts of the context are the descriptions of Emma Matthews and the definition of a lyric soprano.
+3. Based on the context, Emma Matthews is famous for being a lyric coloratura soprano.
+
+FINAL_ANSWER: Emma Matthews is famous for being a lyric coloratura soprano.",18.7
+30,"The 2011 Major League Soccer All-Star Game, held on July 27, 2011, was the 16th annual Major League Soccer All-Star Game, Manchester United won the game 4–0 with goals from players, including Daniel Nii Tackie Mensah Welbeck, an English professional footballer who plays for which organization, club Arsenal and the England national team?",Premier League,"The question is asking which organization, club, that Daniel Nii Tackie Mensah Welbeck plays for.
+
+The relevant parts of the context are the information about Daniel Nii Tackie Mensah Welbeck, specifically that he plays for Premier League club Arsenal and the England national team.
+
+The answer is based on the context, which states that Daniel Nii Tackie Mensah Welbeck plays for Premier League club Arsenal.
+
+FINAL_ANSWER: Premier League club Arsenal.",22.8
+31,Near what river is the library that contains the Aberdeen Bestiary located?,the River Thames,"The question is asking for the location of the Aberdeen Bestiary library in relation to a river.
+
+The relevant parts of the context are the description of the Palace of Westminster and the mention of the River Thames.
+
+The answer is that the Aberdeen Bestiary library is located near the River Thames.
+
+FINAL_ANSWER: The Aberdeen Bestiary library is located near the River Thames.",20.0
+32,What life member of The Actors Studio often portraying military or authority figure roles stared in a film that  was directed by Richard Wilson?,Robert F. Simon,"1. The question is asking for the actor's name who is a life member of The Actors Studio, often portrays military or authority figure roles, and starred in a film directed by Richard Wilson.
+
+2. The relevant parts of the context are:
+- Thomas Robert Laughlin, Jr. (August 10, 1931 – December 12, 2013) was an American actor and director, screenwriter, author, educator, and political activist.
+- The film stars RZA, Russell Crowe, Cung Le, Lucy Liu, Byron Mann, Rick Yune, Dave Bautista, and Jamie Chung.
+
+3. The answer is not based on the provided context, as there is no information about Richard Wilson directing a film starring a life member of The Actors Studio. However, the context does mention Thomas Laughlin, who was a life member of The Actors Studio, but it does not provide information about him starring in a film directed by Richard Wilson.
+
+FINAL_ANSWER: There is not enough information to answer this question.",40.6
+33,"Proud To Commit Commercial Suicide is a live album by industrial metal band Nailbomb and captures the band's only live appearance at the 1995 Dynamo Open Air Festival, the album cover is a picture of the aftermath of which infamous remote settlement established by the Peoples Temple, an American socialist organization under the leadership of Jim Jones, in northwestern Guyana?",Jonestown,"The question is asking for the remote settlement that the album cover of ""Proud To Commit Commercial Suicide"" is based on.
+
+The relevant parts of the context are the description of the album cover and the information about the Peoples Temple Agricultural Project, also known as Jonestown.
+
+The answer is based on the context, which states that the album cover is a picture of the aftermath of the infamous Jonestown suicides.
+
+FINAL_ANSWER: The album cover is a picture of the aftermath of the Jonestown suicides.",22.5
+34,Who directed the film in which Christoph Koncz starred as Kaspar Weiss ?,François Girard,"1. The question is asking for the director of the film ""The Red Violin"", which is the one in which Christoph Koncz starred as Kaspar Weiss.
+2. The relevant parts of the context are the information about the film ""The Red Violin"" and the director François Girard.
+3. Based on the context, François Girard directed the film ""The Red Violin"", which is the one in which Kaspar Weiss was played by Christoph Koncz.
+
+FINAL_ANSWER: François Girard directed the film ""The Red Violin"".",22.6
+35,"Decommissioning in Northern Ireland was a process in the Belfast Agreement as part of the Northern Ireland peace process, the Northern Ireland peace process is often considered to cover the events leading up to which year, Provisional Irish Republican Army (IRA) ceasefire, the end of most of the violence of the Troubles, the Good Friday (or Belfast) Agreement of 1998, and subsequent political developments?",1994,"The question is asking for the year that the events leading up to the Provisional Irish Republican Army (IRA) ceasefire are considered to cover.
+
+The relevant parts of the context are the events leading up to the 1994 Provisional Irish Republican Army (IRA) ceasefire and the Good Friday (or Belfast) Agreement of 1998.
+
+The answer is based on the context, which states that the Northern Ireland peace process is often considered to cover the events leading up to the 1994 Provisional Irish Republican Army (IRA) ceasefire.
+
+FINAL_ANSWER: 1994",26.0
+36,Are Monoral and Versus both rock bands?,yes,"The question is asking if both Monoral and Versus are rock bands.
+
+The relevant parts of the context are the descriptions of Monoral and Versus as alternative rock bands.
+
+Based on the context, Monoral and Versus are both described as alternative rock bands, which implies that they are both rock bands.
+
+FINAL_ANSWER: Monoral and Versus are both rock bands.",16.1
+37,Which prefecture is the city where the Japanese actor Akiji Kobayashi passed away the capital of?,Kanagawa Prefecture,"The question is asking for the prefecture where the city where the Japanese actor Akiji Kobayashi passed away is located.
+
+The relevant parts of the context are the biographical information about Akiji Kobayashi, specifically that he died of lung cancer in Yokohama.
+
+The answer is based on the fact that Yokohama is mentioned as the city where Akiji Kobayashi died, and it is also stated that it is the capital city of Kanagawa Prefecture.
+
+FINAL_ANSWER: Kanagawa Prefecture.",23.2
+38,In what year was the Korean student scholarship established by South Korean business magnate and the chairman of Samsung Group?,2002,"The question is asking for the year the Samsung Scholarship was established.
+
+The relevant parts of the context are the establishment of the Samsung Scholarship in 2002 and the information about Lee Kun-hee, the chairman of Samsung Group.
+
+The answer is based on the context, which states that the Samsung Scholarship was established in 2002.
+
+FINAL_ANSWER: 2002",17.6
+39,Cooper pairs were first described by an American physicist born in what year?,1930,"The question is asking for the birth year of the American physicist who first described Cooper pairs.
+
+The relevant parts of the context are the descriptions of Leon N. Cooper and the BCS theory of superconductivity.
+
+The answer is based on the context, which states that Leon N. Cooper is an American physicist and Nobel Prize laureate, and that he developed the BCS theory of superconductivity. Since the question specifically asks for the birth year of the American physicist who first described Cooper pairs, the answer is 1930.
+
+FINAL_ANSWER: Leon N. Cooper was born in 1930.",24.2
+40,Jang Yeong-sil is a historical drama television series starring a South Korean actor best known for his role in what 2006 hit drama series? ,Jumong,"The question is asking for the 2006 hit drama series that the actor starring in Jang Yeong-sil is best known for.
+
+The relevant parts of the context are the information about Song Il-gook, his role in the 2006 hit drama series ""Jumong"", and his birthdate.
+
+The answer is based on the context, which states that Song Il-gook is best known for his role in the 2006 hit drama series ""Jumong"".
+
+FINAL_ANSWER: Song Il-gook is best known for his role in the 2006 hit drama series ""Jumong"".",25.1
+41,Which actor in The 39 Steps also starred in the series The Strain?,Rupert Penry-Jones,"The question is asking which actor from The 39 Steps also starred in the series The Strain.
+
+The relevant parts of the context are the information about Jonathan Hyde, his roles, and the series The Strain.
+
+The answer is based on the context, which mentions Jonathan Hyde as the actor who played Eldritch Palmer in The Strain.
+
+FINAL_ANSWER: Jonathan Hyde.",22.1
+42,Were both the Hanover Hound and Toy Trawler Spaniel introduced to France?,no,"The question is asking if both the Hanover Hound and the Toy Trawler Spaniel were introduced to France.
+
+The relevant parts of the context are the descriptions of the Hanover Hound and the Toy Trawler Spaniel, but there is no mention of either breed being introduced to France.
+
+Based on the context, there is no information to suggest that either the Hanover Hound or the Toy Trawler Spaniel were introduced to France.
+
+FINAL_ANSWER: Neither the Hanover Hound nor the Toy Trawler Spaniel is mentioned as being introduced to France.",23.3
+43,"Which board game was created by Reiner Knizia, Junta or Medici?",Medici,"The question is asking which board game was created by Reiner Knizia, Junta, or Medici.
+
+The relevant parts of the context are Medici, Junta, and Reiner Knizia.
+
+The answer is based on the context, which states that Medici is a German-style board game by Reiner Knizia. Therefore, the correct answer is Medici.
+
+FINAL_ANSWER: Medici is a German-style board game by Reiner Knizia.",19.8
+44,Were George Melford and Giuseppe Tornatore both actors?,no,"The question is asking if both George Melford and Giuseppe Tornatore were actors.
+
+The relevant parts of the context are the descriptions of George H. Melford and Giuseppe Tornatore, which mention that George H. Melford was an ""American stage and film actor"" and Giuseppe Tornatore is a ""film director and screenwriter"".
+
+Based on this context, it can be concluded that Giuseppe Tornatore was a film director and screenwriter, but there is no indication that he was an actor. George H. Melford, on the other hand, was indeed an actor.
+
+FINAL_ANSWER: George H. Melford was an actor, but Giuseppe Tornatore was not.",29.1
+45,What Japanese mixed martial artist worked for the Dream organization in many of their promoted MMA shows?,Kazushi Sakuraba,"1. The question is asking for the name of a Japanese mixed martial artist who worked for the Dream organization in many of their promoted MMA shows.
+2. The relevant parts of the context are the descriptions of Kazushi Sakuraba and Gesias Cavalcante, as well as the list of fighters promoted by Dream.
+3. The answer is based on the fact that Kazushi Sakuraba is described as a Japanese mixed martial artist who was promoted by Dream and is currently signed to Rizin Fighting Federation.
+
+FINAL_ANSWER: Kazushi Sakuraba.",26.6
+46,"Which catherdral is located in London, Norwich Cathedral or St Paul's Cathedral?",St Paul's Cathedral,"The question is asking which cathedral is located in London.
+
+The relevant parts of the context are St Paul's Cathedral, London, and Norwich Cathedral.
+
+The answer is based on the context, which states that St Paul's Cathedral is the Anglican cathedral located in London, making it the correct answer.
+
+FINAL_ANSWER: St Paul's Cathedral is located in London.",18.5
+47,"Which musican is older, Tom Verlaine or David Vincent?",Tom Verlaine,"The question is asking which musician, Tom Verlaine or David Vincent, is older.
+
+The relevant parts of the context are Tom Verlaine's birthdate (December 13, 1949) and David Vincent's birthdate is not mentioned.
+
+Tom Verlaine is older than David Vincent.
+
+FINAL_ANSWER: Tom Verlaine is older than David Vincent.",17.4
+48,"Who owns a mall in Youngstown, Ohio with a BAM! store?",Cafaro Company,"The question is asking for the owner of a mall in Youngstown, Ohio that has a BAM! store.
+
+The relevant parts of the context are:
+
+* The mention of Cafaro Company of Youngstown, Ohio, which is the owner of Huntington Mall.
+* The mention of Codding Enterprises, which is also an owner of Huntington Mall, along with Simon Property Group.
+
+Based on this information, the answer is that Codding Enterprises and Simon Property Group own Huntington Mall, which has a BAM! store.
+
+FINAL_ANSWER: Codding Enterprises and Simon Property Group own Huntington Mall.",22.3
+49,When was the rapper on Lil B.I.G. Pac born?,"June 11, 1997","The question is asking for the birthdate of the rapper featured on Lil B.I.G. Pac.
+
+The relevant parts of the context are the biographies of Kodak Black and Tupac Amaru Shakur.
+
+The answer is based on the birthdate of Tupac Amaru Shakur, which is June 16, 1971.
+
+FINAL_ANSWER: Tupac Amaru Shakur was born on June 16, 1971.",20.0
+50,"What is the name of this 2010 American romantic comedy film directed by Garry Marshall, released February 9, 2010 via Big Machine Records?",Valentine's Day,"The question is asking for the name of the 2010 American romantic comedy film directed by Garry Marshall.
+
+The relevant parts of the context are the descriptions of the film ""Valentine's Day"" and its director, Garry Marshall.
+
+The answer is based on the context, which states that the 2010 American romantic comedy film directed by Garry Marshall, released on February 9, 2010, is called ""Valentine's Day"".
+
+FINAL_ANSWER: Valentine's Day",28.3
+51,When was the railroad opened which is north to the Bates Pond?,1947,"The question is asking for the year the railroad was opened that is north to the Bates Pond.
+
+The relevant parts of the context are Edaville Railroad and its location in relation to Bates Pond.
+
+The answer is based on the context that Edaville Railroad is located south of Bates Pond, and it was opened in 1947.
+
+FINAL_ANSWER: The Edaville Railroad was opened in 1947.",20.9
+52,"Who is Mary, Crown Princess of Denmark's mother-in-law?",Queen Margrethe II,"The question is asking for the identity of Mary, Crown Princess of Denmark's mother-in-law.
+
+The relevant parts of the context are the descriptions of Mary and Frederik, as well as the information about Queen Margrethe II and her family.
+
+Based on the context, Queen Margrethe II is Mary's mother-in-law, as she is the wife of Frederik, Mary's husband.
+
+FINAL_ANSWER: Queen Margrethe II",22.3
+53,In what party is the president whose cabinet Francisco Javier Mayorga Castañeda serves in?,National Action Party,"The question is asking for the name of the party that the president of the cabinet Francisco Javier Mayorga Castañeda serves in.
+
+The relevant parts of the context are the information about Francisco Javier Mayorga Castañeda's affiliation with the National Action Party (""Partido Acción Nacional"", PAN) and his role as Secretary of Agriculture in the cabinet of President Felipe Calderón.
+
+The answer is based on the fact that Francisco Javier Mayorga Castañeda is a member of the National Action Party (""Partido Acción Nacional"", PAN), which is one of the three major Mexican political parties.
+
+FINAL_ANSWER: The party that Francisco Javier Mayorga Castañeda serves in is the National Action Party (""Partido Acción Nacional"", PAN).",28.1
+54,What genre are both Giant Drag and Chagall Guevara?,rock,"The question is asking what genre both Giant Drag and Chagall Guevara are associated with.
+
+The relevant parts of the context are the descriptions of Chagall Guevara's album and the definition of trip-hop.
+
+The answer is based on the fact that Chagall Guevara's album spans several musical styles, including trip-hop, and that trip-hop is a genre that Giant Drag is not mentioned to be associated with. However, since the context does not provide information on Giant Drag's genre, we can only conclude that Chagall Guevara is associated with the trip-hop genre.
+
+FINAL_ANSWER: trip-hop",22.9
+55,What is the best-seller by Ruta Sepetys?,Between Shades of Gray,"The question is asking for the best-seller by Ruta Sepetys.
+
+The relevant parts of the context are the two mentions of Ruta Sepetys: one as the author of the novel ""Between Shades of Gray"" and the other as the author of the debut novel.
+
+The answer is based on the context, which states that ""Between Shades of Gray"" is a New York Times Bestseller and the debut novel of Ruta Sepetys.
+
+FINAL_ANSWER: ""Between Shades of Gray"" is a New York Times Bestseller and the debut novel of Ruta Sepetys.",23.0
+56,Scary Movie 5 was released under what independent film distribution label?,Dimension Films,"The question is asking for the independent film distribution label under which Scary Movie 5 was released.
+
+The relevant parts of the context are the information about the first film, American Scary, and the fact that the Scary Movie films are written and directed by American independent filmmakers.
+
+However, there is no mention of the distribution label for Scary Movie 5 in the provided context. The context only mentions the release of American Scary and the general information about the Scary Movie films, but does not provide specific details about the distribution of Scary Movie 5.
+
+FINAL_ANSWER: The context does not provide information on the distribution label for Scary Movie 5.",25.8
+57,"What is the population of the small town with an Air Force Base 7 mi northeast of Sacramento, California?",743,"The question is asking for the population of the small town with an Air Force Base 7 miles northeast of Sacramento, California.
+
+The relevant parts of the context are the descriptions of McClellan Air Force Base and McClellan Park.
+
+The answer is based on the fact that McClellan Park is a census-designated place in Sacramento County, California, with a population of 743, and McClellan Air Force Base is located in the North Highlands area of Sacramento County, 7 miles northeast of Sacramento, California.
+
+FINAL_ANSWER: The population of McClellan Park is 743.",26.2
+58,When did the coach of the Karachi Kings finish his time as coach of the Australia national cricket team ?,23 June 2013.,"The question is asking for the date when the coach of the Karachi Kings finished his time as coach of the Australia national cricket team.
+
+The relevant parts of the context are the information about Mickey Arthur, who coached the Australia national team, and the date of his sacking, which is 23 June 2013.
+
+The answer is based on the context, which states that Mickey Arthur was sacked as the coach of the Australia national team on 23 June 2013. Therefore, the coach of the Karachi Kings finished his time as coach of the Australia national team on 23 June 2013.
+
+FINAL_ANSWER: Mickey Arthur was sacked as the coach of the Australia national team on 23 June 2013.",30.0
+59,"What is the location of this recently retired domed stadium in the southeastern United States, which was developed by the same authority that developed the Georgia World Congress Center?","Atlanta, Georgia","1. The question is asking for the location of the recently retired domed stadium in the southeastern United States that was developed by the same authority that developed the Georgia World Congress Center.
+
+2. The relevant parts of the context are the descriptions of the Georgia Dome, the Georgia World Congress Center, and the Georgia Dome's replacement, Mercedes-Benz Stadium.
+
+3. Based on the context, the Georgia Dome is located in Atlanta, Georgia, between downtown to the east and Vine City to the west.
+
+FINAL_ANSWER: The Georgia Dome is located in Atlanta, Georgia.",36.1
+60,"Which director has won an Oscar, Ron Shelton or Ken Mora?","Ronald Wayne ""Ron"" Shelton","The question is asking which director has won an Oscar, specifically between Ron Shelton and Ken Mora.
+
+The relevant parts of the context are the biographies of Ron Shelton and Ken Mora, as well as the information about Quentin Tarantino and Frank Capra.
+
+The answer is based on the context, which states that Ken Mora worked on ""Reservoir Dogs"" and ""Pulp Fiction"", for which he and Quentin Tarantino were awarded the Oscar for Best Original Screenplay. There is no mention of Ron Shelton winning an Oscar. 
+
+FINAL_ANSWER: Ken Mora",29.2
+61,Were One Hundred and One Dalmatians and Fun and Fancy Free both animated films?,yes,"The question is asking whether both One Hundred and One Dalmatians and Fun and Fancy Free are animated films.
+
+The relevant parts of the context are the descriptions of One Hundred and One Dalmatians and Fun and Fancy Free.
+
+One Hundred and One Dalmatians is described as an ""animated adventure film"", which implies that it is an animated film. Fun and Fancy Free, on the other hand, is described as a ""live-action animated musical fantasy comedy package film"", which means it is a combination of live-action and animation.
+
+Based on this, the answer is that not both One Hundred and One Dalmatians and Fun and Fancy Free are animated films.
+
+FINAL_ANSWER: One Hundred and One Dalmatians is an animated film, but Fun and Fancy Free is not.",34.7
+62,"A large distribution center is for a company with over 13,000 stores and what other company?",PetSmart,"The question is asking for a company that has a large distribution center in addition to a company with over 13,000 stores.
+
+The relevant parts of the context are the information about the distribution center for Dollar General and PetSmart, and the number of stores operated by Dollar General.
+
+The answer is based on the fact that Dollar General operates over 13,000 stores, and a large distribution center is mentioned as being for Dollar General and PetSmart.
+
+FINAL_ANSWER: PetSmart.",20.6
+63,In what year did the water park that Surfrider is part of rank first in Australia?,2009,"The question is asking for the year when the water park that Surfrider is part of, Wet'n'Wild Gold Coast, ranked first in Australia.
+
+The relevant parts of the context are the information about Wet'n'Wild Gold Coast receiving 1,095,000 visitors in 2009 and ranking first in Australia.
+
+The answer is based on the context, which states that Wet'n'Wild Gold Coast received 1,095,000 visitors in 2009 and ranked first in Australia.
+
+FINAL_ANSWER: 2009",21.5
+64,"Ricardo Viñes, a Spanish pianist, premiered the works of Maurice Ravel, who is associated with what style?",impressionism,"The question is asking about the style associated with Maurice Ravel.
+
+The relevant parts of the context are the statements about Ricardo Viñes, a Spanish pianist, and Maurice Ravel, as well as the association between Ravel and impressionism.
+
+The answer is based on the context, which states that Ricardo Viñes, a Spanish pianist, premiered the works of Maurice Ravel, and that Ravel is often associated with impressionism, although both composers rejected the term. Therefore, the answer is that Maurice Ravel is associated with impressionism.
+
+FINAL_ANSWER: Maurice Ravel is associated with impressionism.",31.2
+65,Which 'My Name Is Earl' star is also know for his role in a advertising campaign for OfficeMax?,Eddie Steeples,"The question is asking for the actor from ""My Name Is Earl"" who also appeared in an advertising campaign for OfficeMax.
+
+The relevant parts of the context are the information about Eddie Steeples' roles, including his appearance in an advertising campaign for OfficeMax as the ""Rubberband Man"".
+
+The answer is based on the context, which states that Eddie Steeples is known for his role as the ""Rubberband Man"" in an advertising campaign for OfficeMax.
+
+FINAL_ANSWER: Eddie Steeples.",26.4
+66,What actor starred on the Defenders in the 1960s as well as in At Mother's Request,E. G. Marshall,"The question is asking for the actor who starred in ""The Defenders"" in the 1960s and also appeared in ""At Mother's Request"".
+
+The relevant parts of the context are the information about E. G. Marshall's role as Lawrence Preston on ""The Defenders"" in the 1960s and the fact that the film ""At Mother's Request"" stars E. G. Marshall and Stefanie Powers.
+
+The answer is based on the context, which does not mention Stefanie Powers being in ""At Mother's Request"", but rather the film stars Jason Robards, Jonathan Pryce, Diane Ladd, and Pam Grier. However, the context does mention E. G. Marshall's role in ""The Defenders"" in the 1960s, but it does not provide information about him being in ""At Mother's Request"". Therefore, the correct answer cannot be determined based on the provided context.
+
+FINAL_ANSWER: Unable to determine the answer based on the provided context.",41.0
+67,Are Macworld and College Humor both magazines?,no,"1. The question is asking whether Macworld and College Humor are both magazines.
+2. The relevant parts of the context are the descriptions of Macworld and College Humor.
+3. Based on the context, Macworld is described as a website, while College Humor is described as a magazine. Therefore, Macworld and College Humor are not both magazines.
+
+FINAL_ANSWER: Macworld and College Humor are not both magazines.",20.0
+68,"Francesco Rospigliosi Pallavicini was born in Rome, in what was then which territories in the Italian Peninsula under the sovereign direct rule of the pope, from the 8th century until 1870?",Papal States,"The question is asking for the territories in the Italian Peninsula under the sovereign direct rule of the pope from the 8th century until 1870 where Francesco Rospigliosi Pallavicini was born.
+
+The relevant parts of the context are the description of the Papal States, which were territories in the Italian Peninsula under the sovereign direct rule of the pope, from the 8th century until 1870.
+
+The answer is based on the context, which states that Francesco Rospigliosi Pallavicini was born in Rome, in what was then the Papal States.
+
+FINAL_ANSWER: Francesco Rospigliosi Pallavicini was born in Rome, in what was then the Papal States.",30.9
+69,What country are both Kopparvallen and Conny Torstensson from?,Sweden,"The question is asking for the country of origin of both Kopparvallen and Conny Torstensson.
+
+The relevant parts of the context are Kopparvallen, which is described as a stadium in Åtvidaberg, Sweden, and Conny Torstensson, who is a former footballer from Sweden.
+
+The answer is based on the fact that both Kopparvallen and Conny Torstensson are described as being from Sweden.
+
+FINAL_ANSWER: Sweden",23.0
+70,"Which film director directed the internet video serial ""God, Inc."", Roman Karmen or Francis Stokes?",Francis Stokes,"The question is asking who directed the internet video serial ""God, Inc."".
+
+The relevant parts of the context are the biographies of Francis Stokes and Francis Ford Coppola, as well as the mention of Francis Stokes as the writer and director of the feature film ""Harold Buttleman, Daredevil Stuntman"".
+
+The answer is based on the context, which states that Francis Stokes is the writer and director of the internet video serial ""God, Inc."". 
+
+FINAL_ANSWER: Francis Stokes directed the internet video serial ""God, Inc."".",28.7
+71,Lisa Brennan-Jobs is the daughter of which painter and writer?,Chrisann Brennan,"The question is asking for the parent of Lisa Brennan-Jobs, specifically the parent who is a painter and writer.
+
+The relevant parts of the context are Chrisann Brennan, who is described as a painter and writer, and her relationship with Steve Jobs, Apple co-founder.
+
+Based on the context, Lisa Brennan-Jobs is the daughter of Chrisann Brennan, the painter and writer.
+
+FINAL_ANSWER: Chrisann Brennan is the painter and writer who is Lisa Brennan-Jobs' mother.",25.9
+72,"Goose Rocks Light is a sparkplug lighthouse located near North Haven, Maine in which location, an inlet of the Gulf of Maine and Atlantic Ocean in south central Maine?",Penobscot Bay,"The question is asking for the location of Goose Rocks Light in relation to Penobscot Bay.
+
+The relevant parts of the context are the descriptions of Goose Rocks Light and Penobscot Bay.
+
+The answer is that Goose Rocks Light is a sparkplug lighthouse located near North Haven, Maine in Penobscot Bay.
+
+FINAL_ANSWER: Goose Rocks Light is a sparkplug lighthouse located near North Haven, Maine in Penobscot Bay.",23.4
+73,What communications officer was on the staff of a fleet admiral in the United States Navy?,"John ""Jack"" Roland Redman","The question is asking for the identity of a communications officer who was part of the staff of a fleet admiral in the United States Navy.
+
+The relevant parts of the context are the biographies of John ""Jack"" Roland Redman and Chester William Nimitz, as well as the mention of Redman's role in signals intelligence during World War II.
+
+Based on the context, John ""Jack"" Roland Redman was a communications officer who played key roles in signals intelligence during World War II in Washington, D.C., and on the staff of Admiral Chester W. Nimitz.
+
+FINAL_ANSWER: John ""Jack"" Roland Redman was a communications officer who was on the staff of Admiral Chester W. Nimitz.",39.6
+74,"Titan and Balderdash, are which specific type of entertainment?",board game,"The question is asking what type of entertainment Titan and Balderdash are.
+
+The relevant parts of the context are the descriptions of Titan as a steel hyper coaster and Balderdash as a board game of bluffing and trivia.
+
+Based on this context, Titan and Balderdash are both types of rides and board games, respectively.
+
+FINAL_ANSWER: Titan and Balderdash are rides and board games, respectively.",19.2
+75,In what state did Olivia Newton-John perform Summer Nights? ,Nevada,"The question is asking in what state Olivia Newton-John performed Summer Nights.
+
+The relevant parts of the context are the information about Olivia Newton-John's residency show ""Summer Nights"" and the location of the Flamingo Las Vegas, where the show takes place.
+
+The answer is based on the fact that the Flamingo Las Vegas is located in Nevada, and since the show takes place there, it can be inferred that Olivia Newton-John performed Summer Nights in Nevada.
+
+FINAL_ANSWER: Olivia Newton-John performed Summer Nights in Nevada.",25.0
+76,Who was an American lawyer with a family of Scots-Irish ancestry of the Methodist faith from the patrilineal lineage?,George Franklin Getty,"1. The question is asking for an American lawyer with a family of Scots-Irish ancestry of the Methodist faith from a patrilineal lineage.
+
+2. The relevant parts of the context are the information about Osceola, the Ulster Scots, and Stephen James Meridith Brown.
+
+3. However, none of the provided context directly mentions an American lawyer with a family of Scots-Irish ancestry of the Methodist faith. The context only provides information about Osceola, who was a Seminole leader, and Stephen James Meridith Brown, who was an Irish Catholic priest, but neither of them matches the description in the question.
+
+FINAL_ANSWER: There is no information in the provided context that matches the description of an American lawyer with a family of Scots-Irish ancestry of the Methodist faith.",35.2
+77,"What collegiate athletic conference headquartered in Birmingham, Alabama includes schools such as Texas Southern University?",Southwestern Athletic Conference,"The question is asking for the name of the collegiate athletic conference that includes Texas Southern University.
+
+The relevant parts of the context are the descriptions of the Southwestern Athletic Conference (SWAC) and Texas Southern University.
+
+The answer is based on the context, which states that the Southwestern Athletic Conference (SWAC) is a collegiate athletic conference headquartered in Birmingham, Alabama, and that Texas Southern University is a member of the West Division of the SWAC.
+
+FINAL_ANSWER: The Southwestern Athletic Conference (SWAC).",23.5
+78,Foxcatcher is a 2014 American true crime sports drama film about a wrestling team set up in what state?,Pennsylvania,"The question is asking for the location where the Foxcatcher wrestling team was set up.
+
+The relevant parts of the context are the plot of the film ""Foxcatcher"" and the description of John du Pont's estate in Pennsylvania.
+
+The answer is based on the fact that John du Pont set up the Foxcatcher wrestling team at his estate in Pennsylvania.
+
+FINAL_ANSWER: Pennsylvania.",21.3
+79,What is the nationality of the 2003 FIBA Under-19 World Championship MVP ?,Australian,"The question is asking for the nationality of the 2003 FIBA Under-19 World Championship MVP.
+
+The relevant parts of the context are the information about the 2003 FIBA Under-19 World Championship MVP, which is not provided, but we can infer that the context is not relevant to the question. However, we can see that the context provides information about the NBA All-Star Game MVP, which is not related to the FIBA Under-19 World Championship.
+
+Since the context does not provide any information about the 2003 FIBA Under-19 World Championship MVP, we cannot determine the nationality of the MVP based on the provided context.
+
+FINAL_ANSWER: The nationality of the 2003 FIBA Under-19 World Championship MVP cannot be determined based on the provided context.",34.1
+80,Did Bedtime Stories and Big Red both star Walter Pidgeon?,no,"The question is asking if both Bedtime Stories and Big Red starred Walter Pidgeon.
+
+The relevant parts of the context are the descriptions of Bedtime Stories and Big Red.
+
+The answer is no, Bedtime Stories starred Richard Griffiths, not Walter Pidgeon.
+
+FINAL_ANSWER: Bedtime Stories and Big Red did not both star Walter Pidgeon.",21.2
+81,Which political ideology was the premise of The National Action Party?,Nationalism,"1. The question is asking for the political ideology that was the premise of The National Action Party.
+2. The relevant parts of the context are the descriptions of Nationalism and Fascism, as well as the characteristics of the National Action Party.
+3. Based on the context, the National Action Party's nationalist ideology aligns with the characteristics of Nationalism, which promotes the interests of a particular nation and aims for self-governance.
+
+FINAL_ANSWER: Nationalism was the premise of The National Action Party.",24.1
+82,"Who manages the station that serves a small town and civil parish in the Borough of Pendle Lancashire, England with a population of 8,200 as of 2011?",Northern,"The question is asking for the management company of the railway station serving a specific town in Lancashire, England.
+
+The relevant parts of the context are the descriptions of Brierfield railway station and the town of Brierfield itself.
+
+The answer is based on the context, which states that Brierfield railway station is managed by Northern, who also provide all passenger trains serving it.
+
+FINAL_ANSWER: Northern manages the station that serves the small town of Brierfield, Lancashire, England.",28.4
+83,Cindy Williams is an award-winning news anchor for a tv station whose trasmitter is located on what mountain?,Winn Mountain,"The question is asking for the location of the transmitter of the TV station where Cindy Williams is a news anchor.
+
+The relevant parts of the context are the description of WCSH 6, which mentions that it broadcasts a high definition digital signal on UHF channel 44 (or virtual channel 6 via PSIP) from a transmitter on Winn Mountain in Sebago.
+
+The answer is based on the context, which states that WCSH 6 broadcasts from a transmitter on Winn Mountain in Sebago.
+
+FINAL_ANSWER: The transmitter is located on Winn Mountain in Sebago.",23.7
+84,Snow White is a Disney media franchise based on a German fairy tale by who?,Brothers Grimm,"The question is asking for the author of the German fairy tale that Snow White is based on.
+
+The relevant parts of the context are the first and third paragraphs, which mention the Brothers Grimm and the publication of the fairy tale in 1812.
+
+The answer is based on the context, which states that Snow White is based on a 19th-century German fairy tale published by the Brothers Grimm in 1812.
+
+FINAL_ANSWER: The Brothers Grimm.",26.5
+85," Harrah's Lake Tahoe is a hotel and casino owned and operated by the fourth-largest gaming company in the world, with annual revenues of what in 2013?",$8.6 billion,"The question is asking for the annual revenues of the fourth-largest gaming company in the world, which owns and operates Harrah's Lake Tahoe.
+
+The relevant parts of the context are the statement about Caesars Entertainment Corporation being the fourth-largest gaming company in the world, and its annual revenues in 2013.
+
+The answer is based on the context, which states that Caesars Entertainment Corporation has annual revenues of $8.6 billion in 2013.
+
+FINAL_ANSWER: $8.6 billion",26.9
+86,"""Alvin for President"" is a song by which American animated fictional musical group?",Alvin and the Chipmunks,"The question is asking for the American animated fictional musical group that the song ""Alvin for President"" belongs to.
+
+The relevant parts of the context are the descriptions of Alvin and the Chipmunks and the song ""Alvin for President"".
+
+The answer is based on the context, which states that Alvin and the Chipmunks is an American animated music group created by Ross Bagdasarian, Sr., for a novelty record in 1958. Therefore, the song ""Alvin for President"" is a song by this group.
+
+FINAL_ANSWER: Alvin and the Chipmunks.",22.7
+87,Neetho starred which actress born on 1 February 1979?,Mahek Chahal,"1. The question is asking which actress, born on 1 February 1979, starred in the 2002 Telugu romance film Neetho.
+2. The relevant parts of the context are the biographical information about Mahek Chahal, including her birthdate.
+3. Based on the context, Mahek Chahal is the actress born on 1 February 1979 who starred in Neetho.
+
+FINAL_ANSWER: Mahek Chahal.",20.0
+88,"What were the Royal Navy Battleships, that were considered the first fast battleships and were used in WWI and WWII?","Queen Elizabeth""-class battleships","The question is asking for the name of the Royal Navy battleship class that was considered the first fast battleships and was used in both WWI and WWII.
+
+The relevant parts of the context are the descriptions of the ""Queen Elizabeth""-class battleships and the ""Colorado""-class battleship, USS ""Maryland"" (BB-46).
+
+The answer is based on the context, but it seems there is a mistake in the question. The ""Queen Elizabeth""-class battleships were commissioned in 1915-16 and were used in WWI, while the ""Colorado""-class battleship, USS ""Maryland"" (BB-46), was commissioned in 1921 and was used in WWII. There is no mention of a ""fast battleship"" class used in both WWI and WWII.
+
+FINAL_ANSWER: There is no clear answer to the question based on the provided context.",34.6
+89,The Tama Maru No. 2 was damaged by what World War II American naval scout plane and dive bomber that was manufactured by Douglas Aircraft?,Douglas SBD Dauntless,"The question is asking for the specific type of World War II American naval scout plane and dive bomber that damaged the Tama Maru No. 2.
+
+The relevant parts of the context are the description of the damage to the Tama Maru No. 2 and the details about the Douglas SBD Dauntless.
+
+The answer is based on the context, which states that the Tama Maru No. 2 was damaged by Douglas SBD Dauntless dive bombers from the United States Navy aircraft carriers USS ""Lexington"" and USS ""Yorktown"" off Lae, New Guinea.
+
+FINAL_ANSWER: The Douglas SBD Dauntless.",27.9
+90,Are Connie May Fowler and Vladimir Mayakovsky both poets?,yes,"The question is asking if both Connie May Fowler and Vladimir Mayakovsky are poets.
+
+The relevant parts of the context are the biographies of Connie May Fowler and Vladimir Mayakovsky.
+
+The answer is based on the fact that Vladimir Mayakovsky is described as a ""Russian Soviet poet"" and Connie May Fowler is described as a ""poet"", indicating that both individuals have a background in poetry.
+
+FINAL_ANSWER: Yes, both Connie May Fowler and Vladimir Mayakovsky are poets.",22.1
+91,How many people died in the fire Brooklyn Theatre that was owned by Sarah Crocker Conway?,278 individuals,"The question is asking about the number of people who died in a fire at the Brooklyn Theatre, which was owned by Sarah Crocker Conway.
+
+The relevant parts of the context are the first two sentences, which mention Sarah leasing the Park Theatre in Brooklyn and the new Brooklyn Theatre, but do not mention a fire or any deaths at the theatre.
+
+The answer is not explicitly stated in the context, but it can be inferred that the question is actually asking about the fire that occurred at the Park Theatre, not the Brooklyn Theatre. The context mentions that Sarah leased the Park Theatre in 1864, and that a conflagration killed at least 278 individuals, with some accounts reporting more than 300 dead.
+
+FINAL_ANSWER: At least 278 people died in the fire at the Park Theatre.",31.8
+92,Jack Moore played collegiately at the college in what NCAA conference?,Big Ten,"The question is asking for the NCAA conference that Jack Moore played collegiately at.
+
+The relevant parts of the context are the information about Jack Moore's college football career and the conferences associated with the teams he played for.
+
+Based on the context, Jack Moore played collegiately with the University of Oklahoma Sooners, which plays in the Big 12 Conference.
+
+FINAL_ANSWER: The Big 12 Conference.",16.6
+93,"What was the nationality of Lana Turner's co-star in ""The Three Musketeers""?",American,"The question is asking for the nationality of Lana Turner's co-star in ""The Three Musketeers"".
+
+The relevant parts of the context are the information about Gene Kelly, Lana Turner, and the film ""The Three Musketeers"" (1948).
+
+The answer is based on the fact that Gene Kelly starred alongside Lana Turner in the 1948 film adaptation of ""The Three Musketeers"". Since Gene Kelly is American, it can be inferred that Lana Turner's co-star in the 1948 film is also American.
+
+FINAL_ANSWER: Gene Kelly's nationality is the answer being sought.",29.7
+94, Der Bärenhäuter was influenced by the German composer who created which opera?,"""Hansel and Gretel""","The question is asking about the influence of the opera ""Der Bärenhäuter"" on a specific German composer.
+
+The relevant parts of the context are Engelbert Humperdinck, who is mentioned as a German composer, and his opera ""Hansel and Gretel"", which is the only opera mentioned in the context.
+
+Based on the context, Engelbert Humperdinck is the German composer who created the opera ""Hansel and Gretel"", which suggests that ""Der Bärenhäuter"" was influenced by Humperdinck.
+
+FINAL_ANSWER: Engelbert Humperdinck was the German composer who created the opera that influenced ""Der Bärenhäuter"".",28.1
+95,The Crocoduck was imagined by what New Zealand-born American minister?,Ray Comfort,"The question is asking for the identity of the New Zealand-born American minister who imagined the crocoduck.
+
+The relevant parts of the context are the descriptions of Ray Comfort and Kirk Cameron, as well as the mention of Ray Comfort's birthdate and occupation.
+
+The answer is based on the context, which states that Ray Comfort is a New Zealand-born American Christian minister and evangelist who proposed the idea of the crocoduck.
+
+FINAL_ANSWER: Ray Comfort",20.5
+96,The racer who finished second in the 1964 French Grand Prix was this nationality?,British,"The question is asking for the nationality of the racer who finished second in the 1964 French Grand Prix.
+
+The relevant parts of the context are the description of the 1964 French Grand Prix and the information about Graham Hill, who finished second in the race.
+
+The answer is based on the fact that Graham Hill, who finished second, was a British racing driver.
+
+FINAL_ANSWER: British",25.7
+97,"Which astronaut is older, Philippe Perrin or André Kuipers?",André Kuipers,"The question is asking which astronaut is older between Philippe Perrin and André Kuipers.
+
+The relevant parts of the context are the birthdates of both astronauts: Philippe Perrin was born on January 6, 1963, and André Kuipers was born on October 5, 1958.
+
+Based on these birthdates, André Kuipers is older than Philippe Perrin.
+
+FINAL_ANSWER: André Kuipers is older than Philippe Perrin.",20.1
+98, Michael Edward Curry served as head coach for an American Professional basketball team that has won how many NBA championchips?,three,"The question is asking about the number of NBA championships won by the team Michael Edward Curry served as head coach for.
+
+The relevant parts of the context are the information about the Detroit Pistons, specifically that they have won three NBA championships in 1989, 1990, and 2004.
+
+The answer is based on the context, which states that Michael Edward Curry served as head coach of the Detroit Pistons, and that they have won three NBA championships.
+
+FINAL_ANSWER: The Detroit Pistons have won three NBA championships under Michael Edward Curry's head coaching tenure.",27.5
+99,"""The Closer I Get to You"" is a romantic ballad performed by African American jazz, soul, R&B, and folk singer-songwriter Roberta Flack and which  American jazz, blues, soul and gospel singer, songwriter, arranger and pianist, that signed with Atlantic Records in 1969?",Donny Hathaway,"The question is asking for the American jazz, blues, soul and gospel singer, songwriter, arranger and pianist who performed ""The Closer I Get to You"" with Roberta Flack and signed with Atlantic Records in 1969.
+
+The relevant parts of the context are the information about Donny Hathaway, his music, and his signing with Atlantic Records in 1969.
+
+The answer is based on the context, which states that Donny Hathaway signed with Atlantic Records in 1969, making him the correct answer.
+
+FINAL_ANSWER: Donny Hathaway",30.5
+100,The Gooden Grant House is located in what bay in Maine? ,Penobscot Bay,"1. The question is asking for the location of the Gooden Grant House in relation to a bay in Maine.
+2. The relevant parts of the context are the description of the Gooden Grant House and the location of the Bay of Fundy.
+3. The Gooden Grant House is located on an island in Penobscot Bay, which is a bay on the Atlantic coast of North America.
+
+FINAL_ANSWER: The Gooden Grant House is located in Penobscot Bay.",24.7
+101,What non-fiction books has the author who has written books about the loyalist paramilitary Michael Stone and Special Air Service founder who During the course of the Second World War he became one of the British Army's most highly decorated soldiers?,the Troubles,"The question is asking for the non-fiction books written by the author about the loyalist paramilitary Michael Stone and the Special Air Service founder.
+
+The relevant parts of the context are the sentences that describe the author's work, specifically mentioning books about Michael Stone and Paddy Mayne.
+
+The answer is not explicitly stated in the context, but it can be inferred that the author has written books about both Michael Stone and Paddy Mayne, as mentioned in the context. However, the context does not provide specific titles of the books.
+
+FINAL_ANSWER: The author has written books about Michael Stone and Paddy Mayne, but specific titles are not mentioned in the context.",28.6
+102,What country of origin does Squirrel Nut Zippers and Sponge have in common?,American,"The question is asking for the country of origin that Squirrel Nut Zippers and Sponge have in common.
+
+The relevant parts of the context are the descriptions of Squirrel Nut Zippers and Sponge.
+
+The answer is that both Squirrel Nut Zippers and Sponge are from the United States.
+
+FINAL_ANSWER: The United States",19.6
+103,Hollywood Casino is owned by the company based in what Pennsylvania town?,Wyomissing,"The question is asking for the location of the company that owns Hollywood Casino.
+
+The relevant parts of the context are the first sentence, which states that Hollywood Casino is a brand owned by Penn National Gaming, and the first sentence of the second paragraph, which mentions Penn National Gaming as the company based in Wyomissing, Pennsylvania.
+
+The answer is based on the fact that Penn National Gaming is the company that owns Hollywood Casino, and it is based in Wyomissing, Pennsylvania.
+
+FINAL_ANSWER: Wyomissing, Pennsylvania.",24.7
+104,"In which year was this American actor, director, writer, producer, dancer and musician born who directed the film ""One, Two, Many?""",1965,"The question is asking for the birth year of the American actor, director, writer, producer, dancer, and musician who directed the film ""One, Two, Many"".
+
+The relevant parts of the context are the information about Michael DeLorenzo, specifically his birthdate and profession.
+
+The answer is based on the context, which states that Michael DeLorenzo was born on October 31, 1965.
+
+FINAL_ANSWER: 1965",23.4
+105,The Clausius–Clapeyron relation was named after a German physicist and mathematician who is considered one of the central founders of what area of science?,the science of thermodynamics,"The question is asking for the area of science that Rudolf Julius Emanuel Clausius is considered one of the central founders of.
+
+The relevant parts of the context are the descriptions of Rudolf Clausius as a German physicist and mathematician, and his role as one of the central founders of the science of thermodynamics.
+
+The answer is based on the context, which states that Rudolf Clausius is considered one of the central founders of the science of thermodynamics.
+
+FINAL_ANSWER: Rudolf Clausius is considered one of the central founders of the science of thermodynamics.",25.2
+106,"When was Elvis Presley's ""G.I. Blues"" which was released for the motion picture ""G.I. Blues""'s soundtrack?",October 1960,"The question is asking for the release date of Elvis Presley's ""G.I. Blues"" soundtrack, which is related to the motion picture ""G.I. Blues"".
+
+The relevant parts of the context are the information about Elvis Presley's music, specifically his album ""Elvis Country"" and the release dates of his songs.
+
+However, there is no mention of ""G.I. Blues"" in the context. The context only mentions ""Elvis Country (I'm 10,000 Years Old)"", which is the eleventh studio album by Elvis Presley, released in January 1971. There is also a mention of ""G.I. Blues"" as the title of a motion picture, but no information about the soundtrack.
+
+Therefore, the answer cannot be determined based on the provided context.
+
+FINAL_ANSWER: The context does not provide information about the release date of Elvis Presley's ""G.I. Blues"" soundtrack.",36.4
+107,AeroLogic is a joint venture between Lufthansa and the division of what logistics company?,Deutsche Post DHL,"The question is asking for the logistics company that AeroLogic is a joint venture with.
+
+The relevant parts of the context are:
+- Deutsche Post DHL providing international courier, parcel and express mail services.
+- DHL Express is a division of Deutsche Post DHL.
+
+Based on this, the answer is that AeroLogic is a joint venture between Lufthansa and DHL Express, which is a division of Deutsche Post DHL.
+
+FINAL_ANSWER: Deutsche Post DHL.",23.5
+108,"What French formula racing driver that was 2014 Formula Renault 3.5 Series runner-up drove the Toro Rosso STR12 in 2017, a Formula One racing car designed and constructed by Scuderia Toro Rosso?",Pierre Gasly,"The question is asking for the French formula racing driver who was the 2014 Formula Renault 3.5 Series runner-up and drove the Toro Rosso STR12 in 2017.
+
+The relevant parts of the context are the information about Pierre Gasly, the 2014 Formula Renault 3.5 Series runner-up, and the Toro Rosso STR12 car.
+
+The answer is based on the context, which states that Pierre Gasly was the 2014 Formula Renault 3.5 Series runner-up and drove the Toro Rosso STR12 in 2017.
+
+FINAL_ANSWER: Pierre Gasly.",36.7
+109,"Amber Calling are an Australian pop punk and emo band from Adelaide, which formed in 2005 as 919, during their career they have supported shows by Panic! at the Disco, an American rock band from Las Vegas, Nevada, formed in what year?",2004,"The question is asking for the year Panic! at the Disco was formed.
+
+The relevant parts of the context are the information about the band Amber Calling (formerly 919) and the American rock band Panic! at the Disco.
+
+The answer is based on the context provided, which mentions that Amber Calling (919) supported shows by Panic! at the Disco, but does not explicitly state the year Panic! at the Disco was formed. However, based on general knowledge, Panic! at the Disco was formed in 2004.
+
+FINAL_ANSWER: Panic! at the Disco was formed in 2004.",29.3
+110,"The music program ""Yesterday"" was named after a song from what Beatles album?",Help!,"The question is asking which Beatles album the music program ""Yesterday"" was named after.
+
+The relevant parts of the context are the information about the Beatles' song ""Yesterday"" and the album ""Rock 'n' Roll Music"".
+
+The answer is based on the context that the song ""Yesterday"" is mentioned as part of the album ""Rock 'n' Roll Music"", which is a compilation album by the Beatles.
+
+FINAL_ANSWER: The music program ""Yesterday"" was named after the song from the Beatles' album ""Rock 'n' Roll Music"".",27.7
+111,The Trenton Prong is a section of the Piedmont province of what that was formed roughly 480 million years ago?,The Appalachian Mountains,"The question is asking for the geological formation that the Trenton Prong is a section of, which was formed roughly 480 million years ago.
+
+The relevant parts of the context are the descriptions of the Appalachian Mountains and the Piedmont province.
+
+The answer is based on the context that the Trenton Prong is a physiographic subprovince of the Piedmont Uplands section of the Piedmont province of the Appalachian Mountains, which was formed roughly 480 million years ago during the Ordovician Period.
+
+FINAL_ANSWER: The Appalachian Mountains.",24.2
+112,"Debuting in the 2004 American teen musical comedy film Confessions of a Teenage Drama Queen, Megan Fox went on to co-star in what 2007 blockbuster action film?",Transformers,"The question is asking for the title of the 2007 blockbuster action film that Megan Fox co-starred in.
+
+The relevant parts of the context are the information about Megan Fox's breakout role in the 2007 film ""Transformers"" and her debut in the 2004 film ""Confessions of a Teenage Drama Queen"".
+
+The answer is based on the context, which states that Megan Fox co-starred as Mikaela Banes in the 2007 blockbuster action film ""Transformers"".
+
+FINAL_ANSWER: Transformers",27.0
+113,Who writes poetry such as Glaring Through Oblivion as well as leading the heavy metal band System Of A Down?,Serj Tankian,"The question is asking for the person who writes poetry and also leads the heavy metal band System Of A Down.
+
+The relevant parts of the context are the descriptions of Serj Tankian, the Armenian-American lead singer of System of a Down, and his book of poetry ""Glaring Through Oblivion"".
+
+The answer is based on the context, which states that Serj Tankian is both the lead singer of System of a Down and the author of the poetry book ""Glaring Through Oblivion"".
+
+FINAL_ANSWER: Serj Tankian.",27.3
+114,Heartsounds was made into a 1984 film starring an actor who died in what year?,2014,"The question is asking for the year in which the actor who played the main character in the 1984 film ""Heartsounds"" died.
+
+The relevant parts of the context are the information about Lucille Bremer, who was an American film actress and dancer, and the fact that Tommy Cooper, an impressionist, died in 1984 after collapsing with a heart attack on live national television.
+
+The answer is based on the context, which states that Tommy Cooper, the voice of Tommy Cooper in the Lego 'Kipper' advertisement, collapsed with a heart attack on live national television in 1984 and died soon afterwards.
+
+FINAL_ANSWER: The actor who played the main character in the 1984 film ""Heartsounds"" died in 1984.",32.5
+115,Dean McCarthy played a boy becoming what in an adaptation of Billy Elliott? ,professional ballet dancer,"To answer the question, we need to identify the key elements mentioned in the context.
+
+1. The question is asking about the role Dean McCarthy played in an adaptation of Billy Elliott.
+2. The relevant parts of the context are the information about Billy Elliot the Musical and the film Billy Elliot.
+3. The answer is based on the fact that Dean McCarthy played the role of Billy in ""Billy Elliot the Musical"", which is an adaptation of the film Billy Elliot.
+
+FINAL_ANSWER: Dean McCarthy played the role of a boy becoming a professional ballet dancer.",24.6
+116,The 3852 Democratic National Convention nominated Franklin Pierce over what American military officer who represented Michigan in the United States Senate?,Lewis Cass,"The question is asking for the American military officer who represented Michigan in the United States Senate that was passed over by the 1852 Democratic National Convention in favor of Franklin Pierce.
+
+The relevant parts of the context are the descriptions of Lewis Cass and the 1852 Democratic National Convention.
+
+The answer is based on the context, which states that Lewis Cass represented Michigan in the United States Senate and was the previous nominee in 1848, and that he was passed over by the 1852 Democratic National Convention in favor of Franklin Pierce.
+
+FINAL_ANSWER: Lewis Cass was the American military officer who represented Michigan in the United States Senate that was passed over by the 1852 Democratic National Convention in favor of Franklin Pierce.",34.4
+117,What medium-sized bear native to North America can be seen in Harriman State Park?,American black bear,"The question is asking for the medium-sized bear native to North America that can be seen in Harriman State Park.
+
+The relevant parts of the context are the descriptions of the wildlife refuge in the Greater Yellowstone Ecosystem and the American black bear.
+
+The answer is that there is no mention of Harriman State Park in the context, but it does mention the American black bear as a medium-sized bear native to North America. However, the context does not provide information about the bear's presence in Harriman State Park specifically.
+
+FINAL_ANSWER: There is no information in the context about the bear's presence in Harriman State Park.",30.3
+118,What company produced both The Barefoot Executive and The Last Flight of Noah's Ark?,Walt Disney,"The question is asking for the company that produced both films.
+
+The relevant parts of the context are the descriptions of The Barefoot Executive and The Last Flight of Noah's Ark, which both mention Walt Disney Productions.
+
+The answer is based on the fact that both films are described as being produced by Walt Disney Productions.
+
+FINAL_ANSWER: Walt Disney Productions.",19.1
+119,What politician from New York served two terms representing New York in the United States Senate? ,Hillary Rodham Clinton,"The question is asking for the name of the politician from New York who served two terms representing New York in the United States Senate.
+
+The relevant parts of the context are the descriptions of Hillary Rodham Clinton's Senate terms, specifically the 2000 and 2006 elections.
+
+The answer is based on the context, which states that Hillary Rodham Clinton won two Senate terms, representing New York, with a margin of more than two-to-one in both elections.
+
+FINAL_ANSWER: Hillary Rodham Clinton.",25.5
+120,Trim is a transitway station in the east end of a city that as of 2016 had a population of what?,"934,243","The question is asking for the population of the city where Trim is located, as of 2016.
+
+The relevant parts of the context are the information about Trim, the city population of Ottawa, and the metropolitan population of Ottawa.
+
+The answer is based on the context, which states that as of 2016, Ottawa had a city population of 934,243.
+
+FINAL_ANSWER: The population of the city where Trim is located, as of 2016, was 934,243.",22.9
+121,The manager in which Mark Lazarus clashed with served as manager for the Wolverhampton Wanderers during which years?,1948 and 1964,"The question is asking for the years during which the manager who clashed with Mark Lazarus (not mentioned in the context) served as manager of Wolverhampton Wanderers.
+
+The relevant parts of the context are the information about Stan Cullis, who was the manager of Wolverhampton Wanderers during the time Gerard Patrick Mannion played for the club.
+
+The answer is based on the context, which states that Stan Cullis was the manager of Wolverhampton Wanderers between 1948 and 1964.
+
+FINAL_ANSWER: Stan Cullis served as manager of Wolverhampton Wanderers between 1948 and 1964.",32.3
+122,In which city did this world games take place when Squash was added as part of the world games?,"Lahti, Finland","The question is asking for the city where the World Games took place when Squash was added as part of the World Games.
+
+The relevant parts of the context are the information about the 1997 World Games and the addition of Squash as a sport.
+
+The answer is based on the fact that Squash was added as a sport at the 1997 World Games, and according to the context, the 1997 World Games were held in Lahti, Finland.
+
+FINAL_ANSWER: Lahti, Finland",24.0
+123,Are Latina and Entrepreneur both monthly publications?,no,"1. The question is asking whether Latina and Entrepreneur are both monthly publications.
+2. The relevant parts of the context are the descriptions of Latina magazine and the awards received by Christy Haubegger, as well as the information about CIO magazine.
+3. The context does not provide information about the frequency of publication for Entrepreneur, but it does mention that Latina magazine publishes 12 issues annually, which is not necessarily monthly.
+
+FINAL_ANSWER: No, Latina magazine is not a monthly publication.",16.8
+124,Are Lucie Šafářová and Pavel Složil both Czech tennis players?,yes,"The question is asking if Lucie Šafářová and Pavel Složil are both Czech tennis players.
+
+The relevant parts of the context are the descriptions of Lucie Šafářová and Pavel Složil, which state that they are from Czechoslovakia and Czech respectively.
+
+Based on this context, it can be concluded that Lucie Šafářová is a Czech tennis player, but Pavel Složil is from Czechoslovakia, not Czech.
+
+FINAL_ANSWER: Lucie Šafářová is a Czech tennis player, but Pavel Složil is not.",17.9
+125,What post apocalyptic action film based on a novel by Francis Lawrence was directoed by Neal H. Moritz?,I Am Legend,"1. The question is asking for a post-apocalyptic action film directed by Neal H. Moritz, based on a novel by Francis Lawrence.
+2. The relevant parts of the context are the information about the film ""Lawrence of Arabia"" and the mention of Francis Lawrence as a novelist.
+3. However, there is no information in the context about a post-apocalyptic action film directed by Neal H. Moritz, or a novel by Francis Lawrence that matches this description.
+
+FINAL_ANSWER: There is no information in the context to answer this question.",17.6
+126,Space Island One starred what English actress who is married to roy battersby,Judy Loe,"1. The question is asking for the English actress who played the role of Kathryn McTiernan in the film ""Space Island One"", which is not explicitly mentioned in the context, but rather ""One Summer Love"" is mentioned. However, the context does mention a co-production between Sky One and Vox, and a film titled ""One Summer Love"" starring Judy Loe. It can be inferred that the question is actually asking about Judy Loe.
+
+2. The relevant parts of the context are:
+- The co-production between the UK's Sky One channel and the German Vox channel.
+- The film ""One Summer Love"" starring Judy Loe as Kathryn McTiernan.
+
+3. Based on the context, Judy Loe is the English actress who starred in the film ""One Summer Love"", which is a co-production between Sky One and Vox.
+
+FINAL_ANSWER: Judy Loe",26.9
+127,Who directed a film that included Sarah Manninen?,Martha Coolidge,"The question is asking who directed a film that included Sarah Manninen.
+
+The relevant parts of the context are the information about Sarah Manninen and the film ""The Prince and Me"".
+
+The answer is Martha Coolidge, as she directed the film ""The Prince and Me"", which includes Sarah Manninen.
+
+FINAL_ANSWER: Martha Coolidge directed the film ""The Prince and Me"", which includes Sarah Manninen.",14.0
+128,How much money did the owner of the 165 acre drumlin or the mansion that sits on the hill donate to the construction fund for the Benjamin Stickney Cable Memorial Hospital?,"$145,000","The question is asking for the amount of money donated to the construction fund for the Benjamin Stickney Cable Memorial Hospital, but the context does not mention this hospital or any donation related to it.
+
+The relevant parts of the context are the information about Castle Hill, Frank Ellis Boynton, and the Biltmore Estate. However, none of this information is related to the Benjamin Stickney Cable Memorial Hospital or a donation to its construction fund.
+
+Therefore, the answer is that there is no information in the context about a donation to the construction fund for the Benjamin Stickney Cable Memorial Hospital.
+
+FINAL_ANSWER: There is no information in the context about a donation to the construction fund for the Benjamin Stickney Cable Memorial Hospital.",21.8
+129,Were James Lee Burke and William Faulkner from the same country?,yes,"The question is asking whether James Lee Burke and William Faulkner were from the same country.
+
+The relevant parts of the context are the biographical information about James Lee Burke and William Faulkner.
+
+The answer is based on the fact that William Faulkner was from Oxford, Mississippi, while James Lee Burke was from the United States, but the specific state is not mentioned.
+
+FINAL_ANSWER: No, they were not from the same country.",15.0
+130,Kentucky is located in a region of america which constitutes as what?,one of the nine Census Bureau Divisions,"The question is asking for the region in America that Kentucky is located in.
+
+The relevant parts of the context are the descriptions of the East South Central States and the Bluegrass region.
+
+The answer is based on the context, which states that Kentucky is located in the east south-central region of the United States.
+
+FINAL_ANSWER: Kentucky is located in the east south-central region of the United States.",13.3
+131,"270 Park Avenue and The Spiral, are located in which city?",New York City,"The question is asking for the location of 270 Park Avenue and The Spiral.
+
+The relevant parts of the context are the descriptions of 270 Park Avenue and The Spiral, which both mention being located in the Hudson Yards neighborhood of Manhattan, New York City.
+
+The answer is that 270 Park Avenue and The Spiral are located in Manhattan, New York City.
+
+FINAL_ANSWER: Manhattan, New York City.",14.1
+132,In what city is George Washington University Hospital and Psychiatric Institute of Washington located?,"Washington, D.C.","The question is asking for the city where George Washington University Hospital and Psychiatric Institute of Washington are located.
+
+The relevant parts of the context are the descriptions of each hospital, which all mention that they are located in Washington, D.C.
+
+Based on this, the answer is that George Washington University Hospital and Psychiatric Institute of Washington are both located in Washington, D.C.
+
+FINAL_ANSWER: Washington, D.C.",13.5
+133,Grazia and JJ are both what?,magazine,"The question is asking what both Grazia and JJ are.
+
+The relevant parts of the context are the descriptions of Grazia and JJ as magazines and JJ as a Japanese fashion and lifestyle magazine.
+
+Based on this, the answer is that both Grazia and JJ are magazines.
+
+FINAL_ANSWER: Both Grazia and JJ are magazines.",12.2
+134,Jeremy Theobald and Christoper Nolan share what profession?,producer,"1. The question is asking what profession Jeremy Theobald and Christopher Nolan share.
+2. The relevant parts of the context are the descriptions of Jeremy Theobald and Christopher Nolan.
+3. The answer is that they share the profession of acting, as Jeremy Theobald is described as a British actor and Christopher Nolan is described as a film director, producer, and screenwriter, all of which involve acting in the context of film.
+
+FINAL_ANSWER: They share the profession of acting.",16.8
+135," When was president of South Korea which  The Presidential Council on Nation Branding, Korea  lies under his direct control born ",24 January 1953,"The question is asking for the birth year of the President of South Korea under whose direct control the Presidential Council on Nation Branding, Korea lies.
+
+The relevant parts of the context are:
+- The information about Moon Jae-in, the current President of South Korea.
+- The fact that the Presidential Council on Nation Branding, Korea lies under the direct control of the President of South Korea.
+
+Based on this, the answer is that Moon Jae-in was born in 1953.
+
+FINAL_ANSWER: Moon Jae-in was born in 1953.",19.2
+136,"Danish ice hockey coach, Olaf Eller, is the father of Danish professional ice hockey player who was drafted by what team in the first round of the 2007 NHL Entry Draft?",St. Louis Blues,"The question is asking for the team that Lars Fosgaard Eller was drafted by in the first round of the 2007 NHL Entry Draft.
+
+The relevant parts of the context are the information about Lars Fosgaard Eller and the 2007 NHL Entry Draft.
+
+The answer is based on the context, which states that Lars Fosgaard Eller was drafted by the St. Louis Blues in the first round, 13th overall in the 2007 NHL Entry Draft.
+
+FINAL_ANSWER: The St. Louis Blues.",21.0
+137,In what show did Cynthia Nixon receive the 2004 Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series and a Screen Actors Guild Award for her performance?,Sex and the City,"The question is asking for the name of the show where Cynthia Nixon received the 2004 Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series and a Screen Actors Guild Award for her performance.
+
+The relevant parts of the context are the information about Cynthia Nixon's performance and awards, specifically her portrayal of Miranda Hobbes in the HBO series ""Sex and the City"".
+
+The answer is based on the context, which states that Cynthia Nixon received the awards for her performance in ""Sex and the City"".
+
+FINAL_ANSWER: Sex and the City",20.6
+138,"What is the stage name for actor who co-stared the 2016 film ""Train to Busan"" with Jung Yu-mi and Ma Dong-seok?",Gong Yoo,"The question is asking for the stage name of the actor who co-starred in the 2016 film ""Train to Busan"" with Jung Yu-mi and Ma Dong-seok.
+
+The relevant parts of the context are the descriptions of Gong Yoo, Kim Yool-ho, and Do Kyung-soo, as well as the information about the film ""Train to Busan"".
+
+The answer is based on the context, which states that Kim Yool-ho played the role of ""man in suit 2"" in ""Train to Busan"", but does not mention him as the main co-star. However, it does mention that Gong Yoo, Jung Yu-mi, and Ma Dong-seok starred in the film, but does not provide information on the co-star's stage name. The context does mention Do Kyung-soo, but it does not mention him as a co-star in ""Train to Busan"". However, it does mention that Do Kyung-soo played a lead role in a different film, and that he is a singer and actor. The context does not provide information on the co-star's stage name, but it does mention that Do Kyung-soo is also known by his stage name ""D.O."". Since the context does not provide information on the co-star's stage name, but does mention Do Kyung-soo's stage name, it can be inferred that the co-star is actually Do Kyung-soo, who is also known as D.O.
+
+FINAL_ANSWER: D.O.",46.5
+139,"The Domestic Violence Offender Gun Ban, is an amendment to the Omnibus Consolidated Appropriations Act of 1997, the act is often referred to as ""the Lautenberg Amendment"" after its sponsor, Senator Frank Lautenberg, was a United States Senator, and member of the Democratic Party, from which state?",New Jersey,"The question is asking for the state from which Senator Frank Lautenberg represented.
+
+The relevant parts of the context are the biographical information about Frank Lautenberg, specifically that he was a United States Senator from New Jersey.
+
+The answer is based on this information, which states that Frank Lautenberg was a United States Senator from New Jersey.
+
+FINAL_ANSWER: New Jersey",16.3
+140,"Which rocket propelled weapon, sometimes referred to as the ""Stovepipe,"" did Colonel Leslie Alfred Skinner help develop?",Bazooka,"The question is asking for the specific rocket-propelled weapon that Colonel Leslie Alfred Skinner helped develop.
+
+The relevant parts of the context are the descriptions of Hermann Oberth and the Bazooka, as well as the mention of the ""Stovepipe"" nickname for the Bazooka.
+
+Based on the context, it can be inferred that Colonel Leslie Alfred Skinner helped develop the Bazooka, which is sometimes referred to as the ""Stovepipe"".
+
+FINAL_ANSWER: Colonel Leslie Alfred Skinner helped develop the Bazooka.",19.6
+141,Lars Kristinus Larsen is the founder of the largest Danish retailer operating internationally with stores in how many countries?,41,"The question is asking for the number of countries where the largest Danish retailer operating internationally, founded by Lars Kristinus Larsen, has stores.
+
+The relevant parts of the context are the information about Jysk, the largest Danish retailer operating internationally, and its number of stores in other countries.
+
+The answer is based on the context, which states that Jysk has 2,300 stores in 41 countries.
+
+FINAL_ANSWER: Jysk has stores in 41 countries.",18.6
+142,Where is the headquarters of the company who launched the Fridge advertising campaign?,"London, England","The question is asking for the location of the headquarters of the company that launched the Fridge advertising campaign.
+
+The relevant parts of the context are the information about Diageo plc, which is the company that launched the Fridge advertising campaign.
+
+The answer is based on the context, which states that Diageo plc is a British multinational alcoholic beverages company with its headquarters in London, England.
+
+FINAL_ANSWER: London, England.",16.0
+143,In what year was Louis Joseph de Frances's mother born?,1755,"The question is asking for the birth year of Louis Joseph de France's mother, Marie Antoinette.
+
+The relevant parts of the context are the biographies of Marie Antoinette and Louis Joseph de France.
+
+The answer is based on the context, which states that Marie Antoinette was born on 2 November 1755.
+
+FINAL_ANSWER: 1755",14.9
+144,"The band who had the album ""Brujo"" came from what city?","San Francisco, California","The question is asking for the city where the band that released the album ""Brujo"" originated from.
+
+The relevant parts of the context are the first paragraph, which mentions that the band New Riders of the Purple Sage emerged from the psychedelic rock scene in San Francisco, California, in 1969.
+
+The answer is based on this context, which states that the band New Riders of the Purple Sage emerged from the psychedelic rock scene in San Francisco, California.
+
+FINAL_ANSWER: San Francisco, California.",17.8
+145,Which television channel had a show set at a location adjacent to Silverado Ranch?,Travel Channel,"1. The question is asking which television channel had a show set at a location adjacent to Silverado Ranch.
+2. The relevant parts of the context are the information about the History of Ranching mural and the show ""Bronco"" which is a Western series on ABC.
+3. The answer is based on the fact that the History of Ranching mural was located at the Pearl Brewery in San Antonio, Texas, which is adjacent to Silverado Ranch.
+
+FINAL_ANSWER: ABC",18.1
+146,What television adaptation contains a character who was also adapted into a 2005 superhero film?,Gotham,"The question is asking for a television adaptation that contains a character who was also adapted into a 2005 superhero film.
+
+The relevant parts of the context are the mention of the Justice League animated series, which is a television adaptation, and the 2005 superhero film ""Man of Steel"", which features the character Superman.
+
+The answer is based on the context, which states that the Justice League animated series is a direct sequel to the previous ""Justice League"" animated series, and that it features a wide array of superheroes from the DC Comics universe, including Superman. Since ""Man of Steel"" is a 2013 film, not a 2005 film, the correct answer is likely the 2001 animated series ""Justice League"", which is a direct sequel to the previous ""Justice League"" animated series.
+
+FINAL_ANSWER: The 2001 animated series ""Justice League"".",27.7
+147,"What site, popular among spring breakers, were also places were Jeopardy! Collect Championship contestant searches was held?","Daytona Beach, Florida","The question is asking for a site that was popular among spring breakers and where contestant searches for Jeopardy! Collect Championship were held.
+
+The relevant parts of the context are the descriptions of Spring break in Daytona Beach, Florida, and the contestant searches held in Daytona Beach, Florida, and Palm Springs, California.
+
+The answer is Daytona Beach, Florida, as it is mentioned as a location where contestant searches for Jeopardy! Collect Championship were held, and it is also described as a popular location for Spring break gatherings.
+
+FINAL_ANSWER: Daytona Beach, Florida.",18.8
+148,"The 2011 Copa del Rey was a specific type of rivalry, given this name to any match between which groups?",Real Madrid and FC Barcelona,"1. The question is asking about the specific type of rivalry given the name ""El Clásico"" to any match between which two groups.
+2. The relevant parts of the context are the description of ""El Clásico"" as the name given to any match between fierce rivals Real Madrid and FC Barcelona.
+3. The answer is based on the context, which states that ""El Clásico"" is the name given to any match between fierce rivals Real Madrid and FC Barcelona.
+
+FINAL_ANSWER: Real Madrid and FC Barcelona.",17.8
+149,"Youthquake is the second album by the British pop group Dead or Alive, released in May 1985, the album was their commercial breakthrough in Europe and the United States, due to which lead single, which was the song was the first UK number-one hit by the Stock Aitken Waterman production trio?",You Spin Me Round (Like a Record),"The question is asking for the lead single from Dead or Alive's album ""Youthquake"" that was the first UK number-one hit by the Stock Aitken Waterman production trio.
+
+The relevant parts of the context are the information about Dead or Alive's album ""Youthquake"", the song ""You Spin Me Round (Like a Record)"", and the fact that it was a UK number-one hit.
+
+The answer is based on the context, which states that ""You Spin Me Round (Like a Record)"" was the lead single from Dead or Alive's album ""Youthquake"" and was a UK number-one hit, making it the first hit by the Stock Aitken Waterman production trio.
+
+FINAL_ANSWER: ""You Spin Me Round (Like a Record)""",25.8
